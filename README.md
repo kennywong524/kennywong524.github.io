@@ -1,10 +1,10 @@
 # Data Science | Machine Learning | Operations Research
-### *Optimize* 
+### *Optimize.* 
 #### Technical Skills: Python, SQL, Java, MATLAB, Power BI
 
 ## Education
-- B.S. Industrial Engineering & Operations Research and Data Science
-- The University of California, Berkeley
+- B.S., Industrial Engineering & Operations Research | University of California, Berkeley (_May 2027_)
+- B.S., Data Science | University of California, Berkeley (_May 2027_)
 
 ## Work Experience
 **Incoming Data Analyst Intern @ Xcube.co (_May 2024 - Present_)**
@@ -35,7 +35,7 @@ Applied advanced data analysis and utilized **Pandas** to extract financial data
 
 Employed LSTM and linear regression to predict stock prices using data from Yahoo! Finance, with 85% accuracy. Conducted sentiment analysis on Elon Musk's tweets to gain insights on their influences on TSLA prices. Created a **Streamlit** dashboard to visualize stock prices, integrating prediction results for comprehensive insights.
 
-## Leadership
+## Leadership Positions
 ### Director of Programs & Events @ Institute of Industrial & System Engineers (IISE @ Berkeley)                                                                   
 - Coordinated 35+ events for 150+ attendees, boosting member engagement by 55%, fostering growth.
 - Managed cross-functional team to plan weekly events, fostering 250+ student and faculty relationships.
