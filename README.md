@@ -10,7 +10,8 @@
 
 ## Work Experience
 **Incoming Data Analyst Intern @ Xcube.co (_May 2024 - Present_)**
-- Develop a data-driven framework to conceptualize and optimize a portfolio of startups, utilizing advanced analytics and simulations to predict returns and inform strategic investment decisions.
+- Develop a data-driven framework to conceptualize and optimize a portfolio of Web3.0 startups
+- Work directly with the CEO and utilize advanced analytics & simulations to predict returns and inform strategic investment decisions.
 
 **AI & Ethics Research Assistant @ UC Berkeley Haas School of Business (_February 2024 – Present_)**
 - Consulted and refined emerging AI policies such as the White House’s Executive Order on the *“Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence”* under Berkeley professor David Evan Harris.
@@ -27,6 +28,10 @@ Utilize Python scripting and NLTK (Natural Language Toolkit) to perform sentimen
 - Evaluated the cost-effectiveness of potential suppliers, assessing their operations.
 
 ## Project
+### Collaborative & Content-Based Filtering Spotify Music Recommendation System
+
+Work In Progress
+
 ### Stock Market Exploratory Data Analysis
 [GitHub](https://github.com/kennywong524/Stock-Market-Prediction-ML-Project/tree/main)
 
