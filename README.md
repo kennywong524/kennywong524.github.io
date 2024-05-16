@@ -10,7 +10,7 @@
 
 ## Work Experience
 **Incoming Data Analyst Intern @ Xcube.co (_May 2024 - Present_)**
-- Develop a data-driven framework to conceptualize and optimize a portfolio of Web3.0 startups
+- Develop a data-driven framework to conceptualize and optimize a portfolio of Web3.0 startups.
 - Work directly with the CEO and utilize advanced analytics & simulations to predict returns and inform strategic investment decisions.
 
 **AI & Ethics Research Assistant @ UC Berkeley Haas School of Business (_February 2024 – Present_)**
