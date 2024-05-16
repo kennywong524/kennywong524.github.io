@@ -7,7 +7,6 @@
 *B.S., Data Science | University of California, Berkeley (_May 2027_)*
 
 ![Berkeley Engineering](/assets/engineering_logo.png)                       
-![Berkeley Logo](/assets/Seal_of_University_of_California,_Berkeley.svg.png)  
 
 ## Work Experience
 **Incoming Data Analyst Intern @ Xcube.co (_May 2024 - Present_)**
