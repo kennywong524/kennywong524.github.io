@@ -24,7 +24,7 @@ author:
   avatar           : "kenny_profile_pic.JPG"
   name             : "Kenny Wongchamcharoen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Science | Machine Learning | Operations Research"
   location         : "San Francisco, California"
   employer         : "University of California, Berkeley"
   uri              : # URL
@@ -55,9 +55,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/kenny_ptw/"
+  instagram        : "kenny_ptw"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/pattaraphon-kenny/"
+  linkedin         : "pattaraphon-kenny"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
