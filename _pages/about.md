@@ -1,49 +1,42 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋🏻 Welcome! I'm Kenny"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+🔌 Optimizing for a more efficient world!
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+👨🏻‍💻⚡ I'm a rising sophomore at Berkeley, majoring in **Industrial Engineering & Operations Research (IEOR)** with a minor in **Data Science** and **Electrical Engineering & Computer Sciences (EECS)**.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🧪🥼 My core academic interest lies in applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation. My research interest also lies in the intersection between AI and Ethics, which I pursue as an undergraduate researcher at [*UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor David Evan Harris, one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10). I also serve as a Director of Programs & Events for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+🇸🇬🇹🇭 Having spent 10+ years abroad, I possess a multicultural flexibility and awareness, as well as strong engineering and analytical acumen. In my free time, you can find me exploring the globe 🌍, hiking scenic trails, and hitting the tennis court 🎾!
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I hope this personal site gives you an overview of my professional work, ideas, experiences and projects. Please reach out to me if there's anything you would like to talk about!
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Selected Experiences
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## 📁 Internship
 
-**Markdown generator**
+I have experience working with [*GUESS Inc.*](https://www.guess.com/us/en/home/) (👖👚) as **Contract Consultant** to research key competitors, suppliers and formulated recommendations to expand GUESS’s market share in the eco-conscious fashion industry by 10% and reduce operational bottlenecks by 20%.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+💵💳 In partnership with [*FinTech Academy*](https://fin.edu.sg/) and [*KPMG*](https://kpmg.com/xx/en/home.html), I founded and organized the biggest, first-ever fintech case competition for high schoolers in Singapore which included producing videos and study guides for students and faculty members to learn more about financial technologies. I also co-edited [*“The FinTech Nation”*](https://www.fintechnation.io/), one of the first books about Singapore's financial technology journey.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+💻🎧 Moreover, as a **Technical Product Management Intern** at [*MENTOR Global Consultants*](https://mentor-gc.com/), I utilized *Python scripting & NLTK toolkits* to perform sentiment analysis on employee survey responses and create Simple Mail Transfer Protocol to automate email reminders for our client. You can find the GitHub Repository [here](https://github.com/kennywong524/Sentiment-Analysis-Radar-chart-demo-for-MENTOR).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## ✍🏻 Projects
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+📈🤖 My most robust project to date involves deep learning, model building and visualizing data. I employed *Long-Short Term Memory (LSTM) Recurrent Neural Network (RNN)* to predict stock prices, with 90% accuracy with the market. We also conducted sentiment analysis on *Elon Musk's tweets* to gain insights on their influences on TSLA prices 🚙. Ultimately, we created a dashboard using *Streamlit* to visualize stock prices and predictions, integrating sentiment analysis results for comprehensive insights.
+
+You can find the slide deck presentation [here](https://www.linkedin.com/in/pattaraphon-kenny/overlay/projects/950663997/multiple-media-viewer/?profileId=ACoAACRak44BPoSRL-hgunchqiR3_OhqQF8Grmg&treasuryMediaId=1713824399322) and GitHub Repository [here](https://github.com/kennywong524/Stock-Market-Prediction-ML-Project).
+
+I'm currently working on extracting *Spotify* songs data and building a hybrid recommendation system to suggest songs based on users' mood, favorite artists, and other features.
+
+### Technical Skills: Python, SQL, Java, MATLAB, Power BI
+
+
+
+
