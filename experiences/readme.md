@@ -10,7 +10,7 @@
 - Consulted and refined emerging AI policies such as the White House’s Executive Order on the [*“Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence*](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/) under Berkeley professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/).
 - Leveraged advanced coding schemas to annotate sources, interviews and analyze data to gain deeper insights into Open-source AI whitepaper and compare international AI laws.
 
-### 👔 Business Operations Consultant @ [UC Berkeley Student Affairs Information Technology](https://studenttech.berkeley.edu/home)
+### 👔 Business Operations Consultant @ [UC Berkeley Student Technology Services](https://studenttech.berkeley.edu/home)
 *January 2024 - Present*
 - Utilize data science techniques to analyze IT operational data and identify inefficiencies within the Berkeley campus. Manage and prioritize IT service tickets, ensuring timely resolution of issues by informing the Student Technology consultants.
 - Perform root cause analysis to uncover underlying issues in IT operations. Develop and maintain dashboards to monitor key performance indicators (KPIs) and operational metrics.
