@@ -18,7 +18,6 @@ redirect_from:
 I hope this personal site gives you an overview of my professional work, ideas, experiences and projects. Please reach out to me if there's anything you would like to talk about!
 
 # Selected Experiences
-
 ## 📁 Internship
 
 I have experience working with [*GUESS Inc.*](https://www.guess.com/us/en/home/) (👖👚) as **Contract Consultant** to research key competitors, suppliers and formulated recommendations to expand GUESS’s market share in the eco-conscious fashion industry by 10% and reduce operational bottlenecks by 20%.
