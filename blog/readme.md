@@ -1,6 +1,2 @@
----
-title: "🍪 Something is cooking"
----
-Stay tuned for more!
-
-Blogs coming up soon!
+## ✍🏻 I write for fun sometimes.
+Check out my blog on [Medium](https://medium.com/@kennywongchamcharoen)
