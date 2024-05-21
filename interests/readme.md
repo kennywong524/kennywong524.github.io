@@ -1,9 +1,4 @@
----
-permalink: /
-title: "👋🏻 Learn more about my hobbies"
-excerpt: "About me"
-author_profile: true
----
+# 🤙🏻 Hobbies
 🎙️ Outside of school, I love to sing with my indie Acapella group on campus, [**Artists in Resonance (AiR)**](https://www.instagram.com/artistsinresonance/). Check out some of our performances [here](https://www.youtube.com/@ArtistsInResonance/videos?themeRefresh=1). (shameless plug LOL)
 
 ✈️🎾 Apart from tennis, I also love travelling to different places and hike in my free time during golden hours. Check out some of my travel vlogs [here](https://www.youtube.com/@kennyw589).
