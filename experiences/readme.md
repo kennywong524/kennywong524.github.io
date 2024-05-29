@@ -17,8 +17,9 @@
 
 ### 📧 Technical Product Management Intern @ [MENTOR Global Consultant](https://mentor-gc.com/us)
 *January 2024 - April 2024*
-- Integrated AI with a 360-degree insight tool and developed a go-to-market strategy to monetize it, resulting in a 30% increase in data accuracy and a 20% reduction in processing time Utilize Python scripting and *NLTK (Natural Language Toolkit)* to perform sentiment analysis on over 1,000 employee survey responses, and generate personalized ​​reports with radar charts based on them.
-- Created *SMTP (Simple Mail Transfer Protocol)* using 🐍 Python’s *smtplib and schedule* library to automate email reminders, resulting in a 90% increase in survey completion rate.
+- Integrated AI with a 360-degree insight tool and developed a go-to-market strategy to monetize it, resulting in a 30% increase in data accuracy and a 20% reduction in processing time
+- Utilize Python scripting and *NLTK (Natural Language Toolkit)* to perform sentiment analysis on over 1,000 employee survey responses, and generate personalized ​​reports with radar charts based on them
+- Created *SMTP (Simple Mail Transfer Protocol)* using 🐍 Python’s *smtplib and schedule* library to automate email reminders, resulting in a 90% increase in survey completion rate
 - [View the GitHub Repository](https://github.com/kennywong524/Sentiment-Analysis-Radar-chart-demo-for-MENTOR/blob/main/Demo_real_time_insights.ipynb)
 
 ### ♻️ Strategy Consultant @ [GUESS Inc.](https://www.guess.com/us/en/home/) 
