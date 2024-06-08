@@ -30,3 +30,5 @@
 - The goal of this project is to enhance user experience by providing personalized music recommendations based on user preferences and listening patterns through the blend of both *collaborative and content-based filtering*.
 - View [the GitHub Repository](https://github.com/kennywong524/spotify-swipe-based-recommendation-system)
 
+### ✈️ Flight Status & Turbulence Prediction System (WIP)
+- Inspired by the recent trend of an increasingly prevalence of clear-air turbulences!!
