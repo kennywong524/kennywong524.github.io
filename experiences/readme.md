@@ -2,7 +2,7 @@
 ==============
 ### 📊 Product Development Intern @ [Xcube.co](https://www.xcube.co/)
 *May 2024 - Present*
-- Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *CVPE*, along with an ecosystem of Behavioral AI & SkillsTech startups.
+- Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *Corporate Venture Portfolio Equities (CVPE)*, along with an ecosystem of Behavioral AI & SkillsTech startups.
 - Utilize advanced analytics to analyze market trends, validate ideas and ML techniques to predict startups returns and inform strategic investment decisions.
 - [Learn more about Corporate Venture Portfolio Equity](https://e27.co/how-xcubes-cvpe-initiative-transforms-venture-capital-in-startups-20240509/)
 
