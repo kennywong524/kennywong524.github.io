@@ -1,9 +1,10 @@
 😃 Experiences
 ==============
-### 📊 Incoming Data Analyst Intern @ [Xcube.co](https://www.xcube.co/)
+### 📊 Product Development Intern @ [Xcube.co](https://www.xcube.co/)
 *May 2024 - Present*
-- Work directly with the CEO to develop a data-driven framework to conceptualize and optimize a portfolio of startups.
-- Utilize advanced analytics and *Monte Carlo* simulations to predict startups returns and inform strategic investment decisions.
+- Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *CVPE*, along with an ecosystem of Behavioral AI & SkillsTech startups.
+- Utilize advanced analytics to analyze market trends, validate ideas and ML techniques to predict startups returns and inform strategic investment decisions.
+- [Learn more about Corporate Venture Portfolio Equity](https://e27.co/how-xcubes-cvpe-initiative-transforms-venture-capital-in-startups-20240509/)
 
 ### 🤖 AI & Ethics Research Assistant @ [UC Berkeley Haas School of Business](https://haas.berkeley.edu/) 
 *February 2024 – Present*
