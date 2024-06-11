@@ -1,6 +1,6 @@
 😃 Experiences
 ==============
-### 📊 Product Development Intern @ [Xcube.co](https://www.xcube.co/)
+### 📊 Product Development & Analytics Intern @ [Xcube.co](https://www.xcube.co/)
 *May 2024 - Present*
 - Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *Corporate Venture Portfolio Equities (CVPE)*, along with an ecosystem of Behavioral AI & SkillsTech startups.
 - Utilize advanced analytics to analyze market trends, validate ideas and ML techniques to predict startups returns and inform strategic investment decisions.
