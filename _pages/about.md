@@ -25,11 +25,6 @@ redirect_from:
 
 👔 I have also worked for companies such as [GUESS? Inc.](https://www.guess.com/us/en/home/) and [Expedia Group](https://expediagroup.com/) to help drive data-driven decision-making and their strategic initiatives.
 
-## ✍🏻 Projects
-
-📈🤖 My most robust project to date involves deep learning, model building and visualizing data. I employed *Long-Short Term Memory (LSTM) Recurrent Neural Network (RNN)* to predict stock prices, with 90% accuracy with the market. We also conducted sentiment analysis on *Elon Musk's tweets* to gain insights on their influences on TSLA prices 🚙. Ultimately, we created a dashboard using *Streamlit* to visualize stock prices and predictions, integrating sentiment analysis results for comprehensive insights.
-
-You can find the slide deck presentation [here](https://www.linkedin.com/in/pattaraphon-kenny/overlay/projects/950663997/multiple-media-viewer/?profileId=ACoAACRak44BPoSRL-hgunchqiR3_OhqQF8Grmg&treasuryMediaId=1713824399322) and GitHub Repository [here](https://github.com/kennywong524/Stock-Market-Prediction-ML-Project).
 
 ### Technical Skills: Python, SQL, Java, MATLAB, Power BI
 
