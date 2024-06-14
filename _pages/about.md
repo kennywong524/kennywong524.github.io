@@ -15,16 +15,9 @@ redirect_from:
 
 🇸🇬🇹🇭 Having spent 10+ years abroad, I possess a multicultural flexibility and awareness, as well as strong engineering and analytical acumen. In my free time, you can find me exploring the globe 🌍, hiking scenic trails, and hitting the tennis court 🎾!
 
-I hope this personal site gives you an overview of my professional work, ideas, experiences and projects. Please reach out to me if there's anything you would like to talk about!
-
-# Selected Experiences
-## 📁 Internship
-
-I have experience working with [*GUESS Inc.*](https://www.guess.com/us/en/home/) (👖👚) as **Contract Consultant** to research key competitors, suppliers and formulated recommendations to expand GUESS’s market share in the eco-conscious fashion industry by 10% and reduce operational bottlenecks by 20%.
+## Selected Experiences
 
 💵💳 In partnership with [*FinTech Academy*](https://fin.edu.sg/) and [*KPMG*](https://kpmg.com/xx/en/home.html), I founded and organized the biggest, first-ever fintech case competition for high schoolers in Singapore which included producing videos and study guides for students and faculty members to learn more about financial technologies. I also co-edited [*“The FinTech Nation”*](https://www.fintechnation.io/), one of the first books about Singapore's financial technology journey.
-
-💻🎧 Moreover, as a **Technical Product Management Intern** at [*MENTOR Global Consultants*](https://mentor-gc.com/), I utilized *Python scripting & NLTK toolkits* to perform sentiment analysis on employee survey responses and create Simple Mail Transfer Protocol to automate email reminders for our client. You can find the GitHub Repository [here](https://github.com/kennywong524/Sentiment-Analysis-Radar-chart-demo-for-MENTOR).
 
 ## ✍🏻 Projects
 
@@ -32,9 +25,9 @@ I have experience working with [*GUESS Inc.*](https://www.guess.com/us/en/home/)
 
 You can find the slide deck presentation [here](https://www.linkedin.com/in/pattaraphon-kenny/overlay/projects/950663997/multiple-media-viewer/?profileId=ACoAACRak44BPoSRL-hgunchqiR3_OhqQF8Grmg&treasuryMediaId=1713824399322) and GitHub Repository [here](https://github.com/kennywong524/Stock-Market-Prediction-ML-Project).
 
-I'm currently working on extracting *Spotify* songs data and building a hybrid recommendation system to suggest songs based on users' mood, favorite artists, and other features.
-
 ### Technical Skills: Python, SQL, Java, MATLAB, Power BI
+
+I hope this personal site gives you an overview of my professional work, ideas, experiences and projects. Please reach out to me if there's anything you would like to talk about!
 
 
 
