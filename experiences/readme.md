@@ -1,7 +1,7 @@
 😃 Experiences
 ==============
 ### 🗺️ Competitive Intelligence Analyst Extern @ [Expedia Group](https://expediagroup.com/)
-
+*June 2024 - Present*
 - Analyze digital advertising trends in the travel industry, identifying emerging patterns and strategic opportunities.
 - Assess ad revenue, market share, and current/future tools and capabilities of Expedia Group in the digital advertising landscape.
 - Conduct in-depth competitive analysis of major players in the travel industry and develop strategic recommendations for areas of investment in the digital advertising space. 
