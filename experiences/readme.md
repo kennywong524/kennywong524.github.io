@@ -1,5 +1,11 @@
 😃 Experiences
 ==============
+### 🗺️ Competitive Intelligence Analyst Extern @ [Expedia Group](https://expediagroup.com/)
+
+- Analyze digital advertising trends in the travel industry, identifying emerging patterns and strategic opportunities.
+- Assess ad revenue, market share, and current/future tools and capabilities of Expedia Group in the digital advertising landscape.
+- Conduct in-depth competitive analysis of major players in the travel industry and develop strategic recommendations for areas of investment in the digital advertising space. 
+
 ### 📊 Product Development & Analytics Intern @ [Xcube.co](https://www.xcube.co/)
 *May 2024 - Present*
 - Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *Corporate Venture Portfolio Equities (CVPE)*, along with an ecosystem of Behavioral AI & SkillsTech startups.
