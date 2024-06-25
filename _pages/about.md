@@ -9,7 +9,7 @@ redirect_from:
 ---
 🔌 Optimizing for a more efficient world!
 
-👨🏻‍💻⚡ I'm a rising sophomore at the University of California, Berkeley, majoring in **Industrial Engineering & Operations Research (IEOR)** with a minor in **Data Science** and **Electrical Engineering & Computer Sciences (EECS)**.
+👨🏻‍💻⚡ I'm a rising sophomore at the [University of California, Berkeley](https://www.berkeley.edu/), majoring in **Industrial Engineering & Operations Research (IEOR)** with a minor in **Data Science** and **Electrical Engineering & Computer Sciences (EECS)**.
 
 🥼 My academic interest lies in applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation. 
 
