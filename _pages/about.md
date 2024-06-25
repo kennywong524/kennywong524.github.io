@@ -9,11 +9,11 @@ redirect_from:
 ---
 🔌 Optimizing for a more efficient world!
 
-👨🏻‍💻⚡ I'm a rising sophomore at Berkeley, majoring in **Industrial Engineering & Operations Research (IEOR)** with a minor in **Data Science** and **Electrical Engineering & Computer Sciences (EECS)**.
+👨🏻‍💻⚡ I'm a rising sophomore at the University of California, Berkeley, majoring in **Industrial Engineering & Operations Research (IEOR)** with a minor in **Data Science** and **Electrical Engineering & Computer Sciences (EECS)**.
 
 🥼 My academic interest lies in applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation. 
 
-🧪 My research interest lies in the intersection between AI and Ethics, which I pursue as an undergraduate researcher at [*UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor David Evan Harris, one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10). 
+🧪 My research interest lies in the intersection between AI and Ethics, which I pursue as an undergraduate researcher at [*UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
 
 👷🏻 I also serve as a Director of Programs & Events for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus.
 
@@ -23,7 +23,7 @@ redirect_from:
 
 💵💳 In partnership with [*FinTech Academy*](https://fin.edu.sg/) and [*KPMG*](https://kpmg.com/xx/en/home.html), I founded and organized the biggest, first-ever fintech case competition for high schoolers in Singapore. I also co-edited [*“The FinTech Nation”*](https://www.fintechnation.io/), one of the first books about Singapore's financial technology journey.
 
-👔 I have also worked for companies such as [GUESS? Inc.](https://www.guess.com/us/en/home/) and [Expedia Group](https://expediagroup.com/) to help drive data-driven decision-making and their strategic initiatives.
+👔 Industry wise, I have worked for companies such as [GUESS? Inc.](https://www.guess.com/us/en/home/) and [Expedia Group](https://expediagroup.com/) to help drive data-driven decision-making and their strategic initiatives.
 
 
 ### Technical Skills: Python, SQL, Java, MATLAB, Power BI
