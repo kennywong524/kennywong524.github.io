@@ -31,4 +31,4 @@
 - View [the GitHub Repository](https://github.com/kennywong524/spotify-swipe-based-recommendation-system)
 
 ### ✈️ Flight Status & Turbulence Prediction System (WIP)
-- Inspired by the recent trend of an increasingly prevalence of clear-air turbulences!!
+- Inspired by the recent trend of an increasing prevalence of clear-air turbulences!!
