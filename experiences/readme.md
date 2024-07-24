@@ -1,15 +1,23 @@
 😃 Experiences
 ==============
-### 🗺️ Competitive Intelligence Analyst Extern @ [Expedia Group](https://expediagroup.com/)
+
+### 🎧 Consumer Insights Data Analytics Extern @ [Beats By Dre](https://www.beatsbydre.com/us)
+*July 2024 - Present*
+- Utilize Python and its libraries to perform EDA and comprehensive sentiment analysis on consumer reviews to uncover underlying consumer behavior patterns and trends in Beats' feedback survey
+- Leverage advanced NLP tools and Gemini AI API to interpret and summarize Beat's customer feedback, increasing efficiency by 50%
+- Develop proficiency in data visualization tools to present insights that may inform strategic brand building through Tableau and Power BI
+
+### 🗺️ Competitive Intelligence Analytics Extern @ [Expedia Group](https://expediagroup.com/)
 *June 2024 - Present*
-- Analyze digital advertising trends in the travel industry, identifying emerging patterns and strategic opportunities.
-- Assess ad revenue, market share, and current/future tools and capabilities of Expedia Group in the digital advertising landscape.
-- Conduct in-depth competitive analysis of major players in the travel industry and develop strategic recommendations for areas of investment in the digital advertising space. 
+- Analyze digital advertising trends in the travel industry, identifying emerging patterns through comprehensive consumer insights and data analysis of Net Promoter Score (NPS) & monitoring performance relative to the competition
+- Assess ad revenue, market share, and current/future tools and capabilities of Expedia Group in the digital advertising landscape, leveraging Reporting Data and Management (RDM) for accurate reporting and dashboarding
+- Conduct in-depth competitive analysis of major players in the travel industry, utilizing consumer research and insights to develop strategic recommendations for areas of investment in the digital advertising space
 
 ### 📊 Product Development & Analytics Intern @ [Xcube.co](https://www.xcube.co/)
 *May 2024 - Present*
-- Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, *Corporate Venture Portfolio Equities (CVPE)*, along with an ecosystem of Behavioral AI & SkillsTech startups.
-- Utilize advanced analytics to analyze market trends, validate ideas and ML techniques to predict startups returns and inform strategic investment decisions.
+- Work directly with the CEO to develop, conceptualize, and optimize a proprietary asset class, Corporate Venture Portfolio Equities (CVPE), along with a synergistic ecosystem of new Behavioral AI & SkillTech startups
+- Employ advanced predictive analytics and Machine Learning modelling techniques to collect, analyze market data and forecast startups returns in order to inform strategic investment decisions through use cases and process flows
+- Perform data scraping from (Jobs Times) and professional networks to analyze skill gaps and emerging career trends, in order to develop and implement models to forecast job demands in the HR Tech industry with 80% accuracy
 - [Learn more about Corporate Venture Portfolio Equity](https://e27.co/how-xcubes-cvpe-initiative-transforms-venture-capital-in-startups-20240509/)
 
 ### 🤖 AI & Ethics Research Assistant @ [UC Berkeley Haas School of Business](https://haas.berkeley.edu/) 
