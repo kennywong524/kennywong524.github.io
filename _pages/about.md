@@ -15,7 +15,7 @@ redirect_from:
 
 🧪 My research interest lies in the intersection between Generative AI and Ethics, which I pursue as an undergraduate researcher at [*UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
 
-👷🏻 I also serve as the Director of Programs & Events for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus.
+👷🏻 I also serve as the Director of Programs & Events for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus. I will begin my role at Berkeley's Department of Data Science  as a tutor for CS88, an introductory CS class, next semester!
 
 🇸🇬🇹🇭 Having spent 10+ years abroad, I possess a multicultural flexibility and awareness, as well as strong engineering and analytical acumen. In my free time, you can find me exploring the globe 🌍, hiking scenic trails, and hitting the tennis court 🎾!
 
