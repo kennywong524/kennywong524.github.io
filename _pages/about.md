@@ -11,7 +11,7 @@ redirect_from:
 
 👨🏻‍💻⚡ I'm a rising sophomore at the [University of California, Berkeley](https://www.berkeley.edu/), majoring in **Industrial Engineering & Operations Research (IEOR)** and **Data Science** with a minor in **Electrical Engineering & Computer Sciences (EECS)**.
 
-🥼 My professional interests lie in **applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation**. 
+🥼 My professional interests lie in *applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation*. 
 
 🧪 My research interest lies in the intersection between **Generative AI and Ethics**, which I pursue as an undergraduate researcher at [***UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
 
