@@ -11,11 +11,11 @@ redirect_from:
 
 👨🏻‍💻⚡ I'm a rising sophomore at the [University of California, Berkeley](https://www.berkeley.edu/), majoring in **Industrial Engineering & Operations Research (IEOR)** and **Data Science** with a minor in **Electrical Engineering & Computer Sciences (EECS)**.
 
-🥼 My professional interests lie in applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation. 
+🥼 My professional interests lie in **applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation**. 
 
-🧪 My research interest lies in the intersection between Generative AI and Ethics, which I pursue as an undergraduate researcher at [***UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
+🧪 My research interest lies in the intersection between **Generative AI and Ethics**, which I pursue as an undergraduate researcher at [***UC Berkeley Haas School of Business*](https://haas.berkeley.edu/) under Professor [*David Evan Harris*](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
 
-👷🏻 I also serve as the Director of Programs & Events for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus. I will begin my role at [*Berkeley's College of Computing, Data Science, and Society (CDSS)*](https://cdss.berkeley.edu/)  as a tutor for *CS 88 (Computational Structures in Data Science)*, next semester!
+👷🏻 I also serve as the **Director of Programs & Events** for the Berkeley chapter of the [*Institute of Industrial & Systems Engineers (IISE)*](https://iise.berkeley.edu/), the biggest student organization for IEOR majors on campus. I will begin my role at [*Berkeley's College of Computing, Data Science, and Society (CDSS)*](https://cdss.berkeley.edu/)  as a tutor for **CS 88 (Computational Structures in Data Science)**, next semester!
 
 🇸🇬🇹🇭 Having spent 10+ years abroad, I possess a multicultural flexibility and awareness, as well as strong engineering and analytical acumen. In my free time, you can find me exploring the globe 🌍, hiking scenic trails, and hitting the tennis court 🎾!
 
