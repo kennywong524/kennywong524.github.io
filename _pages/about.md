@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://scet.berkeley.edu/wp-content/uploads/2ColorPrimary_BE_Formal_Stacked_PRINT_CMYK.png" alt="berkeley eng logo" width="200" style="margin: 20px;"/> 
+  <img src="https://scet.berkeley.edu/wp-content/uploads/2ColorPrimary_BE_Formal_Stacked_PRINT_CMYK.png" alt="berkeley eng logo" width="300" style="margin: 20px;"/> 
 </div>
 
 🔌 Optimizing for a more efficient world!
