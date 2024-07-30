@@ -9,12 +9,12 @@ redirect_from:
 ---
 🔌 Optimizing for a more efficient world!
 
-👨🏻‍💻⚡ I'm a rising sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science with a minor in Electrical Engineering & Computer Sciences (EECS).
-
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRux_2XybpDHwff5GYHwFH2xm65yffxM1P2Hg&s" alt="berkeley eng logo" width="200"/>
   <img src="https://pbs.twimg.com/profile_images/1659320044860624896/vn6M4Dyv_400x400.jpg" alt="berkeley cdss logo" width="200"/>
 </div>
+
+👨🏻‍💻⚡ I'm a rising sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science with a minor in Electrical Engineering & Computer Sciences (EECS).
 
 🥼 My professional interests lie in *applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation*. 
 
