@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🔌 Optimizing for a more efficient world!
-
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRux_2XybpDHwff5GYHwFH2xm65yffxM1P2Hg&s" alt="berkeley eng logo" width="200"/>
-  <img src="https://pbs.twimg.com/profile_images/1659320044860624896/vn6M4Dyv_400x400.jpg" alt="berkeley cdss logo" width="200"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://scet.berkeley.edu/wp-content/uploads/2ColorPrimary_BE_Formal_Stacked_PRINT_CMYK.png" alt="berkeley eng logo" width="200" style="margin: 20px;"/> 
 </div>
+
+🔌 Optimizing for a more efficient world!
 
 👨🏻‍💻⚡ I'm a rising sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science with a minor in Electrical Engineering & Computer Sciences (EECS).
 
