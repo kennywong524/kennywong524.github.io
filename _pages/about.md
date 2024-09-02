@@ -17,7 +17,7 @@ redirect_from:
 
 🥼 My professional interests lie in *applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation*. 
 
-🧪 My research interest lies in the intersection between Generative AI and Ethics, which I pursue as an undergraduate researcher at [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/) under Professor [**David Evan Harris**](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10).
+🧪 My research interest lies in the intersection between Generative AI and Ethics, which I pursued as an undergraduate researcher at [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/) under Professor [**David Evan Harris**](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10). I also have a privilege to currently work with Professor [**Chiwei Yan**](https://yanchiwei.github.io/) under the IEOR Department at Berkeley Engineering to develop and enhance shared rides pricing and matching algorithms, as well as learning resources.
 
 🧐 I also love teaching! I will begin my role at [**Berkeley IEOR**](https://ieor.berkeley.edu/) as an undergraduate reader for *IEOR 120: Principles of Engineering Economics* and at [**Berkeley's College of Computing, Data Science, and Society (CDSS)**](https://cdss.berkeley.edu/)  as an undergraduate tutor for [CS 88: Computational Structures in Data Science](https://c88c.org/fa24/), for fall 2024.
 
