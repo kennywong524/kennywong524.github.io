@@ -51,8 +51,8 @@
 ### 🤖 AI & Ethics Research under Prof. [David Evan Harris](https://haas.berkeley.edu/faculty/harris-david/), Haas School of Business
 - I  had a privilege of collaborating one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10) to explore Generative AI & Ethics.
 
-### Dynamic & Shared Ride Pricing & Matching under [Prof. Yan Chiwei](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), IEOR Department, UC Berkeley College of Engineering
+### 🚕 Dynamic & Shared Ride Pricing & Matching under [Prof. Yan Chiwei](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), IEOR Department, UC Berkeley College of Engineering
 - I am working on developing and enhancing shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase.
 
-### Rapid OpenStreetMap & Open Source Data under Prof. [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Data Innovation Lab, Haas School of Business
+### 🗺️ Rapid OpenStreetMap & Open Source Data under Prof. [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Data Innovation Lab, Haas School of Business
 - Established in July 2021, the Data Innovation Lab serves as an integrated environment for research in the area of innovation economics and management. We are particularly interested in understanding how we can leverage and comprehend the role of the data and AI revolution in shaping innovation, entrepreneurship and creativity at the individual, firm and societal level. 
