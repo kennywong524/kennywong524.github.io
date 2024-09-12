@@ -55,4 +55,4 @@
 - I am working on developing and enhancing shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase.
 
 ### 🗺️ Rapid OpenStreetMap & Open Source Data under Prof. [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Data Innovation Lab, Haas School of Business
-- Established in July 2021, the Data Innovation Lab serves as an integrated environment for research in the area of innovation economics and management. We are particularly interested in understanding how we can leverage and comprehend the role of the data and AI revolution in shaping innovation, entrepreneurship and creativity at the individual, firm and societal level. 
+- Established in July 2021, [the Data Innovation Lab](https://www.abhishekn.com/about-lab) serves as an integrated environment for research in the area of innovation economics and management. We are particularly interested in understanding how we can leverage and comprehend the role of the data and AI revolution in shaping innovation, entrepreneurship and creativity at the individual, firm and societal level. 
