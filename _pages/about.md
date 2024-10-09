@@ -13,9 +13,9 @@ redirect_from:
 
 🔌 Optimizing for a more efficient world!
 
-👨🏻‍💻⚡ I'm a sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science with a minor in Computer Science.
+👨🏻‍💻⚡ I'm a sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science.
 
-🥼 My professional interests lie in *applied AI & ML models, predictive analytics in revenue management, financial engineering, and process optimization & automation*. 
+🥼 My professional interests lie in *applied AI & ML, Data analytics & Optimization, financial engineering, and process automation*. 
 
 🧪 My research interest lies in the intersection between Data Analytics and Operations Research. I am currently working with Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/) to develop and enhance shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase. I also had a privilege of collaborating with Professor [**David Evan Harris**](https://haas.berkeley.edu/faculty/harris-david/), one of the top 100 influential figures in AI by the [*Business Insider*](https://www.businessinsider.com/the-ai-100-2023-the-people-who-make-ai-intelligent-2023-10), at [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/) to explore Generative AI & Ethics.
 
