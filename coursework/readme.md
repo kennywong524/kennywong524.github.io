@@ -8,6 +8,7 @@
 2. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
 3. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
 4. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
+5. IEOR 142A: Machine Learning & Data Analytics I
 
 **⏳ Optimization/Probability**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
@@ -15,6 +16,8 @@
 3. IEOR 172: Probability and Risk Analysis
 4. IEOR 160: Nonlinear and Discrete Optimization
 5. IEOR 162: Linear Programming & Network Flows
+6. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+7. IEOR 173: Introduction to Stochastic Processes
 
 **💶 Business/Economics**
 1. ECON 2: Introduction to Economics
