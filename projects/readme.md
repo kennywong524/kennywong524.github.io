@@ -17,6 +17,19 @@
 
 *Skills: Deep Learning · Long Short-term Memory (LSTM) · Recurrent Neural Networks (RNN) · Sentiment Analysis · Machine Learning · Dashboarding*
 
+### 👾 2-D Tile-based World Generator
+- Designed and implemented a randomly generated 2D tile-based world exploration engine taking in user-inputted seeds with integrated avatar interactivity and scalable features
+- Developed a dynamic route feature, which deployed monsters on certain tiles and displayed paths from them to the user, enhancing the user’s ability to choose the optimal pathway.
+- Implemented A “Heads Up Display” (HUD) that provides additional information that maybe useful to the user. At the bare minimum, this should include Text that describes the tile currently under the mouse pointer.
+
+*Skills: Java · Data Structures & Algorithms*
+
+### 📧 Spam Email Classifier using Logistic Regression
+- Built a Spam Email Classifier utilizing linear regression and logistic regression models, employing GridSearchCV for hyperparameter tuning to optimize model performance and One hot encoding feature engineering to improve predictive accuracy
+- Obtained a model accuracy to 90% using the test set; achieved an AUC of 85%
+
+*Skills: Python · Pandas · EDA · Jupyter Notebook · GridSearchCV · OHE · Feature Engineering · Seaborn · NumPy*
+
 ### 🍿 Movie Classification with Machine Learning
 - This is my first data science project using the [*datascience*](https://www.data8.org/datascience/) package, the proprietary Python library developed by UC Berkeley.
 - Built a *k-nearest-neighbors algorithm* which classifies movie genre based on the number of times chosen words appear in the screenplay.
@@ -30,5 +43,5 @@
 - The goal of this project is to enhance user experience by providing personalized music recommendations based on user preferences and listening patterns through the blend of both *collaborative and content-based filtering*.
 - View [the GitHub Repository](https://github.com/kennywong524/spotify-swipe-based-recommendation-system)
 
-### ✈️ Flight Status & Turbulence Prediction System (WIP)
-- Inspired by the recent trend of an increasing prevalence of clear-air turbulences!!
+### ✈️ Optimizing navigation routes based on safety & crime index (WIP)
+- Inspired by the recent trend of an increasing prevalence of crimes in Berkeley
