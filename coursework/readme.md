@@ -13,12 +13,12 @@
 **⏳ Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
-3. IEOR 172: Probability and Risk Analysis
-4. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
-5. IEOR 162: Linear Programming & Network Flows
-6. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
-7. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
-8. IEOR 166: Decision Analytics
+3. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
+4. IEOR 162: Linear Programming & Network Flows
+5. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
+6. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+7. IEOR 166: Decision Analytics
+8. IEOR 172: Probability and Risk Analysis
 9. IEOR 173: Introduction to Stochastic Processes
 
 **💶 Business & Economics**
