@@ -18,7 +18,8 @@
 5. IEOR 162: Linear Programming & Network Flows
 6. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
 7. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
-8. IEOR 173: Introduction to Stochastic Processes
+8. IEOR 166: Decision Analytics
+9. IEOR 173: Introduction to Stochastic Processes
 
 **💶 Business & Economics**
 1. ECON 2: Introduction to Economics
