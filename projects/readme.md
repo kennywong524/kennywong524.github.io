@@ -21,12 +21,14 @@
 - Designed and implemented a randomly generated 2D tile-based world exploration engine taking in user-inputted seeds with integrated avatar interactivity and scalable features
 - Developed a dynamic route feature, which deployed monsters on certain tiles and displayed paths from them to the user, enhancing the user’s ability to choose the optimal pathway.
 - Implemented A “Heads Up Display” (HUD) that provides additional information that maybe useful to the user. At the bare minimum, this should include Text that describes the tile currently under the mouse pointer.
+- [View the GitHub Repository](https://github.com/kennywong524/2dworldgenerator)
 
 *Skills: Java · Data Structures & Algorithms*
 
 ### 📧 Spam Email Classifier using Logistic Regression
 - Built a Spam Email Classifier utilizing linear regression and logistic regression models, employing GridSearchCV for hyperparameter tuning to optimize model performance and One hot encoding feature engineering to improve predictive accuracy
 - Obtained a model accuracy to 90% using the test set; achieved an AUC of 85%
+- [View the GitHub Repository](https://github.com/kennywong524/spamclassifier)
 
 *Skills: Python · Pandas · EDA · Jupyter Notebook · GridSearchCV · OHE · Feature Engineering · Seaborn · NumPy*
 
