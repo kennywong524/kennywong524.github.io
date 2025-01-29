@@ -15,7 +15,7 @@ redirect_from:
 
 👨🏻‍💻⚡ I'm a sophomore at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and Data Science.
 
-🥼 My professional interests lie in applied AI & ML, Data analytics & Optimization, and their applications in transporation systems, supply chain, and finance.
+🥼 My professional interests lie in applied AI & ML, optimization, and their applications in transportation systems, supply chain, and finance.
 
 🧪 My research interest lies in the intersection between Data Analytics and Operations Research. I am currently working with Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/) to develop and enhance shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase. I also have a privilege of collaborating with Professor [**Abishek Nagaraj**]([https://haas.berkeley.edu/faculty/nagaraj-abhishek/]), at [**Data Innovation Lab**](https://www.abhishekn.com/about-lab), [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/) to explore Human Computer Interaction and Open Source Contribution productivity in the context of LLMs.
 
