@@ -8,7 +8,8 @@
 2. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
 3. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
 4. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
-5. IEOR 142A: Machine Learning & Data Analytics I
+5. CS198: Introduction to Full Stack Development
+6. IEOR 142A: Machine Learning & Data Analytics I
 
 **⏳ Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
