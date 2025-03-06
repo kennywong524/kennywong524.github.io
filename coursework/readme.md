@@ -8,19 +8,18 @@
 2. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
 3. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
 4. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
-5. CS 198: Introduction to Full Stack Development
-6. IEOR 142A: Machine Learning & Data Analytics I
+5. IEOR 142A: Machine Learning & Data Analytics I
+6. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
 
 **⏳ Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
 3. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
 4. IEOR 162: Linear Programming & Network Flows
-5. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
-6. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
-7. IEOR 166: Decision Analytics
-8. IEOR 172: Probability and Risk Analysis
-9. IEOR 173: Introduction to Stochastic Processes
+5. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+6. IEOR 166: Decision Analytics
+7. IEOR 172: Probability and Risk Analysis
+8. IEOR 173: Introduction to Stochastic Processes
 
 **💶 Business & Economics**
 1. ECON 2: Introduction to Economics
