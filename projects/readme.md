@@ -1,7 +1,7 @@
 # 🛠️ Projects
 
 
-### 1st Runner-Up for 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Science Summit Case Competition
+### 📈 1st Runner-Up for 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Science Summit Case Competition
 - Developed a Mixed-Integer Linear Programming (MILP) approach to optimize options’ exposure and premium PnL over a trading horizon; Won 2nd place & $600
 - [View the GitHub Repository & Final report](https://github.com/Qamil-Mirza/badss-2025-options-alpha-strategy/tree/main)
 
