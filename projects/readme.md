@@ -1,5 +1,10 @@
 # 🛠️ Projects
 
+
+### 1st Runner-Up for 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Science Summit Case Competition
+- Developed a Mixed-Integer Linear Programming (MILP) approach to optimize options’ exposure and premium PnL over a trading horizon; Won 2nd place & $600
+- [View the GitHub Repository & Final report](https://github.com/Qamil-Mirza/badss-2025-options-alpha-strategy/tree/main)
+
 ### 🏦 Stock Market Analysis for Bank of America, CitiGroup, Goldman Sachs, JPMorgan, Morgan Stanley, and Wells Fargo
 - Applied advanced data analysis and utilized Pandas to extract financial data from [*Google Finance API*](https://support.google.com/docs/answer/3093281?hl=en).
 - Conducted *Exploratory Data Analysis (EDA)* to identify key events including market crashes and stock splits.
