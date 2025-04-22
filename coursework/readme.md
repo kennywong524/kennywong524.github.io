@@ -19,10 +19,9 @@
 5. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
 6. IEOR 162: Linear Programming & Network Flows
 7. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
-8. IEOR 166: Decision Analytics
-9. IEOR 172: Probability and Risk Analysis
-10. IEOR 173: Introduction to Stochastic Processes
-11. IEOR 174: Simulation for Enterprise-Scale Systems
+8. IEOR 172: Probability and Risk Analysis
+9. IEOR 173: Introduction to Stochastic Processes
+10. IEOR 174: Simulation for Enterprise-Scale Systems
 
 **💶 Applied Economics & Business Analytics**
 1. ECON 2: Introduction to Economics
