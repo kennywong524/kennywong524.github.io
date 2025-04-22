@@ -1,7 +1,8 @@
 # 📖 Relevant classes
 
 ## Classes I took at Berkeley
-*Pursuing a [SCET Certificate in Entrepreneurship and Technology](https://scet.berkeley.edu/)*
+
+*Dean’s List & Honors To Date – Fall '23, Spring '24, Fall '24, Spring '25*
 
 **👨🏻‍💻 Computer & Data Science**
 1. [DATA 8: Foundations of Data Science (Statistics)](https://www.data8.org/)
@@ -14,18 +15,23 @@
 **⏳ Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
-3. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
-4. IEOR 162: Linear Programming & Network Flows
-5. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
-6. IEOR 166: Decision Analytics
-7. IEOR 172: Probability and Risk Analysis
-8. IEOR 173: Introduction to Stochastic Processes
+3. MATH 110: Abstract Linear Algebra
+5. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
+6. IEOR 162: Linear Programming & Network Flows
+7. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
+8. IEOR 166: Decision Analytics
+9. IEOR 172: Probability and Risk Analysis
+10. IEOR 173: Introduction to Stochastic Processes
+11. IEOR 174: Simulation for Enterprise-Scale Systems
 
-**💶 Business & Economics**
+**💶 Applied Economics & Business Analytics**
 1. ECON 2: Introduction to Economics
 2. UGBA 10: Principles of Business
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance
+5. IEOR 145: Fundamentals of Revenue Management
+6. IEOR 166: Decision Analytics
+
 
 ## Classes I taught at Berkeley
 
