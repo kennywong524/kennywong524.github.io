@@ -1,4 +1,3 @@
-# 📖 Relevant classes
 
 ## Classes I took at Berkeley
 
