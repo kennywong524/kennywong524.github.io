@@ -5,11 +5,12 @@
 
 **👨🏻‍💻 Computer & Data Science**
 1. [DATA 8: Foundations of Data Science (Statistics)](https://www.data8.org/)
-2. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
-3. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
-4. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
-5. IEOR 142A: Machine Learning & Data Analytics I
-6. IEOR 164: Introduction to Optimization Modeling (Pyomo & Gurobi)
+2. JOURN 124: Data Journalism
+3. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
+4. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
+5. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
+6. IEOR 142A: Machine Learning & Data Analytics I
+7. IEOR 164: Introduction to Optimization Modeling (Pyomo)
 
 **⏳ Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
