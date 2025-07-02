@@ -3,7 +3,7 @@
 
 *Dean’s List & Honors To Date – Fall '23, Spring '24, Fall '24, Spring '25*
 
-**👨🏻‍💻 Computer & Data Science**
+**Computer & Data Science**
 1. [DATA 8: Foundations of Data Science (Statistics)](https://www.data8.org/)
 2. JOURN 124: Data Journalism
 3. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
@@ -12,7 +12,7 @@
 6. IEOR 142A: Machine Learning & Data Analytics I
 7. IEOR 164: Introduction to Optimization Modeling (Pyomo)
 
-**⏳ Operations Research & Mathematics**
+**Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
 3. MATH 110: Abstract Linear Algebra
@@ -23,7 +23,7 @@
 9. IEOR 173: Introduction to Stochastic Processes
 10. IEOR 174: Simulation for Enterprise-Scale Systems
 
-**💶 Applied Economics & Business Analytics**
+**Applied Economics & Business Analytics**
 1. ECON 2: Introduction to Economics
 2. UGBA 10: Principles of Business
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
