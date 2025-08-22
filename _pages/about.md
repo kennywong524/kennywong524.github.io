@@ -17,5 +17,5 @@ This summer, I am a visiting research fellow at [**Columbia Business School**](h
 
 At Berkeley, I am currently working with Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/) to develop and enhance shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase. I also have a privilege of working under Professor [**Abishek Nagaraj**](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), at [**Data Innovation Lab**](https://thedatainnovationlab.com/), [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/) to explore Human Computer Interaction and productivity after the emergence of AI tools in open source platforms.
 
-A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/19Z86LxunM7YsAdgqF7bgsiYdxgFcNA7X/view?usp=sharing).
+A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/1erm6eOZPcwKKqtY5fH9h-8UIBjgrZkto/view?usp=sharing).
 
