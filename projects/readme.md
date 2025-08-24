@@ -1,4 +1,4 @@
-# 🛠️ Projects
+# Projects
 
 ### Delay-Aware Flight Routes Optimization & Prediction
 - Inspired by the “Predict-Then-Optimize” framework, I used gradient boosting & random forest algorithms to predict delay time for each airline, destination pair, then feed it into a single-stage stochastic program we formulated to suggest the optimal route with minimal delay-to-cost ratio
