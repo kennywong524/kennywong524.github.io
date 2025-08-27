@@ -19,5 +19,5 @@ At Berkeley, I am fortunate to work with and be advised by Professor [**Chiwei Y
 
 I love being outdoor: hiking the [Columbia River Gorge Waterfalls](https://drive.google.com/file/d/1FHQTwDUoByfMALZF_voISsyeZZgYFGMX/view?usp=sharing) in Oregon, running the [Central Park Loop](https://drive.google.com/file/d/1wwBYRMOQZMrw8VbnTr5QRI58awod7uAX/view?usp=sharing) in New York, and watching the daily [California Sunset](https://drive.google.com/file/d/1c3r-572HvjX8nyTydSRLMGhnvlq8lkCb/view?usp=sharing) in Berkeley are some of my all-time favorites! (Follow me on [Strava](https://www.strava.com/athletes/174517136)) I'm also a big music fan; I regularly sing, play the piano and guitar with my acapella group on campus.
 
-A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/1erm6eOZPcwKKqtY5fH9h-8UIBjgrZkto/view?usp=sharing).
+A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/1ICu2v3LNpDwLzWrhqkP0YRNXIiFa3RjM/view?usp=sharing).
 
