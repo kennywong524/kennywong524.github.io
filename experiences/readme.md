@@ -6,7 +6,12 @@ Experiences
 
 ### Preprints
 Do Large Language Models understand chronology?                                                                                                                                                                                                                                                                                                 
-Paul Glasserman, **Pattaraphon Kenny Wongchamcharoen**                                          
+**Wongchamcharoen, P. K.**, Glasserman P.                                         
+*Under Review*
+
+### Contributions as an RA
+Calyber: A Ridesharing Game.                                    
+Shen, Y., Yan, C. and Yan, J.        
 *Under Review*
 
 ## Research Experiences
