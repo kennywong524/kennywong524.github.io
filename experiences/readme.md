@@ -16,7 +16,7 @@ Shen, Y., Yan, C. and Yan, J.
 
 ## Research Experiences
 
-Please refer to my [CV](https://drive.google.com/file/d/1ICu2v3LNpDwLzWrhqkP0YRNXIiFa3RjM/view?usp=sharing) for more detailed and complete research assistantships & publications.
+Please refer to my [CV](https://drive.google.com/file/d/1fdWeXIC-XLHY51RevNgnlv_0qMlrCOMv/view?usp=sharing) for more detailed and complete research assistantships & publications.
 
 ### LLMs & Chronology [Prof. Paul Glasserman](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), Columbia Business School - Decisions, Risks, and Operations Division
 - Selected as one of 15 interns out of 1000+ applications, I built and deployed a full experimental pipeline in Python, leveraging GPT-4.1 and other LLMs APIs to simulate
