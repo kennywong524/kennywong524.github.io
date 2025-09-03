@@ -23,11 +23,11 @@ Please refer to my [CV](https://drive.google.com/file/d/1fdWeXIC-XLHY51RevNgnlv_
 event ordering tasks and evaluate LLMs’ chronological reasoning ability at scale.
 - I also developed a robust evaluation framework to compare different large reasoning models (GPT-o3, Claude Sonnet 3.7) using metrics such as Kendall’s Tau, with findings forming a basis for a potential publication.
 
-### Dynamic & Shared Ride Pricing & Matching under [Prof. Yan Chiwei](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), IEOR Department, UC Berkeley College of Engineering
+### Dynamic & Shared Ride Pricing & Matching under [Prof. Chiwei Yan](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), IEOR Department, UC Berkeley College of Engineering
 - I am working on developing and enhancing shared rides pricing and matching algorithms, as well as optimizing supply chain games codebase.
 - Currently, exploring the effect of ridesharing platforms' features launches on drivers' propensity to 'strategize' and 'game' the system to maximize their earnings.
 
-### Rapid OpenStreetMap & Open Source Data under Prof. [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Data Innovation Lab, Haas School of Business
+### Rapid OpenStreetMap & Open Source Data under [Prof. Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), Data Innovation Lab, Haas School of Business
 - Established in July 2021, [the Data Innovation Lab](https://www.abhishekn.com/about-lab) serves as an integrated environment for research in the area of innovation economics and management. We are particularly interested in understanding how we can leverage and comprehend the role of the data and AI revolution in shaping innovation, entrepreneurship and creativity at the individual, firm and societal level.
 
 ### AI & Ethics Research under Prof. [David Evan Harris](https://haas.berkeley.edu/faculty/harris-david/), Haas School of Business
