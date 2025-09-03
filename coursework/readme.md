@@ -40,8 +40,11 @@
 
 - This course introduces students to key techniques in machine learning and data analytics through a diverse set of examples using real datasets from domains such as e-commerce, healthcare, social media, finance, the Internet, and more. Through these examples, conceptual exercises, data analysis exercises in Python, and a comprehensive team project, students will gain experience understanding and applying techniques such as linear regression, logistic regression, classification and regression trees, random forests, boosting, text mining, data cleaning and manipulation, data visualization, time series modeling, clustering, principal component analysis, regularization, and large-scale learning with neural networks.
 
-2. CS61A Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/)
+2. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/)
+- Helping Berkeley Engineering undergrads with MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53 (Multivariable Calculus), MATH 54 (Linear Algebrea & Differential Equations), CS 61A (The Structures and Intepretation of Computer Programs), IEOR 160 (Non-linear and Discrete Optimization), IEOR 162 (Linear Programming & Network Flows)
+
 3. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area
+- Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/)
 
 **Spring 2025**
 
