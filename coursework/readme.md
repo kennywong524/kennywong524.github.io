@@ -25,12 +25,12 @@
 9. IEOR 173: Introduction to Stochastic Processes
 10. IEOR 174: Simulation for Enterprise-Scale Systems
 
-**Applied Economics & Business Analytics**
+**Applied Economics**
 1. ECON 2: Introduction to Economics
 2. UGBA 10: Principles of Business
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance
-6. IEOR 166: Decision Analytics
+6. IEOR 166: Decision Theory and Analytics
 
 
 ## Classes I taught at Berkeley
