@@ -5,17 +5,19 @@
 
 **Computer & Data Science**
 1. [DATA 8: Foundations of Data Science (Statistics)](https://www.data8.org/)
-2. JOURN 124: Data Journalism
+2. ENGIN 7: Introduction to Computer Programming and Numerical Methods 
 3. [DATA 100: Principles & Techniques of Data Science (Pandas & Basic ML)](https://ds100.org/)
-4. [CS 61A: Introduction to CS (Python & SQL)](https://cs61a.org/)
+4. [CS 61A: The Structures and Interpretation of Computer Programs (Python & SQL)](https://cs61a.org/)
 5. [CS 61B: Data Structures & Algorithms (Java)](https://sp24.datastructur.es/)
 6. IEOR 142A: Machine Learning & Data Analytics I
-7. IEOR 164: Introduction to Optimization Modeling (Pyomo)
+7. IEOR 164: Introduction to Optimization Modeling
+8. JOURN 124: Data Journalism
 
 **Operations Research & Mathematics**
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
 3. MATH 110: Abstract Linear Algebra
+4. IEOR 145: Fundamentals of Revenue Management
 5. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html)
 6. IEOR 162: Linear Programming & Network Flows
 7. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
@@ -28,7 +30,6 @@
 2. UGBA 10: Principles of Business
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance
-5. IEOR 145: Fundamentals of Revenue Management
 6. IEOR 166: Decision Analytics
 
 
