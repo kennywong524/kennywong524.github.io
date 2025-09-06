@@ -1,6 +1,5 @@
-Experiences
+Research
 ==============
-
 
 ## Publications
 
@@ -13,8 +12,6 @@ Do Large Language Models understand chronology?
 Calyber: A Ridesharing Game.                                    
 Shen, Y., Yan, C. and Yan, J.        
 *Under Review*
-
-## Research Experiences
 
 Please refer to my [CV](https://drive.google.com/file/d/1fdWeXIC-XLHY51RevNgnlv_0qMlrCOMv/view?usp=sharing) for more detailed and complete research assistantships & publications.
 
