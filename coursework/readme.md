@@ -48,6 +48,6 @@
 **Fall 2024**
 
 1. [CS C88C: Computational Structures In Data Science](https://c88c.org/fa24/) - Tutor under Prof. [John DeNero](https://denero.org/)
-2. [IEOR 120: Principles of Engineering](https://classes.berkeley.edu/content/indeng-120) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
+2. [IEOR 120: Principles of Engineering Economics](https://classes.berkeley.edu/content/indeng-120) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
 
 
