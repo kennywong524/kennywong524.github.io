@@ -4,7 +4,7 @@ main:
 #    url: /blog/
 
   - title: "Research"
-    url: /experiences/
+    url: /research/
 
   - title: "Coursework"
     url: /coursework/
