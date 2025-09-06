@@ -11,7 +11,9 @@ redirect_from:
   <img src="https://scet.berkeley.edu/wp-content/uploads/2ColorPrimary_BE_Formal_Stacked_PRINT_CMYK.png" alt="berkeley eng logo" width="300" style="margin: 20px;"/> 
 </div>
 
-I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. I am broadly interested in applied machine learning, large language models, and data-driven decision-making, with applications spanning transportation systems, supply chain and service operations, revenue management, urban analytics, and online platforms. My research bridges theoretical methods in operations research with modern data science, statistics, and economic tools to study how AI shape innovation, productivity, and decision-making under uncertainties.
+I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. 
+
+I am broadly interested in applied machine learning, large language models, and data-driven decision-making under uncertainties, with applications spanning transportation systems, supply chain and service operations, revenue management, urban analytics, and online platforms. My research bridges theoretical methods in operations research and applied economics with empirical data science tools to study how emerging technologies shape operations management, innovation, and productivity.
 
 This summer, I am a visiting research fellow at [**Columbia Business School**](https://business.columbia.edu/), collaborating with Professor [**Paul Glasserman**](https://business.columbia.edu/faculty/people/paul-glasserman) in the department of [**Decisions, Risk, and Operations (DRO)**](https://business.columbia.edu/faculty/divisions/dro)  to empirically investigate whether large language models (LLMs) understand chronology and sequential data. 
 
