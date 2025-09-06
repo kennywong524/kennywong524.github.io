@@ -11,7 +11,7 @@ Do Large Language Models understand chronology?
 ### Contributions as an RA
 Calyber: A Ridesharing Game.                                    
 Shen, Y., Yan, C. and Yan, J.        
-*Under Review*
+*Finalist, 2025 INFORMS Case Competition*
 
 Please refer to my [CV](https://drive.google.com/file/d/1fdWeXIC-XLHY51RevNgnlv_0qMlrCOMv/view?usp=sharing) for more detailed and complete research assistantships & publications.
 
