@@ -34,6 +34,7 @@
 
 
 ## Classes I taught or facilitated at Berkeley
+I love teaching! Here are a few of my teaching endeavors:
 
 **Fall 2025**
 
