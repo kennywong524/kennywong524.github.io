@@ -15,6 +15,8 @@ Shen, Y., Yan, C. and Yan, J.
 
 Please refer to my [CV](https://drive.google.com/file/d/1E8_YJZTvDyJvh5o8faaekYCbCaAxfcz8/view?usp=sharing) for more detailed and complete research assistantships & publications.
 
+## Past Projects
+
 ### LLMs & Chronology [Prof. Paul Glasserman](https://kennywong524.github.io/kennywong.github.io//#:~:text=working%20with%20Professor-,Chiwei%20Yan,-at%20the%20Department), Columbia Business School - Decisions, Risks, and Operations Division
 - Selected as one of 15 interns out of 1000+ applications, I built and deployed a full experimental pipeline in Python, leveraging GPT-4.1 and other LLMs APIs to simulate
 event ordering tasks and evaluate LLMs’ chronological reasoning ability at scale.
