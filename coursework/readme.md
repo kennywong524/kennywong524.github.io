@@ -41,6 +41,7 @@ I love teaching! Here are a few of my teaching endeavors:
 1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
 2. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/) - Helping Engineering undergrads with MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53 (Calculus III), MATH 54 (Linear Algebra & Differential Equations), CS 61A (The Structures and Intepretation of Computer Programs), IEOR 160 (Non-linear and Discrete Optimization), IEOR 162 (Linear Programming & Network Flows)
 3. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/))
+   - [Fall '25 Course Website](https://kennywong524.github.io/foml-fall-2025/#home)
 
 **Spring 2025**
 
