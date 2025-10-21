@@ -6,8 +6,8 @@ Research
 
 **Do Large Language Models (LLMs) Understand Chronology?**                                                                                                                
 **Wongchamcharoen, P. K.**, & Glasserman, P.  
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)*, Singapore, January 2026 *(forthcoming)*  
-**Oral Presentation** – Student Abstract & Poster Program (**Top 13%; 22 of 161 submissions**)  
+- *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)*, Singapore, January 2026 *(forthcoming)*  
+- **Oral Presentation** – Student Abstract & Poster Program (**Top 13%; 22 of 161 submissions**)  
 Also accepted for presentation at the *Yale Undergraduate Research Conference (YURC 2026)*, New Haven, USA, February 2026  
 
 
