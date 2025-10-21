@@ -1,6 +1,5 @@
 Research
 ==============
-# Publications
 
 ## Conference Proceedings
 
