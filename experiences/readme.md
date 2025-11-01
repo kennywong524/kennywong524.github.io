@@ -13,7 +13,7 @@ Research
 ## Contributions as an RA
 **Calyber: A Ridesharing Game.**                                    
 Shen, Y., Yan, C. and Yan, J.        
-*Finalist, 2025 INFORMS Case Competition*
+*Runner-up, 2025 INFORMS Case Competition*
 
 Please refer to my [CV](https://drive.google.com/file/d/1QxZE5gPLDAAzTHRFUEaB9uTe91drMi1R/view?usp=drive_link) for more detailed and complete research assistantships & publications.
 
