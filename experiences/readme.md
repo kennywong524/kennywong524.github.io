@@ -23,6 +23,10 @@ Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](http
 Shen, Y., Yan, C. and Yan, J.        
 - *Runner-up, 2025 INFORMS Case Competition*
 
+## In the pipeline
+- Optimizing Uber's *Destination Filter* mode: Flex vs Fast
+- Simulating LLMs to benchmark AI systems for Human Assistance and Augmentation
+
 Please refer to my [CV](https://drive.google.com/file/d/1QxZE5gPLDAAzTHRFUEaB9uTe91drMi1R/view?usp=drive_link) for more detailed and complete research assistantships & publications.
 
 # Professional Experiences
