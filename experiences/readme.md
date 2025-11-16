@@ -6,7 +6,8 @@ Research
 **Wongchamcharoen, P. K.**, & Glasserman, P.  
 - *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)*, Singapore, January 2026 *(forthcoming)*  
  **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[paper]](https://drive.google.com/file/d/16-S9K8-U78ByQw5MvGlgdGlBF6YPlaJ_/view?usp=sharing), [[code]](https://github.com/kennywong524/chronollm)
-- Also accepted for presentation at the *Yale Undergraduate Research Conference (YURC 2026)*, New Haven, CT, February 2026  
+- Also accepted at *AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications (AAAI-26 Workshop)*
+- To appear at the *Yale Undergraduate Research Conference (YURC 2026)*, New Haven, CT, February 2026  
 
 ## Other Research & Awards
 **Data-Driven Evaluation of Board of Directors Effectiveness: Unsupervised Learning and Predictive Modeling of "Skills Matrices"**
