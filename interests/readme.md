@@ -14,7 +14,7 @@ I recently completed my **first-ever 10K race** at Berkeley Half Marathon 2025, 
 You can check out my full run stats **[here](https://sites.chronotrack.com/event/89259/results/entry/75746426)**.
 
 <p align="center">
-  <img src=""{{ site.baseurl }}/images/berk10k.jpeg"" width="450">
+  <img src="berk10k.jpeg" width="450">
   <br>
   <em>Crossing the finish line at my first 10K!</em>
 </p>
