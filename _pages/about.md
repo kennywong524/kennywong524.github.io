@@ -20,5 +20,5 @@ This past summer, I was a visiting research fellow at [**Columbia Business Schoo
 A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/1QxZE5gPLDAAzTHRFUEaB9uTe91drMi1R/view?usp=sharing).
 
 ## 📢 News
-- **Nov 2025** — Our paper accepted to the **AI4TS Workshop** (poster) at **AAAI-26**, Singapore.  
+- **Nov 2025** — Our paper accepted to the **AI4TS Workshop** (poster) at **AAAI-26**, Singapore and **YURC-26**, New Haven, Connecticut
 - **Oct 2025** — Our paper *“Do Large Language Models Understand Chronology?”* (with Paul Glasserman) accepted for **oral presentation** at the **AAAI-26 Student Abstract Program**, Singapore.
