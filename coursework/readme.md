@@ -32,7 +32,7 @@
 2. UGBA 10: Principles of Business
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance
-6. IEOR 166: Decision Theory and Analytics
+6. IEOR 166: Decision Sciences and Analytics
 
 
 ## Classes I taught or facilitated at Berkeley
