@@ -8,6 +8,20 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
+## 👩‍🏫 Wrapping up Fall '25 Foundations of Machine Learning (FoML)!
+
+Presentation day for our **Foundations of Machine Learning (FoML)** class this semester, and it was such a rewarding experience—helping students build intuition for core ML ideas without calculus!
+You can check out highlights/materials **[here](https://kennywong524.github.io/foml-fall-2025/#home)**.
+
+<p align="center">
+  <img src="foml_teaching_1.jpeg" width="320">
+  <img src="foml_teaching_2.jpeg" width="320">
+  <br>
+  <em>A few favorite moments!</em>
+</p>
+
+---
+
 ## 🏃‍♂️ First 10K!
 
 I recently completed my **first-ever 10K race** at Berkeley Half Marathon 2025, which was an incredibly fun milestone in my running journey!  
