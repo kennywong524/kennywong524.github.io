@@ -14,8 +14,7 @@ Presentation day for our **Foundations of Machine Learning (FoML)** class this s
 You can check out highlights/materials **[here](https://kennywong524.github.io/foml-fall-2025/#home)**.
 
 <p align="center">
-  <img src="foml_teaching_1.jpeg" width="320">
-  <img src="foml_teaching_2.jpeg" width="320">
+  <img src="foml_teaching_1.jpeg" width="450">
   <br>
   <em>A few favorite moments!</em>
 </p>
