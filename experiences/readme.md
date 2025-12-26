@@ -28,7 +28,7 @@ Shen, Y., Yan, C. and Yan, J.
 - Optimizing Uber's *Destination Filter* mode: Flex vs Fast
 - Simulating LLMs to benchmark AI systems for Human Assistance and Augmentation
 
-Please refer to my [CV](https://drive.google.com/file/d/1QxZE5gPLDAAzTHRFUEaB9uTe91drMi1R/view?usp=drive_link) for more detailed and complete research assistantships & publications.
+Please refer to my [CV](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf) for more detailed and complete research assistantships & publications.
 
 # Professional Experiences
 
