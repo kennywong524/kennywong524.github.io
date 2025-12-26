@@ -32,4 +32,4 @@ Please refer to my [CV](https://kennywong524.github.io/files/Kenny_CV_2026_updat
 
 # Professional Experiences
 
-Please refer to my [resume](https://kennywong524.github.io/kennywong.github.io//files/kenny_industry_resume.pdf) for more recent industry experiences.
+Please refer to my [resume](https://drive.google.com/file/d/1OvByTf_bYpJS-wfEsPA8PVdvtgcyBM4z/view?usp=drive_link) for more recent industry experiences.
