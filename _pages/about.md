@@ -17,7 +17,7 @@ I am also deeply interested in the economics of innovation, particularly in how 
 
 This past summer, I was a visiting research fellow at [**Columbia Business School**](https://business.columbia.edu/), collaborating with Professor [**Paul Glasserman**](https://business.columbia.edu/faculty/people/paul-glasserman) of [**Decisions, Risk, and Operations (DRO)**](https://business.columbia.edu/faculty/divisions/dro)  to empirically investigate whether large language models (LLMs) understand chronology and sequential data. At Berkeley, I am fortunate to work with and be advised by Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/), and Professor [**Abishek Nagaraj**](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), at the [**Data Innovation & AI Lab**](https://thedatainnovationlab.com/), [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/).
 
-A short Curriculum Vitae of mine can be found [here](https://drive.google.com/file/d/1QxZE5gPLDAAzTHRFUEaB9uTe91drMi1R/view?usp=sharing).
+A short Curriculum Vitae of mine can be found [here](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf).
 
 ## 📢 News
 - **Nov 2025** — Growing interest in our work on LLM chronological reasoning by AI practitioners on [X](https://x.com/rohanpaul_ai/status/1991344497729388752) (more than 10k views)!
