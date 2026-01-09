@@ -22,7 +22,7 @@ Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](http
 ## Contributions as an RA
 **Calyber: A Ridesharing Game.**                                    
 Shen, Y., Yan, C. and Yan, J.        
-- *Runner-up, 2025 INFORMS Case Competition*
+- *Runner-up, 2025 INFORMS Case Competition* [[press]](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/)
 
 ## In the pipeline
 - Optimizing Uber's *Destination Filter* mode: Flex vs Fast
