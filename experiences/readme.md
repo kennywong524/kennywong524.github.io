@@ -4,20 +4,20 @@ Research
 ## Conference Proceedings
 **Do Large Language Models (LLMs) Understand Chronology?** [[arXiv]](https://arxiv.org/abs/2511.14214), [[code]](https://github.com/kennywong524/chronollm)                                                                                                                
 **Wongchamcharoen, P. K.**, & Glasserman, P.  
-- *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-26)*, Singapore, January 2026 *(forthcoming)*  
+- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26) (forthcoming)*  
  **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[paper]](https://drive.google.com/file/d/16-S9K8-U78ByQw5MvGlgdGlBF6YPlaJ_/view?usp=sharing)
-- Also accepted at *AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications (AAAI-26 Workshop)*
-- To appear at the *Yale Undergraduate Research Conference (YURC 2026)*, New Haven, CT, February 2026  
+- Extended paper also accepted at *AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*
+- Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
 
 ## Other Research & Awards
 **Data-Driven Evaluation of Board of Directors Effectiveness: Unsupervised Learning and Predictive Modeling of "Skills Matrices"**
 **Wongchamcharoen, P. K.**, Stringer, C., Hwang B., Liu, I., & Li, K. [[poster]](https://cdss.berkeley.edu/project/measuring-board-effectiveness)                                   
-- Best Data Visualization Award at *the 2025 Berkeley CDSS Data Discovery Symposium*, Berkeley, CA, April 2025
+- Best Data Visualization Award at *the 2025 Berkeley CDSS Data Discovery Symposium*
 
 **Mixed-Integer Linear Program for Options Pricing and Portfolio Optimization**                                                                                                          
 Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](https://github.com/Qamil-Mirza/badss-2025-options-alpha-strategy/tree/main), [[poster]](https://drive.google.com/file/d/1xZiLPutwOY4EdhwzPEcP0V7GRSoi1qjC/view?usp=sharing)
-- 1st Runner-Up at *the 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Sciences Summit*, Berkeley, CA, April 2025
-- Also presented at *the 2025 Berkeley IEOR Community Celebration & Alumni Achievement Ceremony*, Berkeley, CA, May 2025  
+- 1st Runner-Up at *the 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Sciences Summit*
+- Also presented at *the 2025 Berkeley IEOR Community Celebration & Alumni Achievement Ceremony*
 
 ## Contributions as an RA
 **Calyber: A Ridesharing Game.**                                    
