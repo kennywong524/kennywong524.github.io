@@ -6,7 +6,7 @@ Research
 **Wongchamcharoen, P. K.**, & Glasserman, P.  
 - *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26) (forthcoming)*  
  **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[paper]](https://drive.google.com/file/d/16-S9K8-U78ByQw5MvGlgdGlBF6YPlaJ_/view?usp=sharing)
-- Extended paper also accepted at *AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*
+- Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
 
 ## Other Research & Awards
