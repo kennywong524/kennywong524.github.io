@@ -8,6 +8,25 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
+## 🌏 Presenting at AAAI ’26 — my first international conference!
+
+Still can’t believe I got to attend and present at AAAI 2026—my first international conference and a pretty surreal moment as an undergrad. I had so much fun sharing our work, getting thoughtful feedback, and meeting researchers whose papers I’ve been reading for years.
+
+A few takeaways I’m leaving with:
+- Momentum around smaller, more transparent (often open-source) models
+- Growing focus on mechanistic interpretability / explainable AI
+- The importance of chronology gates + human-in-the-loop ideas for high-stakes systems
+
+Also loved reconnecting with old friends and making new ones. Kinda sad to leave this behind but I’m walking away with way more confidence and excitement for what’s next!
+
+<p align="center">
+  <img src="aaai-pic.jpeg" width="450">
+  <br>
+  <em>A photo with AAAI sign!</em>
+</p>
+
+---
+
 ## 👩‍🏫 Wrapping up Fall '25 Foundations of Machine Learning (FoML)!
 
 Presentation day for our **Foundations of Machine Learning (FoML)** class this semester, and it was such a rewarding experience—helping students build intuition for core ML ideas without calculus!
