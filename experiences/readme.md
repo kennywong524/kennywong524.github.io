@@ -20,7 +20,7 @@ Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](http
 - Also presented at *the 2025 Berkeley IEOR Community Celebration & Alumni Achievement Ceremony*
 
 ## Contributions as an RA
-**Calyber: A Ridesharing Game.**                                    
+**Calyber: A Ridesharing Game.**, *INFORMS Transactions on Education*, forthcoming.                                    
 Shen, Y., Yan, C. and Yan, J.        
 - *Runner-up, 2025 INFORMS Case Competition* [[press]](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/)
 
