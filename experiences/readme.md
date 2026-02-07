@@ -5,7 +5,7 @@ Research
 **Do Large Language Models (LLMs) Understand Chronology?** [[arXiv]](https://arxiv.org/abs/2511.14214), [[code]](https://github.com/kennywong524/chronollm)                                                                                                                
 **Wongchamcharoen, P. K.**, & Glasserman, P.  
 - *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26) (forthcoming)*  
- **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[paper]](https://drive.google.com/file/d/16-S9K8-U78ByQw5MvGlgdGlBF6YPlaJ_/view?usp=sharing)
+ **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[poster]](https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster), [[talks]](https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract)
 - Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
 
