@@ -24,9 +24,10 @@ This past summer, I was a visiting research fellow at [**Columbia Business Schoo
 A short Curriculum Vitae of mine can be found [here](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf).
 
 ## 📢 News
+- **Jan 2026** — Presented my first paper at AAAI 2026 in Singapore!
 - **Nov 2025** — Growing interest in our work on LLM chronological reasoning by AI practitioners on [X](https://x.com/rohanpaul_ai/status/1991344497729388752) (more than 10k views)!
-- **Nov 2025** — Our [paper](https://arxiv.org/abs/2511.14214) accepted to the **AI4TS Workshop** (poster) at **AAAI-26**, Singapore and **YURC-26**, New Haven, Connecticut
-- **Oct 2025** — Our paper “Do Large Language Models Understand Chronology?” (with Paul Glasserman) accepted for **oral presentation** at the **AAAI-26 Student Abstract Program**, Singapore.
+- **Nov 2025** — Our [paper](https://arxiv.org/abs/2511.14214) accepted to the **AI4TS Workshop** (poster) at **AAAI-26** and **IISE-26**.
+- **Oct 2025** — Our paper “Do Large Language Models Understand Chronology?” (with Paul Glasserman) accepted for **oral presentation** at the **AAAI-26 Student Abstract Program**.
 
 ## 🌍 Visitor Map
 <div style="display:flex; justify-content:center; margin-top: 12px;">
