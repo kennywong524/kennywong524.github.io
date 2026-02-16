@@ -28,7 +28,7 @@ Static LLM leaderboards measure end-to-end task execution, yet many real world d
 
 </details>
 
-- Working Paper | February 2026
+- Working Paper, February 2026
 
 
 ## Other Research & Awards
