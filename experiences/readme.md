@@ -18,7 +18,7 @@ Large language models have shown great potential as forecasting tools in finance
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
 
 ## Working Paper & Preprints
-**Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Professional Tasks Using Simulation**
+**Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Professional Tasks Using Simulation** 
 **Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.
 
 <details>
