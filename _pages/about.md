@@ -26,7 +26,7 @@ A short Curriculum Vitae of mine can be found [here](https://kennywong524.github
 ## 📢 News
 - **May 2026** — I will be presenting our research on LLMs and chronology at the **2026 IISE Annual Conference** in Arlington, TX.
 - **Jan 2026** — Presented my first paper at **AAAI 2026** in Singapore.
-- **Nov 2025** — Our work was featured by [UC Berkeley IEOR](https://www.linkedin.com/posts/berkeley-ieor_ucberkeley-ucberkeleyieor-berkeleyengineering-activity-7426678680833368064-z5qa) and sparked a viral discussion among practitioners on [X](https://x.com/IntuitMachine/status/1997250385673666671).
+- **Nov 2025** — Our work was featured by [UC Berkeley IEOR](https://www.linkedin.com/posts/berkeley-ieor_ucberkeley-ucberkeleyieor-berkeleyengineering-activity-7426678680833368064-z5qa) and sparked a viral discussion among practitioners on [X](https://x.com/IntuitMachine/status/1997250385673666671). It was also cited as a motivating framework in OpenAI’s paper on [Scaling Social Science Research](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).
 - **Nov 2025** — *Calyber*: A Ridesharing Game, which I helped develop under Prof. Chiwei Yan, was awarded [**Runner-up at the 2025 INFORMS Case Competition**](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/).
 - **Oct 2025** — Our paper “Do Large Language Models Understand Chronology?” (with Prof. Paul Glasserman) was accepted for **oral presentation** at the **AAAI-26 Student Abstract Program**.
 - **Jun 2025** — Joined **Columbia Business School (DRO)** as a Summer Research Fellow.
