@@ -52,7 +52,7 @@ I love teaching! Here are a few of my teaching endeavors:
    - MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53, MATH 54
    - DATA 8, DATA 100, CS 61A
    - IEOR 160, IEOR 162
-4. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/)
+4. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/))
    - [Fall '25 Course Website](https://kennywong524.github.io/foml-fall-2025/#home)
 
 **Spring 2025**
