@@ -18,9 +18,9 @@
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
 3. MATH 110: Abstract Linear Algebra
-4. MATH 104: Introduction to Real Analysis
+4. MATH 104: Introduction to Analysis
 5. IEOR 145: Fundamentals of Revenue Management
-6. IEOR 151: Service Operations Design and Analysis
+6. IEOR 253: Supply Chain and Logistics Management (Graduate Level, auditing)
 7. [IEOR 160: Nonlinear and Discrete Optimization](https://lavaei.ieor.berkeley.edu/Course_IEOR160_Fall_2024.html) (A+)
 8. IEOR 162: Linear Programming & Network Flows
 9. IEOR 165: Engineering Statistics, Quality Control, and Forecasting
