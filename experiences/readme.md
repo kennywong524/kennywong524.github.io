@@ -19,7 +19,8 @@ Large language models have shown great potential as forecasting tools in finance
 - *Featured as foundational literature in OpenAI’s ["Scaling Social Science Research" (2026)](https://openai.com/index/scaling-social-science-research/) paper - [GPT as a measurement tool](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).*
 
 ## Working Paper & Preprints
-**Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Professional Tasks Using Simulation**                                                                                                                                                                                                                   **Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.
+**Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Professional Tasks Using Simulation**                                                                                                                                                                                                                   
+**Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.
 
 <details>
 <summary><b>[View Abstract]</b></summary>
@@ -30,6 +31,13 @@ Static LLM leaderboards measure end-to-end task execution, yet many real world d
 
 - Working Paper, February 2026
 
+## Contributions as an RA
+**Calyber: A Ridesharing Game.**, *INFORMS Transactions on Education*, forthcoming.                                    
+Shen, Y., Yan, C. and Yan, J.        
+- *Runner-up, 2025 INFORMS Case Competition* [[press]](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/)
+
+[**On-Off Systems with Strategic Customers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068), *under revision.*                                                                                                                                                                                                               
+Sun, Y., Liu, Z., Yan, C.
 
 ## Other Research & Awards
 **Data-Driven Evaluation of Board of Directors Effectiveness: Unsupervised Learning and Predictive Modeling of "Skills Matrices"**
@@ -40,11 +48,6 @@ Static LLM leaderboards measure end-to-end task execution, yet many real world d
 Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](https://github.com/Qamil-Mirza/badss-2025-options-alpha-strategy/tree/main), [[poster]](https://drive.google.com/file/d/1xZiLPutwOY4EdhwzPEcP0V7GRSoi1qjC/view?usp=sharing)
 - *1st Runner-Up* at *the 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Sciences Summit*
 - Also presented at *the 2025 Berkeley IEOR Community Celebration & Alumni Achievement Ceremony*
-
-## Contributions as an RA
-**Calyber: A Ridesharing Game.**, *INFORMS Transactions on Education*, forthcoming.                                    
-Shen, Y., Yan, C. and Yan, J.        
-- *Runner-up, 2025 INFORMS Case Competition* [[press]](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/)
 
 ## Works in Progress
 - *Flex or Fast?* Incentive-Compatible Demand Allocation in Destination-Mode Ride-Hailing Networks
