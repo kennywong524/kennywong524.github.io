@@ -12,7 +12,7 @@ Large language models have shown great potential as forecasting tools in finance
 
 </details>
 
-- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)*  
+- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42295)  
  **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[poster]](https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster), [[talk]](https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract)
 - Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
