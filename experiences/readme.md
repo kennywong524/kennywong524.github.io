@@ -32,9 +32,9 @@ Static LLM leaderboards measure end-to-end task execution, yet many real world d
 - Working Paper, February 2026
 
 ## Contributions as an RA
-**Calyber: A Ridesharing Game.**, *INFORMS Transactions on Education*, forthcoming.                                    
+**Calyber: A Ridesharing Game.**, *INFORMS Transactions on Education* [[case]](https://pubsonline.informs.org/doi/10.1287/ited.2025.0163cs)                               
 Shen, Y., Yan, C. and Yan, J.        
-- *Runner-up, 2025 INFORMS Case Competition* [[press]](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/)
+- *Runner-up, 2025 INFORMS Case Competition*
 
 [**On-Off Systems with Strategic Customers**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068), *under revision.*                                                                                                                                                                                                               
 Sun, Y., Liu, Z., Yan, C.
