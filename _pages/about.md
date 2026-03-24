@@ -15,7 +15,7 @@ I'm a junior at the [**University of California, Berkeley**](https://www.berkele
 
 - **Frontier and Limits of AI in Operations**: I investigate *the reliability of Generative AI* in high-stakes decision systems. My recent work [*(AAAI 2026)*](https://arxiv.org/abs/2511.14214) empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in how models process time-encoded data, with implications for mitigating *lookahead bias* in forecasting tasks.
 
-- **Revenue Management and Mechanism Design in Online Platforms**: I leverage optimization, discrete choice modeling, and machine learning to study pricing and incentive alignment in two-sided marketplaces and urban systems, with a specific focus on transportation and ride-sharing networks. My work examines how algorithmic control shapes equilibrium behavior, market outcomes, and equity.
+- **Revenue Management and Mechanism Design in Online Platforms**: I leverage optimization, game theory, and machine learning to study pricing and incentive alignment in two-sided marketplaces and urban systems, with a specific focus on transportation and ride-sharing networks. My work examines how algorithmic control shapes equilibrium behavior, market outcomes, and equity.
 
 - **Economics of Innovation and The Impact of AI**: I study human-AI interaction to understand how emerging technologies reshape organizational behavior and workforce productivity. Methodologically, I design online field experiments and simulation-based benchmarks to evaluate exactly when and how AI best complements human judgment.
 
