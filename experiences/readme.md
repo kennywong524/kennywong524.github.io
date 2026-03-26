@@ -15,7 +15,7 @@ Large language models have shown great potential as forecasting tools in finance
 - *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42295)  
  **Oral Presentation** – Student Abstract & Poster Program (**Top 11%**) [[poster]](https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster), [[talk]](https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract)
 - Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
-- Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*
+- Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*, *2026 Berkeley IEOR Annual Advisory Board Meeting*
 - *Featured as foundational literature in OpenAI’s ["Scaling Social Science Research" (2026)](https://openai.com/index/scaling-social-science-research/) paper - [GPT as a measurement tool](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).*
 
 ## Working Paper & Preprints
