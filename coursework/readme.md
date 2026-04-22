@@ -1,9 +1,13 @@
-
-## Classes I took at Berkeley
+---
+layout: single
+title: "Relevant Coursework"
+permalink: /coursework/
+author_profile: true
+---
 
 *Dean’s List & Honors To Date – Fall '23, Spring '24, Fall '24, Spring '25, Fall '25*
 
-**Computer & Data Science**
+## Computer & Data Science
 1. [DATA 8: Foundations of Data Science](https://www.data8.org/)
 2. ENGIN 7: Introduction to Computer Programming and Numerical Methods 
 3. [DATA 100: Principles & Techniques of Data Science](https://ds100.org/)
@@ -14,7 +18,7 @@
 8. IEOR 164: Introduction to Optimization Modeling (A+)
 9. JOURN 124: Data Journalism
 
-**Operations Research & Mathematics**
+## Operations Research & Mathematics
 1. [MATH 53: Multivariable Calculus](https://math.berkeley.edu/~zworski/syllabus53_23.html) 
 2. MATH 54: Linear Algebra & Differential Equations
 3. MATH 110: Abstract Linear Algebra
@@ -28,40 +32,10 @@
 11. IEOR 173: Introduction to Stochastic Processes (A+)
 12. IEOR 174: Simulation for Enterprise-Scale Systems (A+)
 
-**Applied Economics**
+## Applied Economics
 1. ECON 2: Introduction to Economics (A+)
 2. UGBA 10: Principles of Business (A+)
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance (A+)
-6. IEOR 166: Decision Sciences and Analytics
-
-
-## Classes I taught or facilitated
-I love teaching! Here are a few of my teaching endeavors:
-
-**Spring 2026**
-
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Philip Kerger](https://phillipkerger.github.io/)
-2. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001) - Facilitating and deploying AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class!
-3. Foundations of Machine Learning (FoML) with updated curriculum
-   - TBA
-
-**Fall 2025**
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
-2. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/) - Helping Engineering undergrads with:
-   - MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53, MATH 54
-   - DATA 8, DATA 100, CS 61A
-   - IEOR 160, IEOR 162
-4. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/))
-   - [Fall '25 Course Website](https://kennywong524.github.io/foml-fall-2025/#home)
-
-**Spring 2025**
-
-1. [IEOR 172: Probability & Risk Analysis for Engineers](https://classes.berkeley.edu/content/2025-spring-indeng-172-1-lec-1) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
-
-**Fall 2024**
-
-1. [CS 88: Computational Structures In Data Science](https://c88c.org/fa24/) - Tutor under Prof. [John DeNero](https://denero.org/)
-2. [IEOR 120: Principles of Engineering Economics](https://classes.berkeley.edu/content/indeng-120) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
-
+5. IEOR 166: Decision Sciences and Analytics
 

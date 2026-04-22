@@ -1,8 +1,9 @@
 ---
 permalink: /
-title: "👋🏻 Welcome! I'm Kenny"
+title: "Welcome! I'm Kenny"
 excerpt: "About me"
 author_profile: true
+classes: home-page
 redirect_from: 
   - /about/
   - /about.html
@@ -12,6 +13,7 @@ redirect_from:
 </div>
 
 I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. My research integrates **Operations Research**, **Data Science**, and **Applied Economics** to improve the design and operation of complex, data-rich environments. I focus on three research directions:
+{: .page-intro}
 
 - **Frontier and Limits of AI in Operations**: I investigate *the reliability of Generative AI* in high-stakes decision systems. My recent work [*(AAAI 2026)*](https://arxiv.org/abs/2511.14214) empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in how models process time-encoded data, with implications for mitigating *lookahead bias* in forecasting tasks.
 
@@ -40,4 +42,3 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
     <img src="https://mapmyvisitors.com/map.png?d=ttFxG4JgmHlE7VcDlNqDU58Pe0koQzmpJ02uwiW9-VU&cl=ffffff" alt="Visitor map">
   </a>
 </div>
-

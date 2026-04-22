@@ -3,11 +3,17 @@ main:
 #  - title: "Blog"
 #    url: /blog/
 
-  - title: "Experience"
+  - title: "Research"
     url: /experiences/
 
   - title: "Coursework"
     url: /coursework/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
     
   - title: "Projects"
     url: /projects/
@@ -16,7 +22,7 @@ main:
     url: /interests/
     
   - title: "CV"
-    url: /files/Kenny_CV.pdf
+    url: /files/Kenny_CV_2026_updated.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
