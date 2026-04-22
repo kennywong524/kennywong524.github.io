@@ -128,7 +128,7 @@ a:focus {
 }
 
 .author__avatar img {
-  max-width: 186px;
+  max-width: 194px;
   padding: 0;
   border: 0;
   border-radius: 24px;
@@ -141,14 +141,14 @@ a:focus {
 
 .sidebar .author__name {
   margin-bottom: 0.45rem;
-  font-size: 1.28rem;
+  font-size: 1.34rem;
   line-height: 1.05;
 }
 
 .author__bio {
   color: var(--muted);
   margin-bottom: 0.75rem;
-  font-size: 0.84rem;
+  font-size: 0.88rem;
   line-height: 1.35;
 }
 
@@ -173,16 +173,26 @@ a:focus {
 .author__desktop,
 .author__urls li {
   color: var(--ink);
-  font-size: 0.74rem;
-  line-height: 1.18;
+  font-size: 0.82rem;
+  line-height: 1.22;
   white-space: normal;
-  overflow-wrap: anywhere;
-  padding-left: 1.2rem;
-  text-indent: -1.2rem;
+  overflow-wrap: break-word;
+}
+
+.sidebar .author__desktop {
+  @media screen and (min-width: 1024px) {
+    display: grid;
+    grid-template-columns: 1.05rem minmax(0, 1fr);
+    column-gap: 0.45rem;
+    align-items: start;
+  }
 }
 
 .author__urls a {
-  display: block;
+  display: grid;
+  grid-template-columns: 1.05rem minmax(0, 1fr);
+  column-gap: 0.45rem;
+  align-items: start;
   color: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -191,19 +201,21 @@ a:focus {
 }
 
 .author__urls li {
-  margin-bottom: 0.16rem;
+  margin-bottom: 0.24rem;
 }
 
 .author__urls .icon-pad-right,
 .author__desktop .icon-pad-right {
-  display: inline-block;
-  width: 0.95rem;
-  margin-right: 0.25rem;
+  display: block;
+  width: 1.05rem;
+  margin-right: 0;
+  margin-top: 0.12rem;
+  text-align: center;
 }
 
 .author__urls i,
 .author__desktop i {
-  font-size: 0.88em;
+  font-size: 0.98em;
 }
 
 .page__title,
