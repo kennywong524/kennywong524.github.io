@@ -137,6 +137,11 @@ a:focus {
 
 .author__content {
   padding-right: 0;
+
+  @media screen and (max-width: 1023px) {
+    display: block;
+    padding-left: 0;
+  }
 }
 
 .sidebar .author__name {
@@ -216,6 +221,81 @@ a:focus {
 .author__urls i,
 .author__desktop i {
   font-size: 0.98em;
+}
+
+@media screen and (max-width: 1023px) {
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+    width: 100%;
+  }
+
+  .author__avatar {
+    margin-bottom: 0.9rem;
+  }
+
+  .author__avatar img {
+    max-width: 214px;
+  }
+
+  .sidebar .author__name {
+    font-size: 1.52rem;
+  }
+
+  .author__bio {
+    margin-bottom: 0.9rem;
+    font-size: 0.96rem;
+  }
+
+  .author__urls-wrapper {
+    margin-top: 0.95rem;
+    padding: 0;
+    border: 0;
+    border-top: 1px solid var(--rule);
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+    cursor: default;
+  }
+
+  .author__urls-wrapper button {
+    min-width: 8.75rem;
+    margin-top: 0.85rem;
+    margin-bottom: 0;
+  }
+
+  .author__urls {
+    left: 0;
+    right: auto;
+    width: min(100%, 19rem);
+    margin-top: 0.75rem;
+    padding: 0.8rem 0.95rem;
+    border: 1px solid var(--rule);
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: 0 12px 32px rgba(35, 54, 72, 0.12);
+    z-index: 30;
+  }
+
+  .author__urls:before,
+  .author__urls:after {
+    left: 1.5rem;
+  }
+
+  .author__urls li {
+    font-size: 0.9rem;
+    margin-bottom: 0.32rem;
+  }
+
+  .author__urls a {
+    grid-template-columns: 1.15rem minmax(0, 1fr);
+    column-gap: 0.5rem;
+  }
+
+  .author__urls .icon-pad-right {
+    width: 1.15rem;
+  }
 }
 
 .page__title,
