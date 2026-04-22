@@ -8,7 +8,7 @@ author_profile: true
 ### Discrete-Event Simulation and Game-Theoretic Analysis of Standard and Automated Airport Security Architectures
 
 <details>
-<summary><b>[View Abstract]</b></summary>
+<summary>[View Abstract]</summary>
 
 Airport security checkpoints represent a critical capacity bottleneck in aviation, necessitating the evaluation of high-throughput Automated Screening Lanes (ASLs). This study proposes a hybrid analytic framework combining discrete-event simulation with congestion game theory to evaluate the operational efficacy of heterogeneous lane configurations. We construct a stochastic simulation model handling non-homogeneous arrival rates and Erlang-distributed service times to capture the variance inherent in screening processes. We also formulate the passenger lane selection problem as a congestion game based on M/E_k/1 delay functions, then solve for the Wardrop User Equilibrium (selfish routing), comparing it against the System Optimal flow. Our results demonstrate that ASL integration significantly reduces cycle time and increases throughput. Notably, the estimated Price of Anarchy is 1.03, indicating that decentralized, self-interested lane selection converges closely to the system optimum. These findings suggest that operational efficiency is driven primarily by lane capacity expansion rather than centralized flow control mechanisms.
 
@@ -19,7 +19,7 @@ Airport security checkpoints represent a critical capacity bottleneck in aviatio
 ### A Comparative Study of Featurized MNL Choice model & Traditional Machine Learning algorithms for "Top-K" Restaurant Assortment Optimization in Online Marketplaces
 
 <details>
-<summary><b>[View Abstract]</b></summary>
+<summary>[View Abstract]</summary>
 
 We address the Capacity-Constrained Top-K Assortment Optimization with non-monotonic and non-submodular objective function in digital marketplaces, where the goal is to select a subset of items to maximize expected revenue under substitution effects. While standard Collaborative Filtering and ensemble methods optimize for pointwise engagement accuracy, they typically rely on an assumption of independence between items, thereby failing to capture cannibalization. This study conducts a counterfactual comparative analysis between parametric structural choice models (Featurized Multinomial Logit) and non-parametric machine learning baselines (Random Forest, XGBoost). We show that while flexible non-parametric models minimize classification error (achieving a 63% Hit Rate), their failure to internalize cross-elasticities results in suboptimal yield. Conversely, structural models, by explicitly parameterizing substitution, leverage price inelasticity to optimize the revenue-conversion trade-off, outperforming ML baselines by 31% in total revenue. The findings underscore the distinction between predictive fidelity and decision quality in algorithmic pricing and assortment planning.
 
@@ -30,7 +30,7 @@ We address the Capacity-Constrained Top-K Assortment Optimization with non-monot
 ### Robust Single-Stage Stochastic Road Trip Optimization: Journey through Yosemite National Park
 
 <details>
-<summary><b>[View Abstract]</b></summary>
+<summary>[View Abstract]</summary>
 
 We address the Tourist Trip Design Problem (TTDP) within the Yosemite National Park network, formulated as a multi-objective resource-constrained routing problem. The model optimizes a weighted objective function encompassing heuristic utility (experience quality), monetary expenditure, and cumulative physiological fatigue. To contend with the stochasticity of travel costs and environmental conditions, we propose a hybrid formulation that integrates single-stage stochastic programming with robust optimization. Robust constraints are constructed to ensure solution feasibility under worst-case realization of uncertainty sets, while stochastic components minimize expected penalties. The resulting framework yields a resilient itinerary that satisfies strict budget and time-window constraints.
 
@@ -41,7 +41,7 @@ We address the Tourist Trip Design Problem (TTDP) within the Yosemite National P
 ### Delay-Aware Flight Routes Optimization & Prediction
 
 <details>
-<summary><b>[View Abstract]</b></summary>
+<summary>[View Abstract]</summary>
 
 We propose an end-to-end architecture for robust flight routing that integrates predictive analytics with mathematical programming. Adopting the "predict-then-optimize" paradigm, this research utilizes the Airline Delay dataset to train predictive models for flight latency. These predictions serve as input parameters for a single-stage stochastic programming formulation. The optimization component is modeled as a constrained network flow problem within the Pyomo environment, designed to solve for optimal routing under uncertainty. The framework effectively balances competing objectives—minimizing operational costs and travel duration while strictly limiting exposure to cancellation risks—thereby validating the utility of coupling stochastic constraints with predictive machine learning.
 

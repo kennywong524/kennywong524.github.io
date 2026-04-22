@@ -8,10 +8,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://scet.berkeley.edu/wp-content/uploads/2ColorPrimary_BE_Formal_Stacked_PRINT_CMYK.png" alt="berkeley eng logo" width="300" style="margin: 20px;"/> 
-</div>
-
 I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. My research integrates **Operations Research**, **Data Science**, and **Applied Economics** to improve the design and operation of complex, data-rich environments. I focus on three research directions:
 {: .page-intro}
 

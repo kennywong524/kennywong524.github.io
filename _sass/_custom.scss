@@ -167,10 +167,16 @@ a:focus {
   }
 }
 
-.author__urls a,
-.author__desktop {
+.author__desktop,
+.author__urls li {
   color: var(--ink);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
+}
+
+.author__urls a {
+  color: inherit;
+  font-size: inherit;
+  line-height: 1.4;
 }
 
 .page__title,
@@ -229,7 +235,7 @@ a:focus {
   cursor: pointer;
   color: var(--ink);
   font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .archive__item {
@@ -287,15 +293,25 @@ figcaption {
   color: var(--ink);
   font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
   font-size: 1.28rem;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: -0.025em;
   line-height: 1.35;
+}
+
+.page.research-page .research-entry__title a {
+  font-weight: inherit;
 }
 
 .page.research-page .research-entry__authors {
   margin: 0.3rem 0 0;
   color: var(--muted);
   font-size: 1rem;
+}
+
+.page.research-page .research-entry__venue {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 0.98rem;
 }
 
 .page.research-page .research-entry__authors--terminal {
@@ -321,25 +337,6 @@ figcaption {
 .page.research-page .research-entry__title--terminal {
   padding-bottom: 1.35rem;
   border-bottom: 1px solid var(--rule);
-}
-
-.page.research-page .page__content details {
-  margin: 0.85rem 0 0;
-  padding: 0;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-}
-
-.page.research-page .page__content summary {
-  color: var(--ink);
-  font-size: 1rem;
-}
-
-.page.research-page .page__content details p {
-  margin-top: 0.9rem;
-  color: var(--muted);
-  font-size: 0.98rem;
 }
 
 .page.research-page .research-note {
