@@ -3,6 +3,7 @@ layout: single
 title: "Talks"
 permalink: /talks/
 author_profile: true
+classes: compact-page talks-page
 ---
 
 ## 2026

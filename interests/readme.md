@@ -3,6 +3,7 @@ layout: single
 title: "Interests"
 permalink: /interests/
 author_profile: true
+classes: compact-page interests-page
 ---
 
 Outside academics, I love teaching -- check out my [Foundations of Machine Learning (Fall 2025)](https://kennywong524.github.io/foml-fall-2025/#home) course and [others](https://kennywong524.github.io/teaching/) I have been involved in! I'm also a big music fan; I regularly sing, play the piano and guitar with my acapella group on campus, [**Artists in Resonance (AiR)**](https://www.instagram.com/artistsinresonance/). Check out some of our performances [here](https://www.youtube.com/@ArtistsInResonance/videos?themeRefresh=1). (shameless plug :))

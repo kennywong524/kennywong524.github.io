@@ -3,6 +3,7 @@ layout: single
 title: "Relevant Coursework"
 permalink: /coursework/
 author_profile: true
+classes: compact-page coursework-page
 ---
 
 *Dean’s List & Honors To Date – Fall '23, Spring '24, Fall '24, Spring '25, Fall '25*
@@ -41,4 +42,3 @@ author_profile: true
 3. [DESINV 15: Design Methodology (UI/UX Design)](https://sites.google.com/berkeley.edu/bargain-buddy/home?authuser=0)
 4. IEOR 120: Principles of Engineering Economics & Corporate Finance (A+)
 5. IEOR 166: Decision Sciences and Analytics
-

@@ -351,6 +351,71 @@ a:focus {
   margin-top: 2.35rem;
 }
 
+.page.compact-page .page__content {
+  font-size: 0.98rem;
+  line-height: 1.62;
+}
+
+.page.compact-page .page__content p {
+  margin-bottom: 0.75rem;
+}
+
+.page.compact-page .page__content h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.55rem;
+  padding-bottom: 0.35rem;
+  font-size: 1.45rem;
+}
+
+.page.compact-page .page__content h3 {
+  margin-top: 1.45rem;
+  margin-bottom: 0.45rem;
+  font-size: 1.08rem;
+  font-weight: 550;
+  line-height: 1.35;
+}
+
+.page.compact-page .page__content ul,
+.page.compact-page .page__content ol {
+  margin-top: 0.45rem;
+  margin-bottom: 0.75rem;
+  padding-left: 1.15rem;
+}
+
+.page.compact-page .page__content li {
+  margin-bottom: 0.28rem;
+}
+
+.page.compact-page .page__content details {
+  margin: 0.65rem 0 0.9rem;
+  padding: 0.78rem 0.95rem;
+  border-radius: 12px;
+  font-size: 0.94rem;
+  line-height: 1.58;
+}
+
+.page.compact-page .page__content summary {
+  font-size: 0.9rem;
+}
+
+.page.projects-page .page__content h3 {
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+}
+
+.page.projects-page .page__content h3:first-of-type {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.page.interests-page .page__content hr {
+  margin: 1.6rem 0;
+}
+
+.page.interests-page .page__content img {
+  max-width: min(390px, 100%);
+}
+
 .page__content strong {
   color: #142331;
 }

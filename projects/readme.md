@@ -3,6 +3,7 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
+classes: compact-page projects-page
 ---
 
 ### Discrete-Event Simulation and Game-Theoretic Analysis of Standard and Automated Airport Security Architectures

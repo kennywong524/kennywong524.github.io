@@ -3,6 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+classes: compact-page teaching-page
 ---
 
 I love teaching! Here are a few of my teaching endeavors:
