@@ -31,6 +31,9 @@ author_profile: true
 10. IEOR 172: Probability and Risk Analysis (A+)
 11. IEOR 173: Introduction to Stochastic Processes (A+)
 12. IEOR 174: Simulation for Enterprise-Scale Systems (A+)
+13. [IEOR 263A: Applied Stochastic Process I](https://classes.berkeley.edu/content/2026-fall-indeng-263a-001-lec-001) (Graduate Level)
+14. [IEOR 262A: Mathematical Programming I](https://classes.berkeley.edu/content/2026-fall-indeng-262a-001-lec-001) (Graduate Level)
+
 
 ## Applied Economics
 1. ECON 2: Introduction to Economics (A+)
