@@ -333,6 +333,24 @@ a:focus {
   color: var(--ink);
 }
 
+.page.home-page .page__content {
+  font-size: 0.98rem;
+  line-height: 1.68;
+}
+
+.page.home-page .page__content .page-intro {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.page.home-page .page__content li {
+  margin-bottom: 0.55rem;
+}
+
+.page.home-page .page__content h2 {
+  margin-top: 2.35rem;
+}
+
 .page__content strong {
   color: #142331;
 }
@@ -392,6 +410,10 @@ figcaption {
   margin-bottom: 2.2rem;
 }
 
+.page.research-page .page__content {
+  font-size: 1rem;
+}
+
 .page.research-page .page__content h2 {
   margin-top: 2.8rem;
   margin-bottom: 0.8rem;
@@ -424,13 +446,13 @@ figcaption {
 .page.research-page .research-entry__authors {
   margin: 0.3rem 0 0;
   color: var(--muted);
-  font-size: 1rem;
+  font-size: 0.96rem;
 }
 
 .page.research-page .research-entry__venue {
   margin: 0.35rem 0 0;
   color: var(--muted);
-  font-size: 0.98rem;
+  font-size: 0.94rem;
 }
 
 .page.research-page .research-entry__authors--terminal {
@@ -439,14 +461,21 @@ figcaption {
 }
 
 .page.research-page .research-entry__notes {
-  margin: 0.95rem 0 0;
-  padding: 0 0 1.35rem 1.4rem;
+  margin: 0.8rem 0 0;
+  padding: 0 0 1.15rem 1.2rem;
   border-bottom: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.93rem;
+  line-height: 1.55;
 }
 
 .page.research-page .research-entry__notes li {
-  margin-bottom: 0.7rem;
-  color: var(--ink);
+  margin-bottom: 0.45rem;
+  color: inherit;
+}
+
+.page.research-page .research-entry__notes li::marker {
+  color: #9aa8b5;
 }
 
 .page.research-page .research-entry__notes li:last-child {
@@ -461,12 +490,25 @@ figcaption {
 .page.research-page .research-note {
   margin-top: 1rem;
   color: var(--muted);
-  font-size: 0.97rem;
+  font-size: 0.93rem;
+  line-height: 1.55;
+}
+
+.page.research-page .page__content details {
+  margin: 0.8rem 0 1.1rem;
+  padding: 0.8rem 0.95rem;
+  border-radius: 12px;
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.page.research-page .page__content summary {
+  font-size: 0.9rem;
 }
 
 @media screen and (max-width: 1023px) {
   .author__avatar img {
-    max-width: 140px;
+    max-width: 214px;
     border-radius: 20px;
   }
 
