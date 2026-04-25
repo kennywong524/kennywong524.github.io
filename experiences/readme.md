@@ -7,7 +7,7 @@ classes: research-page
 ---
 
 ## Conference Proceedings
-[Do Large Language Models (LLMs) Understand Chronology?](https://arxiv.org/abs/2511.14214) [[code]](https://github.com/kennywong524/chronollm)
+[Do Large Language Models (LLMs) Understand Chronology?](https://arxiv.org/abs/2511.14214)
 {: .research-entry__title}
 
 **Wongchamcharoen, P. K.**, & Glasserman, P.
@@ -20,7 +20,7 @@ Large language models have shown great potential as forecasting tools in finance
 
 </details>
 
-- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42295)  
+- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42295), [[code]](https://github.com/kennywong524/chronollm)  
   🏆 **Oral Presentation** - Student Abstract & Poster Program (**Top 11%**) [[poster]](https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster), [[talk]](https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract)
 - Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*, *2026 Berkeley IEOR Annual Advisory Board Meeting*
@@ -45,7 +45,7 @@ Static LLM leaderboards measure end-to-end task execution, yet many real world d
 {: .research-entry__notes}
 
 ## Contributions as an RA
-Calyber: A Ridesharing Game.
+[Calyber: A Ridesharing Game.](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca)
 {: .research-entry__title}
 
 Shen, Y., Yan, C. and Yan, J.
@@ -54,14 +54,31 @@ Shen, Y., Yan, C. and Yan, J.
 *INFORMS Transactions on Education.*
 {: .research-entry__venue}
 
+<details>
+<summary>[View Abstract]</summary>
+
+This case introduces Calyber, a simulation-based game designed to provide a hands-on and engaging experience in developing real-time pricing and matching decisions for shared ride services, where multiple riders are pooled into a single vehicle. Students design and implement dynamic pricing and matching policies using a rich historical ridesharing data set, competing for top performance on a holdout test set. Through this case, students gain practical insight into stochastic dynamic decision making within a modern, relevant, and data-driven context. Results from previous class implementations provide strong evidence of enhanced learning and engagement.
+
+</details>
+
 - 🏆 *Runner-up, 2025 INFORMS Case Competition* [[case]](https://pubsonline.informs.org/doi/10.1287/ited.2025.0163cs)
 {: .research-entry__notes}
 
-[On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068), *under revision.*
+[On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068)
 {: .research-entry__title}
 
 Sun, Y., Liu, Z., Yan, C.
-{: .research-entry__authors .research-entry__authors--terminal}
+{: .research-entry__authors}
+
+<details>
+<summary>[View Abstract]</summary>
+
+Motivated by applications such as urban traffic control and make-to-order systems, we study a fluid model of a single-server, on-off system that can accommodate multiple queues. The server visits each queue in order: when a queue is served, it is "on", and when the server is serving another queue or transitioning between queues, it is "off". Customers arrive over time, observe the state of the system, and decide whether to join. We consider two regimes for the formation of the on and off durations. In the exogenous setting, each queue's on and off durations are predetermined. We explicitly characterize the equilibrium outcome in closed form and give a compact linear program to compute the optimal on-off durations that maximizes total reward collected from serving customers. In the endogenous setting, the durations depend on customers' joining decisions under an exhaustive service policy where the server never leaves a non-empty queue. We show that an optimal policy in this case extends service beyond the first clearance for at most one queue. Using this property, we introduce a closed-form procedure that computes an optimal policy in no more than 2n steps for a system with n queues.
+
+</details>
+
+- *Under revision.*
+{: .research-entry__notes}
 
 ## Other Research & Awards
 Data-Driven Evaluation of Board of Directors Effectiveness: Unsupervised Learning and Predictive Modeling of "Skills Matrices"
