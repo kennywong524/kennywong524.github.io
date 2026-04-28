@@ -49,7 +49,3 @@ We propose an end-to-end architecture for robust flight routing that integrates 
 </details>
 
 - [[code, paper]](https://github.com/kennywong524/indeng142a-flight-route-optimization)
-
-### 1st Runner-Up for 2025 Wells Fargo & Berkeley IEOR Bay Area Decision Science Summit Case Competition
-- We developed a Mixed-Integer Linear Programming (MILP) approach to optimize options’ exposure and premium PnL over a trading horizon; Won 2nd place & $600
-- [[code]](https://github.com/Qamil-Mirza/badss-2025-options-alpha-strategy/tree/main), [[paper]](https://drive.google.com/file/d/123VJ53fjMpQUtqs8U09I-SIHxyNPLuJu/view?usp=sharing)
