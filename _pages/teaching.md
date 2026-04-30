@@ -6,14 +6,13 @@ author_profile: true
 classes: compact-page teaching-page
 ---
 
-I love teaching! Here are a few of my teaching endeavors:
+I’m passionate about teaching and believe it complements—not competes with—research. Here are a few of my teaching endeavors:
 
 ## Spring 2026
 
 1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Philip Kerger](https://phillipkerger.github.io/)
 2. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001) - Facilitating and deploying AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class!
-3. Foundations of Machine Learning (FoML) with updated curriculum
-   - TBA
+3. Foundations of Machine Learning (FoML) with updated curriculum!
 
 ## Fall 2025
 

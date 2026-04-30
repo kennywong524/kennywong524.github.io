@@ -13,7 +13,7 @@ I'm a junior at the [**University of California, Berkeley**](https://www.berkele
 
 - **Frontier and Limits of AI in Operations**: I investigate *the reliability of Generative AI* in high-stakes decision systems. My recent work [*(AAAI 2026)*](https://arxiv.org/abs/2511.14214) empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in how models process time-encoded data, with implications for mitigating *lookahead bias* in forecasting tasks.
 
-- **Revenue Management and Mechanism Design in Online Platforms**: I leverage *optimization, game theory, and machine learning* to study pricing and incentive alignment in two-sided marketplaces and urban systems, with a specific focus on transportation and ride-sharing networks. I helped design [*Calyber: A Ridesharing Game*](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R) ([2025 INFORMS Case Competition Runner-up](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition)) where students navigate dynamic pricing, matching, and stochastic demand. My ongoing work builds on these frameworks to examine how algorithmic control shapes equilibrium behavior, market outcomes, and equity.
+- **Revenue Management and Mechanism Design in Online Platforms**: I leverage *optimization, game theory, and machine learning* to study pricing and incentive alignment in two-sided marketplaces and urban systems, with a specific focus on transportation and ride-sharing networks. I helped design [*Calyber: A Ridesharing Game*](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R) ([2025 INFORMS Case Competition Runner-up](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition)) where students navigate dynamic pricing, matching, and stochastic demand.
 
 - **Human-AI Behavioral Operations**: I study how to maximize the economic value of human-AI collaboration in professional workflows. Methodologically, I designed a [*simulation-based benchmarking framework*](https://thedatainnovationlab.com/) to measure the distinct impacts of AI automation versus AI augmentation, showing that an AI model's supervisory skill is a fundamentally different capability than its standalone performance.
 
@@ -22,7 +22,8 @@ This past summer, I was a visiting research fellow at [**Columbia Business Schoo
 My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf).
 
 ## 📢 News
-- **April 2026** — Invited to present my AAAI '26 research at the 2026 Berkeley IEOR Annual Advisory Board Meeting to the College of Engineering Dean, the IEOR Department Chair, and leading industry executives!
+- **May 2026** - Presenting at the 2026 IISE Annual Conference & Expo (Arlington, TX).
+- **April 2026** — Presented at the 2026 Berkeley IEOR Annual Advisory Board Meeting!
 - **Jan 2026** — Presented my first paper at **AAAI 2026** in Singapore.
 - **Nov 2025** — Our work was featured by [UC Berkeley IEOR](https://www.linkedin.com/posts/berkeley-ieor_ucberkeley-ucberkeleyieor-berkeleyengineering-activity-7426678680833368064-z5qa) and sparked a viral discussion among practitioners on [X](https://x.com/IntuitMachine/status/1997250385673666671). It was also cited as a motivating framework in OpenAI’s paper on [Scaling Social Science Research](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).
 - **Nov 2025** — [*Calyber*: A Ridesharing Game](https://pubsonline.informs.org/doi/10.1287/ited.2025.0163ca), which I helped develop under Prof. Chiwei Yan, was awarded [**Runner-up at the 2025 INFORMS Case Competition**](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/).

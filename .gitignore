@@ -16,3 +16,6 @@ package-lock.json
 # Ignore local Ruby/Jekyll preview artifacts
 .bundle/
 vendor/
+
+# macOS
+.DS_Store
