@@ -14,6 +14,19 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
+## 👩‍🏫 Another iteration of FoML — Spring '26 — wrapped up!
+
+Just finished teaching another round of **Foundations of Machine Learning (FoML)** this spring — and this time we ran our **first-ever "vibecoding" session**!
+It was so rewarding to watch students, many with **no prior coding experience**, use AI to work through an entire ML pipeline / data analytics lifecycle for their final project.
+
+<p align="center">
+  <img src="foml-spring26.png" width="450">
+  <br>
+  <em>Spring '26 FoML cohort on presentation day!</em>
+</p>
+
+---
+
 ## 🌏 Presenting at AAAI ’26 — my first international conference!
 
 Still can’t believe I got to attend and present at AAAI 2026—my first international conference and a pretty surreal moment as an undergrad. I had so much fun sharing our work, getting thoughtful feedback, and meeting researchers whose papers I’ve been reading for years.
