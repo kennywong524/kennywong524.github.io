@@ -18,12 +18,10 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arlington, Texas. And of course — no Texas trip is complete without **Texas BBQ**. Already missing the brisket at Terry Black's!
 
-<table align="center" cellpadding="6">
-  <tr>
-    <td align="center"><img src="iise-talk.png" alt="Presenting at IISE 2026" width="400"></td>
-    <td align="center"><img src="iise-bbq.png" alt="Enjoying Texas BBQ in Arlington" width="400"></td>
-  </tr>
-</table>
+<div class="interest-photo-row">
+  <img src="iise-talk.png" alt="Presenting at IISE 2026">
+  <img src="iise-bbq.png" alt="Enjoying Texas BBQ in Arlington">
+</div>
 <p align="center"><em>Presenting at IISE (left) · Texas BBQ with friends (right)</em></p>
 
 ---
