@@ -14,6 +14,20 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
+## 🎤 IISE Annual Conference & Expo 2026 — Arlington, TX
+
+Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arlington, Texas. And of course — no Texas trip is complete without **Texas BBQ**. Already missing the brisket at Terry Black's!
+
+<table align="center" cellpadding="6">
+  <tr>
+    <td align="center"><img src="iise-talk.png" alt="Presenting at IISE 2026" width="400"></td>
+    <td align="center"><img src="iise-bbq.png" alt="Enjoying Texas BBQ in Arlington" width="400"></td>
+  </tr>
+</table>
+<p align="center"><em>Presenting at IISE (left) · Texas BBQ with friends (right)</em></p>
+
+---
+
 ## 👩‍🏫 Another iteration of FoML — Spring '26 — wrapped up!
 
 Just finished teaching another round of **Foundations of Machine Learning (FoML)** this spring — and this time we ran our **first-ever "vibecoding" session**!
