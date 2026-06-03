@@ -23,6 +23,7 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 
 ## 📢 News
 - **Nov 2026** — Presenting at the **2026 INFORMS Annual Meeting**.
+- **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**.
 - **May 2026** — Presented at the **2026 IISE Annual Conference & Expo**.
 - **Apr 2026** — Presented at the Berkeley IEOR Annual Advisory Board Meeting.
 - **Jan 2026** — Presented my first paper at **AAAI 2026** in Singapore.
