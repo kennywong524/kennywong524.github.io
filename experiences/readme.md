@@ -28,7 +28,7 @@ Large language models have shown great potential as forecasting tools in finance
 {: .research-entry__notes}
 
 ## Working Paper & Preprints
-Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Professional Tasks Using Simulation
+CentaurBench: Benchmarking LLM Augmentation on Occupational Tasks
 {: .research-entry__title}
 
 **Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.
@@ -37,11 +37,11 @@ Decoding Human-AI Augmentation: Measuring the Value of LLM Assistance on Profess
 <details>
 <summary>[View Abstract]</summary>
 
-Static LLM leaderboards measure end-to-end task execution, yet many real world deployments rely on centaur workflows where one model provides structured assistance to a human or another model. We investigate whether a model’s direct task-solving ability (”automation”) correlates with its capacity to guide a weaker worker (”augmentation”), proposing an evaluation framework that treats assistance as a distinct capability. Across diverse professional tasks grounded in O\*NET and the Anthropic Economic Index (e.g., operations research, counseling, and creative writing), we compare direct model performance against assistant-to-worker pipelines using a fixed worker (GPT-3.5 Turbo) and varying scaffold models. LLM-based rubric grading reveals that scaffolding reliably improves output structure and usefulness. However, model rankings diverge sharply depending on the task: for open-ended professional tasks, models that are weak standalone solvers often serve as highly effective ”teachers.” Expert human validation confirms the directional benefits of scaffolding but highlights calibration gaps in LLM-as-a-judge scoring, emphasizing the need for robust evaluation protocols. Ultimately, our findings demonstrate that supervisory skill is distinct from direct execution capability and represents an economically meaningful dimension of LLM performance missed by conventional benchmarks.
+The best player is not always the best coach. Most LLM benchmarks rank models on a single ability: how well a model completes a task on its own. But that is rarely how AI is used at work. Far more often, a model assists a worker by planning the approach, breaking the task into steps, or prompting self-review while another agent produces the final output. The question that drives model selection is therefore not only which model does the best work, but which model most improves the work of another agent. These are distinct capabilities, and existing benchmarks measure only the first. We introduce a framework that measures both. In automation, a model completes a professional task end-to-end. In augmentation, a model writes a process scaffold - a plan, checklist, and self-review - that is passed to a fixed lower-capacity worker model that produces the output. Holding the worker fixed separates the value of the assistant's guidance from the worker's own ability. Across seven economically grounded tasks spanning structured planning, analytical work, and human-facing services, every output is scored through blind pairwise comparisons by a panel of LLM judges, each barred from grading its own model family, with rankings replicated across three independent runs. Our results suggest that the two regimes rank models very differently. Automation rankings are tight and aligned with conventional capability orderings; the usual frontier models win. Augmentation rankings scatter, no model dominates as an assistant, and several of the strongest solvers are among the weakest coaches. On three of seven tasks, the unaided worker outperforms every assisted condition. For human-in-the-loop and multi-agent systems, “which model is best?” is the wrong question; “best for which role, on which task?” is the right one.
 
 </details>
 
-- Working Paper, February 2026
+- *Submitted to the Wharton Generative AI & Business Conference. Preprint coming soon.*
 {: .research-entry__notes}
 
 ## Contributions as an RA
