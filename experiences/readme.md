@@ -41,7 +41,7 @@ The best player is not always the best coach. Most LLM benchmarks rank models on
 
 </details>
 
-- *Submitted to the Wharton Generative AI & Business Conference. Preprint coming soon.*
+- *Accepted at the 2026 Wharton Generative AI & Business Conference. Preprint coming soon.*
 {: .research-entry__notes}
 
 ## Contributions as an RA
