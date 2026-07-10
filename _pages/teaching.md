@@ -8,6 +8,10 @@ classes: compact-page teaching-page
 
 I’m passionate about teaching and believe it complements—not competes with—research. Here are a few of my teaching endeavors:
 
+## Summer 2026
+
+1. Student Instructor for [Berkeley GLOBE's BeSMART Summer Program](https://globe.berkeley.edu/programs/summer-programs/besmart/)
+
 ## Spring 2026
 
 1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Philip Kerger](https://phillipkerger.github.io/)
