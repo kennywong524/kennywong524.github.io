@@ -21,7 +21,7 @@ This past summer, I was a visiting research fellow at [**Columbia Business Schoo
 
 My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf).
 
-## Upcoming Talks
+## 🎤 Upcoming Talks
 - **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
 - **Jul 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
