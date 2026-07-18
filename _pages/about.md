@@ -23,11 +23,11 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 
 ## 🎤 Upcoming Talks
 - **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
-- **Jul 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
+- **Sep 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
 ## 📢 News
 - **Nov 2026** — Presenting at the **2026 INFORMS Annual Meeting**.
-- **Jul 2026** — **CentaurBench** was accepted at the **2026 Wharton Generative AI & Business Conference**.
+- **Sep 2026** — **CentaurBench** was accepted at the **2026 Wharton Generative AI & Business Conference**.
 - **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**.
 - **May 2026** — Presented at the **2026 IISE Annual Conference & Expo**.
 - **Apr 2026** — Presented at the Berkeley IEOR Annual Advisory Board Meeting.
