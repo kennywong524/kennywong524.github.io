@@ -11,10 +11,6 @@ redirect_from:
 I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. My research integrates **Operations Research**, **Data Science**, and **Applied Economics** to improve the design and operation of complex, data-rich environments. I focus on three research directions:
 {: .page-intro}
 
-## Upcoming Talks
-- **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
-- **Jul 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
-
 - **Data-Driven Service Operations:** I study the design and operation of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I apply optimization, game theory, and empirical estimation to complex operational and public-sector decisions, with a focus on urban transportation and platform marketplaces. I helped design [*Calyber: A Ridesharing Game*](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R) ([2025 INFORMS Case Competition Runner-up](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition)), in which students navigate dynamic pricing, matching, and stochastic demand.
 
 - **Frontier and Limits of AI in Operations:** I investigate the reliability of generative AI in high-stakes decision systems. My recent work [*AAAI 2026*](https://arxiv.org/abs/2511.14214) empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in processing time-dependent information, with implications for mitigating lookahead bias in forecasting tasks.
@@ -24,6 +20,10 @@ I'm a junior at the [**University of California, Berkeley**](https://www.berkele
 This past summer, I was a visiting research fellow at [**Columbia Business School**](https://business.columbia.edu/), collaborating with Professor [**Paul Glasserman**](https://business.columbia.edu/faculty/people/paul-glasserman) of [**Decisions, Risk, and Operations (DRO)**](https://business.columbia.edu/faculty/divisions/dro). At Berkeley, I am fortunate to work with and be advised by Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/), and Professor [**Abhishek Nagaraj**](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), at the [**Data Innovation & AI Lab (DIAL)**](https://thedatainnovationlab.com/), [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/). Previously, I also worked with Professor [**David Evan Harris**](https://haas.berkeley.edu/faculty/harris-david/) on the ethics of AI, and Professor [**Frank Partnoy**](https://frankpartnoy.com/) on a data-driven measurement of board of directors' effectiveness.
 
 My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf).
+
+## Upcoming Talks
+- **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
+- **Jul 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
 ## 📢 News
 - **Nov 2026** — Presenting at the **2026 INFORMS Annual Meeting**.
