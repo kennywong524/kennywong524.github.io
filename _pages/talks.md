@@ -8,6 +8,7 @@ classes: compact-page talks-page
 
 ## 2026
 - **2026 INFORMS Annual Meeting (MSOM Invited Session)** - San Francisco, CA. *November 2026 (scheduled)*
+- **2026 Wharton Generative AI & Business Conference** - San Francisco, CA. *July 2026*
 - **2026 IISE Annual Conference** - Arlington, TX. *May 2026*
 - **Berkeley IEOR Annual Advisory Board Meeting** - Berkeley, CA. *April 2026*
 - **Berkeley Haas - Data Innovation and AI Lab (DIAL) Meeting** - Berkeley, CA. *April 2026*

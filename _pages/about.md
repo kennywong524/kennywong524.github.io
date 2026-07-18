@@ -11,6 +11,10 @@ redirect_from:
 I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. My research integrates **Operations Research**, **Data Science**, and **Applied Economics** to improve the design and operation of complex, data-rich environments. I focus on three research directions:
 {: .page-intro}
 
+## Upcoming Talks
+- **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
+- **Jul 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
+
 - **Data-Driven Service Operations:** I study the design and operation of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I apply optimization, game theory, and empirical estimation to complex operational and public-sector decisions, with a focus on urban transportation and platform marketplaces. I helped design [*Calyber: A Ridesharing Game*](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R) ([2025 INFORMS Case Competition Runner-up](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition)), in which students navigate dynamic pricing, matching, and stochastic demand.
 
 - **Frontier and Limits of AI in Operations:** I investigate the reliability of generative AI in high-stakes decision systems. My recent work [*AAAI 2026*](https://arxiv.org/abs/2511.14214) empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in processing time-dependent information, with implications for mitigating lookahead bias in forecasting tasks.
