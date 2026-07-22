@@ -14,7 +14,7 @@ I’m passionate about teaching and believe it complements—not competes with�
 
 ## Spring 2026
 
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Philip Kerger](https://phillipkerger.github.io/)
+1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Phillip Kerger](https://phillipkerger.github.io/)
 2. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001) - Facilitating and deploying AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class!
 3. Foundations of Machine Learning (FoML) with updated curriculum!
 
@@ -25,7 +25,7 @@ I’m passionate about teaching and believe it complements—not competes with�
    - MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53, MATH 54
    - DATA 8, DATA 100, CS 61A
    - IEOR 160, IEOR 162
-3. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Philip Kerger](https://phillipkerger.github.io/))
+3. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Phillip Kerger](https://phillipkerger.github.io/))
    - [Fall '25 Course Website](https://kennywong524.github.io/foml-fall-2025/#home)
 
 ## Spring 2025
