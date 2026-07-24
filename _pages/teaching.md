@@ -8,9 +8,13 @@ classes: compact-page teaching-page
 
 I’m passionate about teaching and believe it complements—not competes with—research. Here are a few of my teaching endeavors:
 
+## Fall 2026
+
+1. [IEOR 145: Fundamentals of Revenue Management](https://classes.berkeley.edu/search/class?f%5B%5D=cs_course_id%3A161612&f%5B%5D=course_number%3A145&f%5B%5D=subject_code%3AINDENG) - Grader under Prof. [Rajan Udwani](https://rudwani.ieor.berkeley.edu/)
+
 ## Summer 2026
 
-1. Student Instructor for [Berkeley GLOBE's BeSMART Summer Program](https://globe.berkeley.edu/programs/summer-programs/besmart/)
+1. Student Instructor for [Berkeley GLOBE's Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program](https://globe.berkeley.edu/programs/summer-programs/besmart/)
 
 ## Spring 2026
 
