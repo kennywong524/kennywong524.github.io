@@ -20,7 +20,7 @@ I’m passionate about teaching and believe it complements—not competes with�
 
 1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Phillip Kerger](https://phillipkerger.github.io/)
 2. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001) - Facilitating and deploying AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class!
-3. Foundations of Machine Learning (FoML) with updated curriculum!
+3. Foundations of Machine Learning (FoML) with [updated curriculum](https://kennywong524.github.io/foml-fall-2025/#home)!
 
 ## Fall 2025
 
