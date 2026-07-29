@@ -655,6 +655,8 @@ figcaption {
 }
 
 .page.home-page .research-toggle__title {
+  grid-column: 1;
+  grid-row: 1;
   color: var(--ink);
   font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
   font-weight: 650;
@@ -662,6 +664,8 @@ figcaption {
 }
 
 .page.home-page .research-toggle__teaser {
+  grid-column: 1;
+  grid-row: 2;
   color: var(--muted);
   font-size: 0.88rem;
   line-height: 1.35;
