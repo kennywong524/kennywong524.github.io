@@ -13,7 +13,7 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 
 <div class="research-directions">
 <details class="research-toggle">
-<summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Pricing, matching, and strategic behavior in service systems.</span></summary>
+<summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Optimizing complex service systems under strategic interactions.</span></summary>
 
 <div class="research-toggle__body">
 I study the design and operation of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine optimization, game theory, and empirical methods to model and validate complex operational and public-sector decisions, with a focus on urban transportation systems and pricing and matching in online platforms. I helped design <a href="https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R"><em>Calyber: A Ridesharing Game</em></a> (<a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition"><strong>2025 INFORMS Case Competition Runner-up</strong></a>), in which students navigate dynamic pricing, matching, and stochastic demand.
@@ -21,7 +21,7 @@ I study the design and operation of dynamic service systems in which information
 </details>
 
 <details class="research-toggle">
-<summary><span class="research-toggle__title">Frontier and Limits of AI in Operations</span><span class="research-toggle__teaser">Reliability and limits of generative AI in operational decisions.</span></summary>
+<summary><span class="research-toggle__title">Frontier and Limits of AI in Operations</span><span class="research-toggle__teaser">What is AI capable of in operations, and where does it fall short?</span></summary>
 
 <div class="research-toggle__body">
 I investigate the reliability of generative AI in high-stakes decision systems. My recent work <a href="https://arxiv.org/abs/2511.14214"><em>AAAI 2026</em></a> empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in processing time-dependent information, with implications for mitigating lookahead bias in forecasting tasks.
