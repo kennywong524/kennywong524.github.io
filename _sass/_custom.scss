@@ -706,6 +706,69 @@ figcaption {
   }
 }
 
+/* Keep the homepage research list closer to an academic working-paper index. */
+.page.home-page .research-toggle {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-top: 1px solid var(--rule);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  transition: none;
+}
+
+.page.home-page .research-toggle:last-child {
+  border-bottom: 1px solid var(--rule);
+}
+
+.page.home-page .research-toggle:hover,
+.page.home-page .research-toggle[open] {
+  border-color: var(--rule);
+  background: transparent;
+  box-shadow: none;
+  transform: none;
+}
+
+.page.home-page .research-toggle summary {
+  padding: 0.9rem 0;
+  font-size: 0.96rem;
+}
+
+.page.home-page .research-toggle summary::after,
+.page.home-page .research-toggle[open] summary::after {
+  width: 1.2rem;
+  height: 1.2rem;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.2rem;
+  transform: none;
+}
+
+.page.home-page .research-toggle__title {
+  font-size: 0.96rem;
+  font-weight: 600;
+}
+
+.page.home-page .research-toggle__teaser {
+  font-size: 0.84rem;
+}
+
+.page.home-page .research-toggle__body {
+  max-width: 52rem;
+  padding: 0 2.3rem 1rem 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.page.home-page .research-toggle[open] .research-toggle__body {
+  animation: research-reveal 180ms ease-out both;
+}
+
 @media screen and (max-width: 1023px) {
   .author__avatar img {
     max-width: 214px;
