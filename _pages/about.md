@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a junior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. My research integrates **Operations Research**, **Data Science**, and **Applied Economics** to improve the design and operation of complex, data-rich environments. I focus on three research directions:
+I'm a rising senior at the [**University of California, Berkeley**](https://www.berkeley.edu/), majoring in Industrial Engineering & Operations Research (IEOR) and minoring in Data Science & Mathematics. Using tools from **Operations Research**, **Data Science**, and **Applied Economics**, I am broadly interested in three research directions at the intersection of Operations Management, AI, and data-driven decision-making:
 {: .page-intro}
 
 - **Data-Driven Service Operations:** I study the design and operation of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine optimization, game theory, and empirical methods to model and validate complex operational and public-sector decisions, with a focus on urban transportation systems and pricing and matching in online platforms. I helped design [*Calyber: A Ridesharing Game*](https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R) ([2025 INFORMS Case Competition Runner-up](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition)), in which students navigate dynamic pricing, matching, and stochastic demand.
@@ -26,8 +26,8 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 - **Sep 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
 ## 📢 News
-- **Sep 2026** — **CentaurBench** was accepted at the **2026 Wharton Generative AI & Business Conference**.
-- **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**.
+- **Sep 2026** — [*CentaurBench*](https://kennywong524.github.io/centaur-benchmark/) was accepted at the [*2026 Wharton Generative AI & Business Conference*](https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/).
+- **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**, given in recognition of academic achievement, extracurricular activities, and the promise of substantial contributions to the engineering profession.
 - **Nov 2025** — Our work was featured by [UC Berkeley IEOR](https://www.linkedin.com/posts/berkeley-ieor_ucberkeley-ucberkeleyieor-berkeleyengineering-activity-7426678680833368064-z5qa) and sparked a viral discussion among practitioners on [X](https://x.com/IntuitMachine/status/1997250385673666671). It was also cited as a motivating framework in OpenAI’s paper on [Scaling Social Science Research](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).
 - **Nov 2025** — [*Calyber*: A Ridesharing Game](https://pubsonline.informs.org/doi/10.1287/ited.2025.0163ca), which I helped develop under Prof. Chiwei Yan, was awarded [**Runner-up at the 2025 INFORMS Case Competition**](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/).
 - **Oct 2025** — Our paper “Do Large Language Models Understand Chronology?” (with Prof. Paul Glasserman) was accepted for **oral presentation** at the **AAAI-26 Student Abstract Program**.
