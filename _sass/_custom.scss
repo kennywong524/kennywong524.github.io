@@ -590,6 +590,118 @@ figcaption {
   font-size: 0.9rem;
 }
 
+.page.home-page .research-directions {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.page.home-page .research-toggle {
+  margin: 0.7rem 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: 0 8px 24px rgba(35, 54, 72, 0.045);
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.page.home-page .research-toggle:hover {
+  border-color: #b8cbd8;
+  box-shadow: 0 12px 28px rgba(35, 54, 72, 0.08);
+  transform: translateY(-1px);
+}
+
+.page.home-page .research-toggle[open] {
+  border-color: #b8cbd8;
+  background: rgba(255, 255, 255, 0.94);
+}
+
+.page.home-page .research-toggle summary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.18rem 1rem;
+  align-items: center;
+  padding: 0.95rem 1.15rem;
+  list-style: none;
+  cursor: pointer;
+  font-size: 0.98rem;
+}
+
+.page.home-page .research-toggle summary::-webkit-details-marker {
+  display: none;
+}
+
+.page.home-page .research-toggle summary::after {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  width: 1.45rem;
+  height: 1.45rem;
+  border: 1px solid var(--rule);
+  border-radius: 50%;
+  color: var(--accent);
+  content: "+";
+  font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.28rem;
+  text-align: center;
+  transition: background 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.page.home-page .research-toggle[open] summary::after {
+  background: var(--accent);
+  color: #fff;
+  content: "−";
+  transform: rotate(180deg);
+}
+
+.page.home-page .research-toggle__title {
+  color: var(--ink);
+  font-family: "Avenir Next", "Helvetica Neue", "Segoe UI", sans-serif;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.page.home-page .research-toggle__teaser {
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.page.home-page .research-toggle > p {
+  margin: 0;
+  padding: 0 1.15rem 1.1rem;
+  color: var(--ink);
+  font-size: 0.96rem;
+  line-height: 1.62;
+}
+
+.page.home-page .research-toggle[open] > p {
+  animation: research-reveal 240ms ease-out both;
+}
+
+@keyframes research-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page.home-page .research-toggle,
+  .page.home-page .research-toggle summary::after {
+    transition: none;
+  }
+
+  .page.home-page .research-toggle[open] > p {
+    animation: none;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .author__avatar img {
     max-width: 214px;
