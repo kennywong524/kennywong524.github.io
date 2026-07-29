@@ -28,11 +28,11 @@ I investigate the reliability of generative AI in high-stakes decision systems. 
 </div>
 </details>
 
-<details class="research-toggle">
+<details class="research-toggle research-toggle--human-ai">
 <summary><span class="research-toggle__title">Human–AI Operations</span><span class="research-toggle__teaser">Allocating work across humans, autonomous models, and AI assistants.</span></summary>
 
 <div class="research-toggle__body">
-I study how firms should optimally allocate professional work across humans, autonomous models, and AI assistants. In <a href="https://kennywong524.github.io/centaur-benchmark/"><em>CentaurBench</em></a>, I show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent: some frontier models excel at automation but perform poorly as assistants. These findings highlight the need to benchmark models for the roles they play, not just their standalone performance. More broadly, this work motivates me to study how firms can decompose complex tasks into structured subproblems, constraints, and verification steps so AI agents search more efficiently, avoid irrelevant regions of the solution space, and produce reliable decisions.
+I study how firms should optimally allocate professional work across humans, autonomous models, and AI assistants. In <a href="https://kennywong524.github.io/centaur-benchmark/"><em>CentaurBench</em></a>, I show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent: some frontier models excel at automation but perform poorly as assistants. These findings highlight the need to benchmark models for the roles they play, not just their standalone performance. More broadly, this work motivates my interest in the emerging field of <strong>AI economics and management</strong>: how we can leverage humans' comparative advantages, decide which tasks to automate or augment, and design AI systems that decompose tasks and allocate and coordinate work among humans, models, and other intelligent agents while accounting for capability, cost, and reliability.
 </div>
 </details>
 </div>

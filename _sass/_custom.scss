@@ -769,6 +769,10 @@ figcaption {
   animation: research-reveal 180ms ease-out both;
 }
 
+.page.home-page .research-toggle--human-ai[open] .research-toggle__body {
+  animation: research-reveal 180ms ease-out both;
+}
+
 @media screen and (max-width: 1023px) {
   .author__avatar img {
     max-width: 214px;
