@@ -13,7 +13,7 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 
 <div class="research-directions">
 <details class="research-toggle">
-<summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Optimizing complex service systems under strategic interactions.</span></summary>
+<summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Information and market design in service systems with strategic interactions.</span></summary>
 
 <div class="research-toggle__body">
 I study the design and operation of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine optimization, game theory, and empirical methods to model and validate complex operational and public-sector decisions, with a focus on urban transportation systems and pricing and matching in online platforms. I helped design <a href="https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R"><em>Calyber: A Ridesharing Game</em></a> (<a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition"><strong>2025 INFORMS Case Competition Runner-up</strong></a>), in which students navigate dynamic pricing, matching, and stochastic demand.
