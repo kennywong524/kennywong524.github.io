@@ -55,8 +55,3 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 - **May 2025** — Awarded **Best Data Visualization** at the 2025 Berkeley CDSS Data Discovery Symposium for our work on [evaluating Board of Directors' effectiveness](https://cdss.berkeley.edu/project/measuring-board-effectiveness).
 - **Apr 2025** — Awarded **1st Runner-Up** at the Wells Fargo & Berkeley IEOR Bay Area Decision Sciences Summit for our work on [Options Pricing and Portfolio Optimization](https://drive.google.com/file/d/1xZiLPutwOY4EdhwzPEcP0V7GRSoi1qjC/view?usp=sharing).
 - **Aug 2024** — Joined the [**Data Innovation & AI Lab (DIAL)**](https://thedatainnovationlab.com/) as a Research Assistant, working with Srikanth Janjirala on the Impact of AI on crowdsourcing platforms and [Stella Jia](https://stellajia.com/) on the impact of pirated data on LLMs' performance.
-
-## 🌍 Visitor Map
-<div style="display:flex; justify-content:center; margin-top: 12px;">
-  <img src="https://mapmyvisitors.com/map.png?d=ttFxG4JgmHlE7VcDlNqDU58Pe0koQzmpJ02uwiW9-VU&cl=ffffff" alt="Visitor map from MapMyVisitors">
-</div>
