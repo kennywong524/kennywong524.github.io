@@ -58,7 +58,5 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 
 ## 🌍 Visitor Map
 <div style="display:flex; justify-content:center; margin-top: 12px;">
-  <a href="https://mapmyvisitors.com/web/1c1qn" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=ttFxG4JgmHlE7VcDlNqDU58Pe0koQzmpJ02uwiW9-VU&cl=ffffff" alt="Visitor map">
-  </a>
+  <img src="https://mapmyvisitors.com/map.png?d=ttFxG4JgmHlE7VcDlNqDU58Pe0koQzmpJ02uwiW9-VU&cl=ffffff" alt="Visitor map from MapMyVisitors">
 </div>
