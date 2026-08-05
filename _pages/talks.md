@@ -10,8 +10,7 @@ classes: compact-page talks-page
 - **2026 INFORMS Annual Meeting (MSOM Invited Session)** - San Francisco, CA. *November 2026 (scheduled)*
 - **2026 Wharton Generative AI & Business Conference** - San Francisco, CA. *September 2026*
 - **“AI Is Getting Smarter… Are We Cooked?”: Research Perspectives on the Capabilities, Limits, and Future of AI** - Berkeley, CA. *July 2026.*
-  - Given at the Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program.
-  - [slides](/files/BESMART-talk-2026.pdf)
+- Given at the Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program. [[slides]](https://kennywong524.github.io/files/BESMART-talk-2026.pdf)
 - **2026 IISE Annual Conference** - Arlington, TX. *May 2026*
 - **Berkeley IEOR Annual Advisory Board Meeting** - Berkeley, CA. *April 2026*
 - **Berkeley Haas - Data Innovation and AI Lab (DIAL) Meeting** - Berkeley, CA. *April 2026*
