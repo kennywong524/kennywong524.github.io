@@ -104,7 +104,7 @@ Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J. [[code]](http
 *Flex or Fast?* Incentive-Compatible Demand Allocation in Destination-Mode Ride-Hailing Networks
 {: .research-entry__title .research-entry__title--terminal}
 
-Please refer to my [CV](https://kennywong524.github.io/files/Kenny_CV_2026_updated.pdf) for more detailed and complete research assistantships & publications.
+Please refer to my [CV](https://kennywong524.github.io/files/Kenny_CV_update_august.pdf) for more detailed and complete research assistantships & publications.
 {: .research-note}
 
 ## Professional Experience
