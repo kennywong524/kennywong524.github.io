@@ -812,6 +812,35 @@ figcaption {
   line-height: 1.48;
 }
 
+/* Fit the full contact block in the desktop sidebar without losing its icons. */
+@media screen and (min-width: 1024px) {
+  .sidebar .author__name {
+    margin-bottom: 0.32rem;
+    font-size: 1.28rem;
+  }
+
+  .sidebar .author__bio {
+    margin-bottom: 0.55rem;
+    font-size: 0.84rem;
+    line-height: 1.25;
+  }
+
+  .sidebar .author__urls-wrapper {
+    margin-top: 0.6rem;
+    padding-top: 0.65rem;
+  }
+
+  .sidebar .author__desktop,
+  .sidebar .author__urls li {
+    font-size: 0.76rem;
+    line-height: 1.14;
+  }
+
+  .sidebar .author__urls li {
+    margin-bottom: 0.14rem;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .author__avatar img {
     max-width: 214px;
