@@ -113,7 +113,7 @@ a:focus {
 .sidebar {
   @include breakpoint($large) {
     @include span(2.5 of 12);
-    padding-top: calc(#{$masthead-height} + 1.4rem);
+    padding-top: 0;
   }
 
   h3,
