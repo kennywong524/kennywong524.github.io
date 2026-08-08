@@ -352,8 +352,13 @@ a:focus {
 }
 
 .page.compact-page .page__content {
-  font-size: 0.98rem;
-  line-height: 1.62;
+  font-size: 0.92rem;
+  line-height: 1.56;
+}
+
+.page.compact-page .page__title {
+  margin-bottom: 1.1rem;
+  font-size: clamp(2rem, 4vw, 2.7rem);
 }
 
 .page.compact-page .page__content p {
@@ -491,11 +496,13 @@ figcaption {
 }
 
 .page.research-page .page__title {
-  margin-bottom: 2.2rem;
+  margin-bottom: 1.1rem;
+  font-size: clamp(2rem, 4vw, 2.7rem);
 }
 
 .page.research-page .page__content {
-  font-size: 1rem;
+  font-size: 0.92rem;
+  line-height: 1.56;
 }
 
 .page.research-page .page__content h2 {
