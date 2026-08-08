@@ -24,7 +24,7 @@ I study the design and operation of dynamic service systems in which information
 <summary><span class="research-toggle__title">Frontier and Limits of AI in Operations</span><span class="research-toggle__teaser">What is AI capable of in operations, and where does it fall short?</span></summary>
 
 <div class="research-toggle__body">
-I investigate the reliability of generative AI in high-stakes decision systems. My recent work <a href="https://arxiv.org/abs/2511.14214"><em>AAAI 2026</em></a> empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in processing time-dependent information, with implications for mitigating lookahead bias in forecasting tasks.
+I investigate the reliability of generative AI in high-stakes decision systems. My recent work <a href="https://arxiv.org/abs/2511.14214"><em>AAAI 2026</em></a> empirically audits the limits of LLMs in chronological reasoning, identifying systematic failures in processing time-dependent information, with implications for mitigating lookahead bias in forecasting tasks. As AI capabilities advance, I believe interdisciplinary research on how AI augments human judgment will become increasingly important. Models can increasingly solve complex, well-specified problems, but they cannot yet reliably determine which questions are worth asking, which assumptions matter, or how technical decisions will affect people. In a recent BeSMART talk, <a href="https://kennywong524.github.io/files/BESMART-talk-2026.pdf"><em>Research Perspectives on the Capabilities, Limits, and Future of AI</em></a>, I explore these questions and their implications.
 </div>
 </details>
 
