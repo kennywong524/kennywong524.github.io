@@ -40,7 +40,7 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 <div class="research-toggle__body">
 <p>I study how firms should optimally design workflows and allocate tasks among humans, autonomous models, and AI assistants given differences in their capabilities, costs, speeds, and reliability. In <a href="https://kennywong524.github.io/centaur-benchmark/"><em>CentaurBench</em></a>, I show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent: some frontier models excel at automation but perform poorly as assistants. These findings highlight the need to benchmark models for the roles they play within a workflow, not just their standalone performance.</p>
 
-<p>More broadly, I view integrating intelligence into enterprise workflows as a multifaceted operations problem, not simply a model-selection problem. Tasks arrive dynamically and must be matched to heterogeneous agents whose performance may vary with workload, context, and time. Through the lenses of operations management and operations research, I hope to formalize and optimize these complex, evolving systems.</p>
+<p>More broadly, I view integrating intelligence into enterprise workflows as a multifaceted operations problem, and not just a model selection problem. Tasks arrive dynamically and must be matched to heterogeneous agents whose performance may vary with workload, context, and time. Through the lenses of operations management and operations research, I hope to formalize and optimize these complex, evolving systems.</p>
 </div>
 </details>
 </div>
