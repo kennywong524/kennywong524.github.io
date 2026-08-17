@@ -20,7 +20,7 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 
 <p>On the application side, I developed dwell-time allocation policies for <a href="https://www.bart.gov/">San Francisco Bay Area Rapid Transit (BART)</a> that helped improve throughput on its Yellow Line while accounting for strategic passenger arrivals. I also helped design <a href="https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R"><em>Calyber: A Ridesharing Game</em></a> (<a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition"><strong>2025 INFORMS Case Competition Runner-up</strong></a>), a case study deployed in a graduate-level supply chain course at Berkeley, where students develop dynamic pricing and matching policies for a Chicago ride-hailing company.</p>
 
-<p>I believe research can and should extend beyond theory. I am particularly interested in designing and improving matching systems that people rely on. Looking ahead, I hope to collaborate with practitioners and policymakers to translate my work into socially impactful improvements to real-world challenges.</p>
+<p>I believe research can and should extend beyond theory. I am particularly interested in designing and improving routing and matching systems across logistics, transportation, marketplaces, and exchanges because they shape how people, goods, and resources are allocated. Looking ahead, I hope to collaborate with practitioners and policymakers to translate my research into socially impactful solutions to real-world challenges.</p>
 </div>
 </details>
 
