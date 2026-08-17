@@ -16,11 +16,11 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 <summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Information and market design in service systems with strategic interactions.</span></summary>
 
 <div class="research-toggle__body">
-<p>I study the design of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine optimization, game theory, and empirical methods to model and validate operational decisions, focusing mostly on public-sector problems such as urban transportation, as well as pricing and matching in online platforms.</p>
+<p>I study the design of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine tools from stochastic optimization, game theory, and empirical methods to model and analyze operational decisions, focusing primarily on public-sector problems such as urban transportation, as well as pricing and matching in online platforms.</p>
 
 <p>On the application side, I developed dwell-time allocation policies for <a href="https://www.bart.gov/">San Francisco Bay Area Rapid Transit (BART)</a> that helped improve throughput on its Yellow Line while accounting for strategic passenger arrivals. I also helped design <a href="https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R"><em>Calyber: A Ridesharing Game</em></a> (<a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition"><strong>2025 INFORMS Case Competition Runner-up</strong></a>), a case study deployed in a graduate-level supply chain course at Berkeley, where students develop dynamic pricing and matching policies for a Chicago ride-hailing company.</p>
 
-<p>I believe research can and should extend beyond theory. Looking ahead, I hope to collaborate with practitioners and policymakers to translate my work into socially impactful improvements to the real-world systems people rely on.</p>
+<p>I believe research can and should extend beyond theory. I am particularly interested in designing and improving matching systems that people rely on. Looking ahead, I hope to collaborate with practitioners and policymakers to translate my work into socially impactful improvements to real-world challenges.</p>
 </div>
 </details>
 
