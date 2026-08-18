@@ -14,6 +14,46 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
+## 👩‍🏫 BeSMART 2026: the best part of my summer
+
+The best part of my summer was serving as a teaching assistant for [Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART)](https://globe.berkeley.edu/programs/summer-programs/besmart/), an AI and machine-learning summer program for high school students. I had the privilege of giving a guest lecture on my vibe-coding workflow, sharing my research, and discussing my perspectives on the future of AI.
+
+Honestly, I may have learned more from the students than they learned from me. Their one-week machine-learning projects were remarkably ambitious and polished, and their curiosity made the future feel ridiculously bright.
+
+Thank you to Professor [Phillip Kerger](https://phillipkerger.github.io/) for continually helping me improve my teaching and for this opportunity. I am excited to return this fall for another iteration of [Foundations of Machine Learning (FoML)](https://kennywong524.github.io/foml-fall-2025/#home).
+
+[Read my full reflection on X](https://x.com/kennywongchamch/status/2089820123859390920?s=46&t=UOhfUEX6bTTNXChuY8VX4g) · [View my research-perspectives slides](https://kennywong524.github.io/files/BESMART-talk-2026.pdf)
+
+<div class="interest-media-grid interest-media-grid--photos">
+  <figure class="interest-media-card">
+    <img src="besmart-cohort-2026.jpg" alt="The BeSMART 2026 cohort outside Hearst Memorial Mining Building" loading="lazy">
+    <figcaption>The BeSMART 2026 cohort outside Hearst Memorial Mining Building.</figcaption>
+  </figure>
+  <figure class="interest-media-card">
+    <img src="besmart-project-presentations-2026.jpg" alt="Celebrating student project presentations at BeSMART 2026" loading="lazy">
+    <figcaption>Celebrating the student project presentations.</figcaption>
+  </figure>
+</div>
+
+<div class="interest-media-grid interest-media-grid--videos">
+  <figure class="interest-media-card">
+    <video controls playsinline preload="metadata" poster="besmart-talk-opening-poster.png" aria-label="Opening the BeSMART guest lecture">
+      <source src="besmart-talk-opening.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>Opening my guest lecture, <em>AI Is Getting Smarter... Are We Cooked?</em></figcaption>
+  </figure>
+  <figure class="interest-media-card">
+    <video controls playsinline preload="metadata" poster="besmart-talk-research-poster.png" aria-label="Presenting research on LLM chronological reasoning">
+      <source src="besmart-talk-research.mp4" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <figcaption>Sharing findings from my research on the limits of LLM chronological reasoning.</figcaption>
+  </figure>
+</div>
+
+---
+
 ## 🎤 IISE Annual Conference & Expo 2026 — Arlington, TX
 
 Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arlington, Texas. And of course — no Texas trip is complete without **Texas BBQ**. Already missing the brisket at Terry Black's!

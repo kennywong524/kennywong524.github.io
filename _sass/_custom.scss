@@ -434,8 +434,55 @@ a:focus {
   max-width: none;
 }
 
+.page.interests-page .interest-media-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.15rem auto 0.9rem;
+}
+
+.page.interests-page .interest-media-card {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: 0 10px 28px rgba(35, 54, 72, 0.07);
+}
+
+.page.interests-page .interest-media-card img,
+.page.interests-page .interest-media-card video {
+  display: block;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.page.interests-page .interest-media-grid--photos img {
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #f1f4f6;
+}
+
+.page.interests-page .interest-media-grid--videos video {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #101820;
+}
+
+.page.interests-page .interest-media-card figcaption {
+  padding: 0.65rem 0.8rem 0.75rem;
+  color: var(--muted);
+  font-size: 0.76rem;
+  line-height: 1.4;
+  text-align: left;
+}
+
 @media screen and (max-width: 640px) {
-  .page.interests-page .interest-photo-row {
+  .page.interests-page .interest-photo-row,
+  .page.interests-page .interest-media-grid {
     grid-template-columns: 1fr;
   }
 }
