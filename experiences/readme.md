@@ -28,7 +28,7 @@ Large language models have shown great potential as forecasting tools in finance
 {: .research-entry__notes}
 
 ## Working Paper & Preprints
-CentaurBench: Benchmarking LLM Augmentation on Real-world Work
+CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks
 {: .research-entry__title}
 
 **Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.

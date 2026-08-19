@@ -14,7 +14,7 @@ Apart from hiking and running, I love traveling to different cities in the US an
 
 ---
 
-## 👩‍🏫 BeSMART 2026: the best part of my summer
+## 👩‍🏫 BeSMART 2026 - the best part of my summer
 
 The best part of my summer was serving as a teaching assistant for [Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART)](https://globe.berkeley.edu/programs/summer-programs/besmart/), an AI and machine-learning summer program for high school students. I had the privilege of giving a guest lecture on my vibe-coding workflow, sharing my research, and discussing my perspectives on the future of AI.
 
@@ -22,7 +22,7 @@ Honestly, I may have learned more from the students than they learned from me. T
 
 Thank you to Professor [Phillip Kerger](https://phillipkerger.github.io/) for continually helping me improve my teaching and for this opportunity. I am excited to return this fall for another iteration of [Foundations of Machine Learning (FoML)](https://kennywong524.github.io/foml-fall-2025/#home).
 
-[Read my full reflection on X](https://x.com/kennywongchamch/status/2089820123859390920?s=46&t=UOhfUEX6bTTNXChuY8VX4g) · [View my research-perspectives slides](https://kennywong524.github.io/files/BESMART-talk-2026.pdf)
+[View my research-perspectives slides](https://kennywong524.github.io/files/BESMART-talk-2026.pdf)
 
 <div class="interest-media-grid interest-media-grid--photos">
   <figure class="interest-media-card">
