@@ -54,6 +54,7 @@ My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Ken
 - **Sep 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
 ## 📢 News
+- **Nov 2026** — I will be presenting our paper [*On-Off Systems with Strategic Customers*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068) at the **MSOM Invited Session** of the **INFORMS Annual Meeting 2026**. If you’re attending, I’d love to connect!
 - **Sep 2026** — [*CentaurBench*](https://kennywong524.github.io/centaur-benchmark/) was accepted at the [*2026 Wharton Generative AI & Business Conference*](https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/).
 - **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**, given in recognition of academic achievement, extracurricular activities, and the promise of substantial contributions to the engineering profession.
 - **Nov 2025** — Our work was featured by [UC Berkeley IEOR](https://www.linkedin.com/posts/berkeley-ieor_ucberkeley-ucberkeleyieor-berkeleyengineering-activity-7426678680833368064-z5qa) and sparked a viral discussion among practitioners on [X](https://x.com/IntuitMachine/status/1997250385673666671). It was also cited as a motivating framework in OpenAI’s paper on [Scaling Social Science Research](https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf).
