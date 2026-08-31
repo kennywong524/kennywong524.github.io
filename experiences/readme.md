@@ -41,7 +41,8 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 
 </details>
 
-- *Accepted at the 2026 Wharton Generative AI & Business Conference.* [[arXiv]](https://arxiv.org/abs/2608.18554), [[tweetstorm]](https://x.com/abhishekn/status/2092758268850655459)
+- NBER Working Paper #35663 [[nber]](https://www.nber.org/papers/w35663), [[arXiv]](https://arxiv.org/abs/2608.18554), [[tweetstorm]](https://x.com/abhishekn/status/2092758268850655459)
+- Presented at *the 2026 Wharton Generative AI & Business Conference.*
 {: .research-entry__notes}
 
 ## Contributions as an RA
