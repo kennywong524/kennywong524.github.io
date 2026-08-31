@@ -7,7 +7,7 @@ classes: research-page
 ---
 
 ## Conference Proceedings
-[Do Large Language Models (LLMs) Understand Chronology?](https://arxiv.org/abs/2511.14214)
+Do Large Language Models (LLMs) Understand Chronology?
 {: .research-entry__title}
 
 **Wongchamcharoen, P. K.**, & Glasserman, P.
@@ -20,7 +20,7 @@ Large language models have shown great potential as forecasting tools in finance
 
 </details>
 
-- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/42295), [[code]](https://github.com/kennywong524/chronollm)  
+- *Proceedings of the 2026 AAAI Conference on Artificial Intelligence (AAAI-26)* [[proceedings]](https://ojs.aaai.org/index.php/AAAI/article/view/42295), [[arXiv]](https://arxiv.org/abs/2511.14214), [[code]](https://github.com/kennywong524/chronollm)  
   🏆 **Oral Presentation** - Student Abstract & Poster Program (**Top 11%**) [[poster]](https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster), [[talk]](https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract)
 - Extended paper also accepted at [*AI4TS: AI for Time Series Analysis (AAAI-26 Workshop)*](https://ai4ts.github.io/aaai2026) [[extended paper]](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf)
 - Invited presentation at *Yale Undergraduate Research Conference (YURC 2026)*, *IISE Annual Conference 2026*, *2026 Berkeley IEOR Annual Advisory Board Meeting*
@@ -41,7 +41,7 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 
 </details>
 
-- NBER Working Paper #35663 [[nber]](https://www.nber.org/papers/w35663), [[arXiv]](https://arxiv.org/abs/2608.18554), [[tweetstorm]](https://x.com/abhishekn/status/2092758268850655459)
+- NBER Working Paper #35663 [[nber]](https://www.nber.org/papers/w35663), [[arXiv]](https://arxiv.org/abs/2608.18554), [[tweetstorm]](https://x.com/abhishekn/status/2092758268850655459), [[interactive dashboard]](https://kennywong524.github.io/centaur-benchmark/)
 - Presented at *the 2026 Wharton Generative AI & Business Conference.*
 {: .research-entry__notes}
 
