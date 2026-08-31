@@ -47,7 +47,7 @@ I'm a rising senior at the [**University of California, Berkeley**](https://www.
 
 In summer 2025, under the [**Columbia Business School's Summer Research Internship**](https://business.columbia.edu/research-resources/research-opportunities/summer-research-internship) program, I was a visiting research fellow collaborating with Professor [**Paul Glasserman**](https://business.columbia.edu/faculty/people/paul-glasserman) of [**Decisions, Risk, and Operations (DRO)**](https://business.columbia.edu/faculty/divisions/dro). At Berkeley, I am fortunate to work with and be advised by Professor [**Chiwei Yan**](https://yanchiwei.github.io/) at the [**Department of Industrial Engineering & Operations Research**](https://ieor.berkeley.edu/), [**Berkeley College of Engineering**](https://engineering.berkeley.edu/), and Professor [**Abhishek Nagaraj**](https://haas.berkeley.edu/faculty/nagaraj-abhishek/), at the [**Data Innovation & AI Lab (DIAL)**](https://thedatainnovationlab.com/), [**UC Berkeley Haas School of Business**](https://haas.berkeley.edu/). I am also privileged to work with Professor [**Phillip Kerger**](https://phillipkerger.github.io/) to design and teach various Berkeley courses, including [*Foundations of Machine Learning*](https://kennywong524.github.io/foml-fall-2025/#lectures) for high school students through [**Berkeley GLOBE**](https://globe.berkeley.edu/).
 
-My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/Kenny_CV_update_august.pdf).
+My Curriculum Vitae can be found [here](https://kennywong524.github.io/files/kenny_cv_september_2026.pdf).
 
 ## 🎤 Upcoming Talks
 - **Nov 2026** — **INFORMS Annual Meeting**, San Francisco, CA
