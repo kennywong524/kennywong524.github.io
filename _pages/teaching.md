@@ -6,37 +6,41 @@ author_profile: true
 classes: compact-page teaching-page
 ---
 
-I’m passionate about teaching and believe it complements—not competes with—research. Here are a few of my teaching endeavors:
+I’m passionate about teaching and believe it complements research. During my time at Berkeley, I had the pleasure of being involved with many interesting courses.
 
-## Fall 2026
+## Graduate
 
-1. [IEOR 145: Fundamentals of Revenue Management](https://classes.berkeley.edu/search/class?f%5B%5D=cs_course_id%3A161612&f%5B%5D=course_number%3A145&f%5B%5D=subject_code%3AINDENG) - Grader under Prof. [Rajan Udwani](https://rudwani.ieor.berkeley.edu/)
+1. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001)
+  - Term: Spring 2026
+  - Teaching assistant under Prof. [Chiwei Yan](https://yanchiwei.github.io/)
+  - Facilitating and deploying an AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class.
 
-## Summer 2026
+## Undergraduate
 
-1. Student Instructor for [Berkeley GLOBE's Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program](https://globe.berkeley.edu/programs/summer-programs/besmart/)
+2. [IEOR 145: Fundamentals of Revenue Management](https://classes.berkeley.edu/search/class?f%5B%5D=cs_course_id%3A161612&f%5B%5D=course_number%3A145&f%5B%5D=subject_code%3AINDENG)
+  - Term: Fall 2026
+  - Grader under Prof. [Rajan Udwani](https://rudwani.ieor.berkeley.edu/)
+3. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1)
+  - Terms: Spring 2026 and Fall 2025
+  - Tutor under Prof. [Phillip Kerger](https://phillipkerger.github.io/) and Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
+4. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/)
+  - Term: Fall 2025
+  -  Responsible for MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53, MATH 54, DATA 8, DATA 100, CS 61A, IEOR 160, and IEOR 162.
+5. [IEOR 172: Probability & Risk Analysis for Engineers](https://classes.berkeley.edu/content/2025-spring-indeng-172-1-lec-1)
+  - Term: Spring 2025
+  - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
+6. [CS 88: Computational Structures In Data Science](https://c88c.org/fa24/)
+  - Term: Fall 2024
+  - Tutor under Prof. [John DeNero](https://denero.org/)
+7. [IEOR 120: Principles of Engineering Economics](https://classes.berkeley.edu/content/indeng-120)
+  - Term: Fall 2024
+  - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
 
-## Spring 2026
+## High School
 
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Tutor under Prof. [Phillip Kerger](https://phillipkerger.github.io/)
-2. [IEOR 253: Supply Chain and Logistics Management](https://classes.berkeley.edu/content/2025-spring-indeng-c253-001-lec-001) - Facilitating and deploying AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class!
-3. Foundations of Machine Learning (FoML) with [updated curriculum](https://kennywong524.github.io/foml-fall-2025/#home)!
-
-## Fall 2025
-
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
-2. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/) - Helping Engineering undergrads with:
-   - MATH 1A (Calculus I), MATH 1B (Calculus II), MATH 53, MATH 54
-   - DATA 8, DATA 100, CS 61A
-   - IEOR 160, IEOR 162
-3. Course Facilitator & Lecturer for [Berkeley GLOBE](https://globe.berkeley.edu/); 'Foundations of Machine Learning', an introductory to ML class for highschoolers in the Bay Area (Advisor: Assistant Teaching Prof. [Phillip Kerger](https://phillipkerger.github.io/))
-   - [Fall '25 Course Website](https://kennywong524.github.io/foml-fall-2025/#home)
-
-## Spring 2025
-
-1. [IEOR 172: Probability & Risk Analysis for Engineers](https://classes.berkeley.edu/content/2025-spring-indeng-172-1-lec-1) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
-
-## Fall 2024
-
-1. [CS 88: Computational Structures In Data Science](https://c88c.org/fa24/) - Tutor under Prof. [John DeNero](https://denero.org/)
-2. [IEOR 120: Principles of Engineering Economics](https://classes.berkeley.edu/content/indeng-120) - Grader under Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
+8. [Berkeley GLOBE’s Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program](https://globe.berkeley.edu/programs/summer-programs/besmart/)
+  - Term: Summer 2026.
+  - Student Instructor & Lecturer with Prof. [Phillip Kerger](https://phillipkerger.github.io/)
+9. [Foundations of Machine Learning (FoML)](https://kennywong524.github.io/foml-fall-2025/#home), an introductory ML class with no pre-requisites for high school students in the East Bay.
+  - Term: Fall 2025, Spring 2026, Fall 2026
+  - Course Facilitator & Lecturer for  [Berkeley GLOBE](https://globe.berkeley.edu/)
