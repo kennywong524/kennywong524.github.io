@@ -1,28 +1,21 @@
-# main links links
 main:
-#  - title: "Blog"
-#    url: /blog/
-
+  - title: "About"
+    url: /
   - title: "Research"
     url: /experiences/
-
-  - title: "Coursework"
-    url: /coursework/
-
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
-    
-  - title: "Projects"
-    url: /projects/
-        
-  - title: "Interests"
-    url: /interests/
-    
   - title: "CV"
     url: /files/kenny_cv_september_2026.pdf
-    
-#  - title: "Guide"
-#    url: /markdown/
+
+secondary:
+  - title: "Coursework"
+    url: /coursework/
+  - title: "Talks"
+    url: /talks/
+  - title: "Projects"
+    url: /projects/
+  - title: "Interests"
+    url: /interests/
+  - title: "News"
+    url: /news/

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<main id="main" class="home-main" tabindex="-1">
+  <article class="page home-page">
+    <header class="profile-header">
+      <img class="profile-photo" src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}" width="176" height="176" fetchpriority="high">
+      <div class="profile-copy">
+        <h1>{{ site.author.name }}</h1>
+        <p class="profile-role">Industrial Engineering &amp; Operations Research</p>
+        <p class="profile-affiliation"><a href="https://www.berkeley.edu/">University of California, Berkeley</a></p>
+        <p class="profile-location">{{ site.author.location }}</p>
+        <ul class="profile-links" aria-label="Contact and profiles">
+          <li><a href="mailto:{{ site.author.email }}">{% include profile-icon.html name="email" %} Email</a></li>
+          <li><a href="{{ site.author.googlescholar }}">{% include profile-icon.html name="scholar" %} Scholar</a></li>
+          <li><a href="https://github.com/{{ site.author.github }}">{% include profile-icon.html name="github" %} GitHub</a></li>
+          <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">{% include profile-icon.html name="linkedin" %} LinkedIn</a></li>
+          <li><a href="https://x.com/{{ site.author.twitter }}">{% include profile-icon.html name="x" %} X</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="page__content">
+      {{ content }}
+    </div>
+  </article>
+</main>
