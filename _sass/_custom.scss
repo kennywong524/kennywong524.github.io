@@ -199,10 +199,10 @@ img, video { max-width: 100%; }
 }
 .profile-copy h1 { font-weight: 800; margin: 0 0 0.65rem; font-size: 1.85rem; line-height: 1.18; }
 .profile-copy p { margin: 0; }
-.profile-role { color: #555; font-size: 0.96rem; line-height: 1.5; }
-.profile-affiliation { font-size: 0.96rem; }
+.profile-role { color: #555; font-size: 1.08rem; font-weight: 500; line-height: 1.55; }
+.profile-affiliation { font-size: 1rem; }
 .profile-affiliation a { text-decoration: none; }
-.profile-location { color: var(--muted); font-size: 0.85rem; }
+.profile-location { color: var(--muted); font-size: 0.96rem; }
 .profile-links {
   display: flex;
   flex-wrap: wrap;
@@ -215,7 +215,7 @@ img, video { max-width: 100%; }
 .profile-links a { color: var(--ink); font-size: 0.82rem; text-decoration: none; }
 .profile-links a:hover { color: var(--accent); text-decoration: underline; }
 .profile-links a { display: inline-flex; align-items: center; gap: 0.35rem; }
-.profile-icon { display: inline-block; width: 1.05rem; height: 1.05rem; flex-shrink: 0; }
+.profile-icon { display: inline-block; width: 1.3rem; height: 1.3rem; flex-shrink: 0; }
 .home-section { clear: both; margin-top: 2.7rem; }
 .section-heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.5rem 1rem; }
 .page__content .section-heading h2 { margin: 0; font-size: 1.4rem; }
