@@ -12,11 +12,11 @@ layout: default
         <p class="profile-affiliation"><a href="https://www.berkeley.edu/">University of California, Berkeley</a></p>
         <p class="profile-location">{{ site.author.location }}</p>
         <ul class="profile-links" aria-label="Contact and profiles">
-          <li><a href="mailto:{{ site.author.email }}">{% include profile-icon.html name="email" %} Email</a></li>
-          <li><a href="{{ site.author.googlescholar }}">{% include profile-icon.html name="scholar" %} Scholar</a></li>
-          <li><a href="https://github.com/{{ site.author.github }}">{% include profile-icon.html name="github" %} GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">{% include profile-icon.html name="linkedin" %} LinkedIn</a></li>
-          <li><a href="https://x.com/{{ site.author.twitter }}">{% include profile-icon.html name="x" %} X</a></li>
+          <li><a aria-label="Email" title="Email" href="mailto:{{ site.author.email }}">{% include profile-icon.html name="email" %}</a></li>
+          <li><a aria-label="Scholar" title="Scholar" href="{{ site.author.googlescholar }}">{% include profile-icon.html name="scholar" %}</a></li>
+          <li><a aria-label="GitHub" title="GitHub" href="https://github.com/{{ site.author.github }}">{% include profile-icon.html name="github" %}</a></li>
+          <li><a aria-label="LinkedIn" title="LinkedIn" href="https://www.linkedin.com/in/{{ site.author.linkedin }}">{% include profile-icon.html name="linkedin" %}</a></li>
+          <li><a aria-label="X" title="X" href="https://x.com/{{ site.author.twitter }}">{% include profile-icon.html name="x" %}</a></li>
         </ul>
       </div>
     </header>
