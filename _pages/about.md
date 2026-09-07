@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a senior at UC Berkeley, majoring in Industrial Engineering & Operations Research and minoring in Data Science and Mathematics. My research lies at the intersection of **operations management, AI, and data-driven decision-making**.
 
-I study how to design service systems under strategic interactions and information asymmetry, evaluate the capabilities and limits of AI in operations, and integrate intelligent agents into workflows to improve operational performance. My work draws on operations research, data science, and applied economics. [More about my research interests →]({{ '/experiences/#research-interests' | relative_url }})
+I study how to design service systems under strategic interactions and information asymmetry, with applications in transportation and public policy. I also evaluate the capabilities and limits of AI in operations and study how to integrate intelligent agents into workflows to optimize operational performance. My work draws on operations research, data science, and applied economics. [More about my research interests →]({{ '/experiences/#research-interests' | relative_url }})
 
 At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https://yanchiwei.github.io/) in IEOR and [Abhishek Nagaraj](https://haas.berkeley.edu/faculty/nagaraj-abhishek/) at the [Data Innovation & AI Lab (DIAL)](https://thedatainnovationlab.com/). I spent summer 2025 as a visiting research fellow with [Paul Glasserman](https://business.columbia.edu/faculty/people/paul-glasserman) at [Columbia Business School’s Decisions, Risk, and Operations (DRO) division](https://business.columbia.edu/faculty/divisions/dro). I also collaborate with [Phillip Kerger](https://phillipkerger.github.io/) on designing and [teaching various courses at Berkeley]({{ '/teaching/' | relative_url }}).
 
@@ -22,7 +22,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
   </div>
   <ul class="news-list">
     <li><time datetime="2026-11">Nov 2026</time><p>I'll present <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068"><em>On-Off Systems with Strategic Customers</em></a> at the MSOM Invited Session of INFORMS in San Francisco. I'd love to connect!</p></li>
-    <li><time datetime="2026-09">Sep 2026</time><p>I’ll be presenting <a href="https://www.nber.org/papers/w35663">CentaurBench</a> at the <a href="https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/">Wharton Generative AI &amp; Business Conference</a> on September 9–10, 2026.</p></li>
+    <li><time datetime="2026-09">Sep 2026</time><p>I’ll be presenting <a href="https://www.nber.org/papers/w35663"><em>CentaurBench</em></a> at the <a href="https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/">Wharton Generative AI &amp; Business Conference</a> on September 9–10, 2026.</p></li>
     <li><time datetime="2026-06">Jun 2026</time><p>Awarded the Tau Beta Pi Scholarship for academic achievement, extracurricular activities, and promise of contributions to the engineering profession.</p></li>
   </ul>
 </section>
