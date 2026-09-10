@@ -72,12 +72,13 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
   <a href="https://arxiv.org/abs/2608.18554">arXiv</a>
   <a href="https://x.com/abhishekn/status/2092758268850655459">Tweetstorm</a>
   <a href="https://kennywong524.github.io/centaur-benchmark/">Interactive dashboard</a>
+  <a href="https://kennywong524.github.io/files/wharton-slide-final.pdf">Slides</a>
 </div>
 
 <details class="paper-notes" markdown="1">
 <summary>Conference presentation</summary>
 
-- Presented at *the 2026 Wharton Generative AI & Business Conference.*
+- Presented at *the 2026 Wharton Generative AI & Business Conference.* [[slides]](https://kennywong524.github.io/files/wharton-slide-final.pdf)
 
 </details>
 

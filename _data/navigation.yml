@@ -3,19 +3,19 @@ main:
     url: /
   - title: "Research"
     url: /experiences/
+  - title: "Talks"
+    url: /talks/
   - title: "Teaching"
     url: /teaching/
-  - title: "CV"
-    url: /files/kenny_cv_september_2026.pdf
 
 secondary:
   - title: "Coursework"
     url: /coursework/
-  - title: "Talks"
-    url: /talks/
   - title: "Projects"
     url: /projects/
   - title: "Interests"
     url: /interests/
+  - title: "CV"
+    url: /files/kenny_cv_september_2026.pdf
   - title: "News"
     url: /news/
