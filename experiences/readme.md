@@ -209,7 +209,7 @@ Please refer to my [CV]({{ "/files/kenny_cv_september_2026.pdf" | relative_url }
 
 <div class="research-directions">
 <details class="research-toggle">
-<summary><span class="research-toggle__title">Data-Driven Service Operations</span><span class="research-toggle__teaser">Information and market design in service systems with strategic interactions.</span></summary>
+<summary><span class="research-toggle__title">Data-Driven Service Operations &amp; Market Design</span><span class="research-toggle__teaser"><em>How should service systems and markets be designed when participants behave strategically?</em></span></summary>
 
 <div class="research-toggle__body">
 <p>I study the design of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine tools from stochastic optimization, game theory, and empirical methods to model and analyze operational decisions, focusing primarily on public-sector problems such as urban transportation, as well as pricing and matching in online platforms.</p>
@@ -221,7 +221,7 @@ Please refer to my [CV]({{ "/files/kenny_cv_september_2026.pdf" | relative_url }
 </details>
 
 <details class="research-toggle">
-<summary><span class="research-toggle__title">Frontier and Limits of AI in Operations</span><span class="research-toggle__teaser">What is AI capable of in operations, and where does it fall short?</span></summary>
+<summary><span class="research-toggle__title">AI for Operations</span><span class="research-toggle__teaser"><em>What is AI capable of in operations, and where does it fall short?</em></span></summary>
 
 <div class="research-toggle__body">
 <p>I investigate the reliability of generative AI in high-stakes decision systems. My recent work (<a href="https://arxiv.org/abs/2511.14214"><em>AAAI 2026</em></a>) empirically audits the limits of LLMs in chronological reasoning, with implications for mitigating lookahead bias in forecasting tasks.</p>
@@ -231,10 +231,10 @@ Please refer to my [CV]({{ "/files/kenny_cv_september_2026.pdf" | relative_url }
 </details>
 
 <details class="research-toggle research-toggle--human-ai">
-<summary><span class="research-toggle__title">Human–AI Operations</span><span class="research-toggle__teaser">Allocating work across humans, autonomous models, and AI assistants.</span></summary>
+<summary><span class="research-toggle__title">Operations for AI</span><span class="research-toggle__teaser"><em>How should tasks, information, and decision rights be allocated in human–AI workflows, and when should AI augment versus automate work?</em></span></summary>
 
 <div class="research-toggle__body">
-<p>I study how firms should optimally design workflows and allocate tasks among humans, autonomous models, and AI assistants given differences in their capabilities, costs, speeds, and reliability. In <a href="https://www.nber.org/papers/w35663"><em>CentaurBench</em></a>, we show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent. Some frontier models excel at automation but perform poorly as assistants, highlighting the need to benchmark models for the roles they play within a workflow, not just their standalone performance.</p>
+<p>I study how firms should optimally design workflows and allocate tasks among humans, autonomous models, and AI assistants given differences in their capabilities, costs, speeds, and reliability. In <a href="https://www.nber.org/papers/w35663"><strong>CentaurBench</strong></a>, we show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent. Some frontier models excel at automation but perform poorly as assistants, highlighting the need to benchmark models for the roles they play within a workflow, not just their standalone performance.</p>
 
 <p>More broadly, I view integrating intelligence into enterprise workflows as a multifaceted operations problem, and not just a model selection problem. Tasks arrive dynamically and must be matched to heterogeneous agents whose performance may vary with workload, context, and time. Through the lenses of operations management and research, I hope to formalize and optimize these complex, evolving systems.</p>
 </div>
