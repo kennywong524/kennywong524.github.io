@@ -15,14 +15,12 @@ I’m passionate about teaching and believe it complements research. During my t
   - Teaching assistant under Prof. [Chiwei Yan](https://yanchiwei.github.io/)
   - Facilitating and deploying an AI agents team to play the award-winning [*Calyber: A Ridesharing Game*](https://ieor.berkeley.edu/uc-berkeley-ieor-at-the-2025-informs-annual-meeting/) with students in a graduate class.
 
-## Graduate & Undergraduate
-
-1. [IEOR 145/245: Fundamentals of Revenue Management](https://classes.berkeley.edu/search/class?f%5B%5D=cs_course_id%3A161612&f%5B%5D=course_number%3A145&f%5B%5D=subject_code%3AINDENG)
-  - Term: Fall 2026
-  - Grader under Prof. [Rajan Udwani](https://rudwani.ieor.berkeley.edu/)
 ## Undergraduate
 
-1. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1)
+2. [IEOR 145: Fundamentals of Revenue Management](https://classes.berkeley.edu/search/class?f%5B%5D=cs_course_id%3A161612&f%5B%5D=course_number%3A145&f%5B%5D=subject_code%3AINDENG)
+  - Term: Fall 2026
+  - Grader under Prof. [Rajan Udwani](https://rudwani.ieor.berkeley.edu/)
+3. [IEOR 142A: Introduction to Machine Learning & Data Analytics](https://classes.berkeley.edu/content/2025-fall-indeng-142a-1-lec-1)
   - Terms: Spring 2026 and Fall 2025
   - Tutor under Prof. [Phillip Kerger](https://phillipkerger.github.io/) and Prof. [Daniel Pirutinsky](https://pirutinsky.ieor.berkeley.edu/)
 4. Group Tutor for [Berkeley Engineering Students Services (CAEE)](https://engineering.berkeley.edu/students/academic-support/)
