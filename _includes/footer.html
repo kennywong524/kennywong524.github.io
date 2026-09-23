@@ -1,9 +1,0 @@
-<div class="footer-topline">
-  <p>&copy; {{ site.time | date: '%Y' }} {{ site.name }}</p>
-  <nav aria-label="Additional profiles">
-    {% if site.author.orcid %}<a href="{{ site.author.orcid }}">ORCID</a>{% endif %}
-    {% if site.author.researchgate %}<a href="{{ site.author.researchgate }}">ResearchGate</a>{% endif %}
-    {% if site.author.twitter %}<a href="https://x.com/{{ site.author.twitter }}">X</a>{% endif %}
-  </nav>
-</div>
-<p class="footer-colophon"><a href="{{ '/sitemap/' | relative_url }}">Sitemap</a><span aria-hidden="true"> · </span><a href="{{ '/feed.xml' | relative_url }}">Feed</a><span aria-hidden="true"> · </span>Built with <a href="https://jekyllrb.com/">Jekyll</a> &amp; <a href="https://academicpages.github.io/">AcademicPages</a>.</p>
