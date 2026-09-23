@@ -6,6 +6,11 @@ author_profile: true
 classes: compact-page talks-page
 ---
 
+<figure class="talk-feature">
+  <img src="{{ '/images/wharton-presentation-2026.png' | relative_url }}" alt="Kenny presenting at the 2026 Wharton Generative AI &amp; Business Conference">
+  <figcaption>Presenting at the 2026 Wharton Generative AI &amp; Business Conference.</figcaption>
+</figure>
+
 ## 2026
 - **2026 INFORMS Annual Meeting (MSOM Invited Session)** - San Francisco, CA. *November 2026 (scheduled)*
 - **2026 Wharton Generative AI & Business Conference** - San Francisco, CA. *September 2026* [[slides]](https://kennywong524.github.io/files/wharton-slide-final.pdf)
