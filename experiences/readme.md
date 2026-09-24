@@ -6,10 +6,6 @@ author_profile: false
 classes: research-page
 ---
 
-<figure class="research-feature">
-  <img src="{{ '/images/chronology-poster-2026.jpg' | relative_url }}" alt="Kenny standing beside his Do LLMs Understand Chronology? research poster" width="1600" height="1286">
-</figure>
-
 ## Conference Proceedings
 
 <article class="research-paper" markdown="1">
