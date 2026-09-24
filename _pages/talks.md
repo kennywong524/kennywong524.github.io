@@ -8,7 +8,6 @@ classes: compact-page talks-page
 
 <figure class="talk-feature">
   <img src="{{ '/images/wharton-presentation-2026.png' | relative_url }}" alt="Kenny presenting at the 2026 Wharton Generative AI &amp; Business Conference">
-  <figcaption>Presenting at the 2026 Wharton Generative AI &amp; Business Conference.</figcaption>
 </figure>
 
 ## 2026
