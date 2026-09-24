@@ -288,6 +288,8 @@ img, video { max-width: 100%; }
 .page.interests-page .page__content img { max-width: 100%; }
 .talk-feature { margin: 0 0 2rem; }
 .talk-feature img { display: block; width: min(100%, 760px); margin: 0 auto; border-radius: 6px; }
+.research-feature { margin: 0 0 2rem; }
+.research-feature img { display: block; width: min(100%, 600px); height: auto; margin: 0 auto; border-radius: 6px; }
 .interest-photo-row, .interest-media-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.3rem 0; }
 .interest-photo-row { align-items: center; }
 .interest-photo-row img { width: 100%; }
