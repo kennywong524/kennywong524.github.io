@@ -37,7 +37,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <h3><a href="https://www.nber.org/papers/w35663">CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks</a></h3>
     <p class="paper-authors">P. K. Wongchamcharoen, K. Gulati, M. M. Fong &amp; A. Nagaraj</p>
     <p>A model's ability to automate a task is distinct from its ability to assist another agent. Effective human–AI and AI–AI workflows require evaluating models for the roles they play, beyond their standalone performance.</p>
-    <div class="paper-links"><a href="https://www.nber.org/papers/w35663">NBER</a><a href="https://arxiv.org/abs/2608.18554">arXiv</a><a href="https://kennywong524.github.io/centaur-benchmark/">Project</a></div>
+    <div class="paper-links"><a href="https://www.nber.org/papers/w35663">NBER</a><a href="https://arxiv.org/abs/2608.18554">arXiv</a><a href="https://kennywong524.github.io/centaur-benchmark/">Project</a><a href="{{ '/files/CentaurBench-talk.html' | relative_url }}">Explainer</a></div>
   </article>
   <article class="paper-row">
     <p class="paper-meta">AAAI 2026 · Oral (Student Abstract) · Poster (AI4TS Workshop)</p>
