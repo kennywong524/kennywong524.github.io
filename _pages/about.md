@@ -44,6 +44,6 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <h3><a href="https://arxiv.org/abs/2511.14214">Do Large Language Models (LLMs) Understand Chronology?</a></h3>
     <p class="paper-authors">P. K. Wongchamcharoen &amp; P. Glasserman</p>
     <p>Testing the limits of chronological reasoning in LLMs, with implications for look-ahead bias in forecasting.</p>
-    <div class="paper-links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/42295">Proceedings</a><a href="https://arxiv.org/abs/2511.14214">arXiv</a><a href="https://github.com/kennywong524/chronollm">Code</a></div>
+    <div class="paper-links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/42295">Proceedings</a><a href="https://arxiv.org/abs/2511.14214">arXiv</a><a href="https://github.com/kennywong524/chronollm">Code</a><a href="{{ '/files/ChronoLLM-talk.html' | relative_url }}">Explainer</a></div>
   </article>
 </section>

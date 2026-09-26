@@ -33,6 +33,7 @@ Large language models have shown great potential as forecasting tools in finance
   <a href="https://underline.io/events/501/posters/21797/poster/145920-747-do-large-language-models-llms-understand-chronologyquestion-student-abstract?tab=poster">Poster</a>
   <a href="https://underline.io/lecture/138612-do-large-language-models-llms-understand-chronologyquestion-student-abstract">Talk</a>
   <a href="https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/10.AAAI_chronollms_AI4TS_camready_withcode.pdf">Extended paper</a>
+  <a href="{{ '/files/ChronoLLM-talk.html' | relative_url }}">Explainer</a>
 </div>
 
 <details class="paper-notes" markdown="1">
