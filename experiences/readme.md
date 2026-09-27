@@ -204,7 +204,7 @@ Bin Abdulla, Q. M., **Wongchamcharoen, P. K.**, Jamari, A., Lee J.
 
 </article>
 
-Please refer to my [CV]({{ "/files/kenny_cv_september_2026.pdf" | relative_url }}) for more detailed and complete research assistantships & publications.
+Please refer to my [CV]({{ "/files/kenny_cv_october_2026.pdf" | relative_url }}) for more detailed and complete research assistantships & publications.
 {: .research-note}
 
 ## Research interests
