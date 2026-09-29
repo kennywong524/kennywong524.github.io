@@ -34,7 +34,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <a class="section-link" href="{{ '/experiences/' | relative_url }}">All research <span aria-hidden="true">→</span></a>
   </div>
   <article class="paper-row">
-    <p class="paper-meta">NBER Working Paper · Accepted at NeurIPS 2026 AABA4ET Workshop</p>
+    <p class="paper-meta">NBER Working Paper · 2026 · NeurIPS 2026 AABA4ET Workshop (accepted)</p>
     <h3><a href="https://www.nber.org/papers/w35663">CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks</a></h3>
     <p class="paper-authors">P. K. Wongchamcharoen, K. Gulati, M. M. Fong &amp; A. Nagaraj</p>
     <p>A model's ability to automate a task is distinct from its ability to assist another agent. Effective human–AI and AI–AI workflows require evaluating models for the roles they play, beyond their standalone performance.</p>
