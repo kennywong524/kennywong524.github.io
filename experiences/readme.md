@@ -58,7 +58,7 @@ Large language models have shown great potential as forecasting tools in finance
 **Wongchamcharoen, P. K.**, Gulati, K., Fong, M. M., & Nagaraj, A.
 {: .research-entry__authors}
 
-*NBER Working Paper #35663*, 2026
+*NBER Working Paper #35663*, 2026 · Accepted at [*NeurIPS 2026 AABA4ET Workshop*](https://sites.google.com/view/aaba4et)
 {: .research-entry__venue}
 
 <details class="paper-abstract" markdown="1">
@@ -77,8 +77,9 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 </div>
 
 <details class="paper-notes" markdown="1">
-<summary>Conference presentation</summary>
+<summary>Conference presentations</summary>
 
+- Accepted at the [*NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET)*](https://sites.google.com/view/aaba4et).
 - Presented at *the 2026 Wharton Generative AI & Business Conference.* [[slides]](https://kennywong524.github.io/files/wharton-slide-final.pdf)
 
 </details>

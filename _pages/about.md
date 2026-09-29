@@ -22,6 +22,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
   </div>
   <ul class="news-list">
     <li><time datetime="2026-11">Nov 2026</time><p>I'll present <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068"><em>On-Off Systems with Strategic Customers</em></a> at the MSOM Invited Session of INFORMS in San Francisco. I'd love to connect!</p></li>
+    <li><time datetime="2026-09">Sep 2026</time><p><a href="https://www.nber.org/papers/w35663"><em>CentaurBench</em></a> was accepted at the <a href="https://sites.google.com/view/aaba4et"><em>NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET)</em></a>!</p></li>
     <li><time datetime="2026-09">Sep 2026</time><p>I’ll be presenting <a href="https://www.nber.org/papers/w35663"><em>CentaurBench</em></a> at the <a href="https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/">Wharton Generative AI &amp; Business Conference</a> on September 9–10, 2026.</p></li>
     <li><time datetime="2026-06">Jun 2026</time><p>Awarded the Tau Beta Pi Scholarship for academic achievement, extracurricular activities, and promise of contributions to the engineering profession.</p></li>
   </ul>
@@ -33,7 +34,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <a class="section-link" href="{{ '/experiences/' | relative_url }}">All research <span aria-hidden="true">→</span></a>
   </div>
   <article class="paper-row">
-    <p class="paper-meta">NBER Working Paper · 2026</p>
+    <p class="paper-meta">NBER Working Paper · Accepted at NeurIPS 2026 AABA4ET Workshop</p>
     <h3><a href="https://www.nber.org/papers/w35663">CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks</a></h3>
     <p class="paper-authors">P. K. Wongchamcharoen, K. Gulati, M. M. Fong &amp; A. Nagaraj</p>
     <p>A model's ability to automate a task is distinct from its ability to assist another agent. Effective human–AI and AI–AI workflows require evaluating models for the roles they play, beyond their standalone performance.</p>
