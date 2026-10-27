@@ -216,7 +216,7 @@ Please refer to my [CV]({{ "/files/kenny_cv_october_2026.pdf" | relative_url }})
 <summary><span class="research-toggle__title">Data-Driven Service Operations &amp; Market Design</span><span class="research-toggle__teaser"><em>How should service systems and markets be designed when participants behave strategically?</em></span></summary>
 
 <div class="research-toggle__body">
-<p>I study the design of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine tools from stochastic optimization, game theory, and empirical methods to model and analyze operational decisions, focusing primarily on public-sector problems such as urban transportation, as well as pricing and matching in online platforms.</p>
+<p>I study the design of dynamic service systems in which information is asymmetric and participants respond strategically to prices, incentives, and system conditions. I combine tools from stochastic optimization, game theory, and strategic queueing to model and analyze operational decisions, focusing primarily on public-sector problems such as urban transportation, as well as pricing and matching in online platforms.</p>
 
 <p>On the application side, I developed dwell-time allocation policies for <a href="https://www.bart.gov/">San Francisco Bay Area Rapid Transit (BART)</a> that helped improve throughput on its Yellow Line while accounting for strategic passenger arrivals. I also helped design <a href="https://pubsonline.informs.org/doi/full/10.1287/ited.2025.0163ca?af=R"><em>Calyber: A Ridesharing Game</em></a> (<a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/INFORMS-Case-Competition"><strong>2025 INFORMS Case Competition Runner-up</strong></a>), a case study deployed in a graduate-level supply chain course at Berkeley, where students develop dynamic pricing and matching policies for a Chicago ride-hailing company.</p>
 
@@ -235,7 +235,7 @@ Please refer to my [CV]({{ "/files/kenny_cv_october_2026.pdf" | relative_url }})
 </details>
 
 <details class="research-toggle research-toggle--human-ai">
-<summary><span class="research-toggle__title">Operations for AI</span><span class="research-toggle__teaser"><em>How should tasks, information, and decision rights be allocated in human–AI workflows, and when should AI augment versus automate work?</em></span></summary>
+<summary><span class="research-toggle__title">Operations for AI</span><span class="research-toggle__teaser"><em>How should tasks, information, and decision rights be allocated in human-AI workflows, and when should AI augment versus automate work?</em></span></summary>
 
 <div class="research-toggle__body">
 <p>I study how firms should optimally design workflows and allocate tasks among humans, autonomous models, and AI assistants given differences in their capabilities, costs, speeds, and reliability. In <a href="https://www.nber.org/papers/w35663"><strong>CentaurBench</strong></a>, we show that a model's ability to automate a task is distinct from its ability to <em>assist</em> another agent. Some frontier models excel at automation but perform poorly as assistants, highlighting the need to benchmark models for the roles they play within a workflow, not just their standalone performance.</p>
