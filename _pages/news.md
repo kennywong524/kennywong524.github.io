@@ -10,7 +10,7 @@ author_profile: false
 - **Sep 2026** — **Wharton Generative AI & Business Conference**, San Francisco, CA
 
 ## News
-- **Nov 2026** — I will be presenting our paper [*On-Off Systems with Strategic Customers*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068) at the **MSOM Invited Session** of the **INFORMS Annual Meeting 2026**. The session is at 4:15-5:30 PM PST in Moscone South-62 (Lower Mezz). If you’re attending, I’d love to connect!
+- **Nov 2026** — I'll present [*On-Off Systems with Strategic Customers*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068) at [2026 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in San Francisco. The session is ME03: MSOM Invited Session at 4:15-5:30 PM PST in Moscone South-62 (Lower Mezz). I'd love to connect!
 - **Sep 2026** — [*CentaurBench*](https://www.nber.org/papers/w35663) was accepted at the [*NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET)*](https://sites.google.com/view/aaba4et)!
 - **Sep 2026** — I’ll be presenting [*CentaurBench*](https://www.nber.org/papers/w35663) at the [*Wharton Generative AI & Business Conference*](https://ai.wharton.upenn.edu/business-generative-ai-conference-2026/speakers/) on September 9–10, 2026.
 - **Jun 2026** — Awarded the **Tau Beta Pi Scholarship**, given in recognition of academic achievement, extracurricular activities, and the promise of substantial contributions to the engineering profession.
