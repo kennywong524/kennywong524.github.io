@@ -87,6 +87,30 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 
 </article>
 
+<article class="research-paper" markdown="1">
+
+### [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068)
+{: .research-entry__title}
+
+Sun, Y., **Wongchamcharoen, P. K.**, Liu, Z., Yan, C.
+{: .research-entry__authors}
+
+*Under revision*
+{: .research-entry__venue}
+
+<details class="paper-abstract" markdown="1">
+<summary>Abstract</summary>
+
+Motivated by applications such as rapid transit and make-to-order systems, we study a fluid model of a many-server on-off system with multiple queues. Each server visits the queues in a prescribed order. A queue is "on" when it is being served and "off" otherwise. Customers of each queue arrive over time and decide whether to join. Services are exhaustive: servers must clear each queue before departing, while the planner determines how long they remain after each queue is first cleared. We characterize the customer equilibrium as the solution to a bounded linear complementarity problem and develop an algorithm with closed-form updates that computes the unique equilibrium in at most n steps, where n is the number of queues. We then develop an O(n^2)-time algorithm, independent of the number of servers, for computing the optimal service policy. We further show that, under an optimal policy, service is extended beyond first clearance at no more than m queues, where m is the number of servers. This structural result yields a sharper optimization procedure that requires at most 2n steps in the single-server case. We also extend our analysis to settings beyond exhaustive services. We illustrate these results using data from Bay Area Rapid Transit, where we optimize train schedules and station dwell times, recovering almost all lost ridership due to prolonged waiting times without adding vehicles.
+
+</details>
+
+<div class="paper-links">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a>
+</div>
+
+</article>
+
 ## Contributions as an RA
 
 <article class="research-paper" markdown="1">
@@ -118,30 +142,6 @@ This case introduces Calyber, a simulation-based game designed to provide a hand
 - 🏆 *Runner-up, 2025 INFORMS Case Competition*
 
 </details>
-
-</article>
-
-<article class="research-paper" markdown="1">
-
-### [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068)
-{: .research-entry__title}
-
-Sun, Y., Liu, Z., Yan, C.
-{: .research-entry__authors}
-
-*Under revision*
-{: .research-entry__venue}
-
-<details class="paper-abstract" markdown="1">
-<summary>Abstract</summary>
-
-Motivated by applications such as rapid transit and make-to-order systems, we study a fluid model of a many-server on-off system with multiple queues. Each server visits the queues in a prescribed order. A queue is "on" when it is being served and "off" otherwise. Customers of each queue arrive over time and decide whether to join. Services are exhaustive: servers must clear each queue before departing, while the planner determines how long they remain after each queue is first cleared. We characterize the customer equilibrium as the solution to a bounded linear complementarity problem and develop an algorithm with closed-form updates that computes the unique equilibrium in at most n steps, where n is the number of queues. We then develop an O(n^2)-time algorithm, independent of the number of servers, for computing the optimal service policy. We further show that, under an optimal policy, service is extended beyond first clearance at no more than m queues, where m is the number of servers. This structural result yields a sharper optimization procedure that requires at most 2n steps in the single-server case. We also extend our analysis to settings beyond exhaustive services. We illustrate these results using data from Bay Area Rapid Transit, where we optimize train schedules and station dwell times, recovering almost all lost ridership due to prolonged waiting times without adding vehicles.
-
-</details>
-
-<div class="paper-links">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a>
-</div>
 
 </article>
 
