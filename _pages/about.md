@@ -47,7 +47,7 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">On-Off Systems with Strategic Customers</a></h3>
     <p class="paper-authors">Y. Sun, P. K. Wongchamcharoen, Z. Liu &amp; C. Yan</p>
     <p>Strategic queueing in service operations with an application in optimizing station dwell times on Bay Area Rapid Transit (BART)'s Yellow Line, increasing throughput without adding vehicles and services.</p>
-    <div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a></div>
+    <div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a><a href="https://onoff-informs26.pages.dev/">Interactive Slides</a></div>
   </article>
   <article class="paper-row">
     <p class="paper-meta">AAAI 2026 · Oral (Student Abstract) · Poster (AI4TS Workshop)</p>

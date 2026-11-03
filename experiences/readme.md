@@ -107,7 +107,15 @@ Motivated by applications such as rapid transit and make-to-order systems, we st
 
 <div class="paper-links">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a>
+  <a href="https://onoff-informs26.pages.dev/">Interactive Slides</a>
 </div>
+
+<details class="paper-notes" markdown="1">
+<summary>Conference presentations</summary>
+
+- Presented at an MSOM Invited Session, INFORMS Annual Meeting 2026.
+
+</details>
 
 </article>
 
