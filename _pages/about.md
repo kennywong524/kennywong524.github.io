@@ -41,6 +41,13 @@ At Berkeley, I am privileged to work with and be advised by [Chiwei Yan](https:/
     <div class="paper-links"><a href="https://www.nber.org/papers/w35663">NBER</a><a href="https://arxiv.org/abs/2608.18554">arXiv</a><a href="https://kennywong524.github.io/centaur-benchmark/">Project</a><a href="{{ '/files/CentaurBench-talk.html' | relative_url }}">Explainer</a></div>
   </article>
   <article class="paper-row">
+    <p class="paper-meta">Working paper · Under revision</p>
+    <h3><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">On-Off Systems with Strategic Customers</a></h3>
+    <p class="paper-authors">Y. Sun, P. K. Wongchamcharoen, Z. Liu &amp; C. Yan</p>
+    <p>Strategic queueing in service operations: applying our model to optimize station dwell times on BART's Yellow Line and improve corridor throughput without adding vehicles.</p>
+    <div class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068">Paper</a></div>
+  </article>
+  <article class="paper-row">
     <p class="paper-meta">AAAI 2026 · Oral (Student Abstract) · Poster (AI4TS Workshop)</p>
     <h3><a href="https://arxiv.org/abs/2511.14214">Do Large Language Models (LLMs) Understand Chronology?</a></h3>
     <p class="paper-authors">P. K. Wongchamcharoen &amp; P. Glasserman</p>
