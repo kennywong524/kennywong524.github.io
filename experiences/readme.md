@@ -92,7 +92,7 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 ### [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068)
 {: .research-entry__title}
 
-Sun, Y., **Wongchamcharoen, P. K.**, Liu, Z., Yan, C.
+With Y. Sun, Z. Liu, and C. Yan.
 {: .research-entry__authors}
 
 *Under revision*
