@@ -6,7 +6,7 @@ author_profile: true
 classes: compact-page interests-page
 ---
 
-Outside academics, I love teaching -- check out my [Foundations of Machine Learning (Fall 2025)](https://kennywong524.github.io/foml-fall-2025/#home) course and [others](https://kennywong524.github.io/teaching/) I have been involved in! I'm also a big music fan; I regularly sing, play the piano and guitar with my acapella group on campus, [**Artists in Resonance (AiR)**](https://www.instagram.com/artistsinresonance/). Check out some of our performances [here](https://www.youtube.com/@ArtistsInResonance/videos?themeRefresh=1). I also occasionally post song covers on Instagram at [@kennysjamss](https://www.instagram.com/kennysjamss/) (shameless plug :)).
+Outside academics, I love teaching. Check out my [Foundations of Machine Learning (Fall 2025)](https://kennywong524.github.io/foml-fall-2025/#home) course and [others](https://kennywong524.github.io/teaching/) I have been involved in! I'm also a big music fan; I regularly sing, play the piano and guitar with my acapella group on campus, [**Artists in Resonance (AiR)**](https://www.instagram.com/artistsinresonance/). Check out some of our performances [here](https://www.youtube.com/@ArtistsInResonance/videos?themeRefresh=1). I also occasionally post song covers on Instagram at [@kennysjamss](https://www.instagram.com/kennysjamss/) (shameless plug :)).
 
 Being outdoor has also gradually become my pastime: hiking the [Columbia River Gorge Waterfalls](https://drive.google.com/file/d/1FHQTwDUoByfMALZF_voISsyeZZgYFGMX/view?usp=sharing) in Oregon, running the [Central Park Loop](https://drive.google.com/file/d/1wwBYRMOQZMrw8VbnTr5QRI58awod7uAX/view?usp=sharing) in New York, and watching the daily [California Sunset](https://drive.google.com/file/d/1c3r-572HvjX8nyTydSRLMGhnvlq8lkCb/view?usp=sharing) in Berkeley are some of my all-time favorites! (Follow me on [Strava](https://www.strava.com/athletes/174517136)) 
 
@@ -54,9 +54,9 @@ Thank you to Professor [Phillip Kerger](https://phillipkerger.github.io/) for co
 
 ---
 
-## 🎤 IISE Annual Conference & Expo 2026 — Arlington, TX
+## 🎤 IISE Annual Conference & Expo 2026 (Arlington, TX)
 
-Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arlington, Texas. And of course — no Texas trip is complete without **Texas BBQ**. Already missing the brisket at Terry Black's!
+Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arlington, Texas. And of course, no Texas trip is complete without **Texas BBQ**. Already missing the brisket at Terry Black's!
 
 <div class="interest-photo-row">
   <img src="iise-talk.png" alt="Presenting at IISE 2026">
@@ -66,9 +66,9 @@ Had a great time presenting at the **2026 IISE Annual Conference & Expo** in Arl
 
 ---
 
-## 👩‍🏫 Another iteration of FoML — Spring '26 — wrapped up!
+## 👩‍🏫 Another iteration of FoML (Spring '26) wrapped up!
 
-Just finished teaching another round of **Foundations of Machine Learning (FoML)** this spring — and this time we ran our **first-ever "vibecoding" session**!
+Just finished teaching another round of **Foundations of Machine Learning (FoML)** this spring, and this time we ran our **first-ever "vibecoding" session**!
 It was so rewarding to watch students, many with **no prior coding experience**, use AI to work through an entire ML pipeline / data analytics lifecycle for their final project.
 
 <p align="center">
@@ -79,9 +79,9 @@ It was so rewarding to watch students, many with **no prior coding experience**,
 
 ---
 
-## 🌏 Presenting at AAAI ’26 — my first international conference!
+## 🌏 Presenting at AAAI ’26: my first international conference!
 
-Still can’t believe I got to attend and present at AAAI 2026—my first international conference and a pretty surreal moment as an undergrad. I had so much fun sharing our work, getting thoughtful feedback, and meeting researchers whose papers I’ve been reading for years.
+Still can’t believe I got to attend and present at AAAI 2026, my first international conference and a pretty surreal moment as an undergrad. I had so much fun sharing our work, getting thoughtful feedback, and meeting researchers whose papers I’ve been reading for years.
 
 A few takeaways I’m leaving with:
 - Momentum around smaller, more transparent (often open-source) models
@@ -100,7 +100,7 @@ Also loved reconnecting with old friends and making new ones. Kinda sad to leave
 
 ## 👩‍🏫 Wrapping up Fall '25 Foundations of Machine Learning (FoML)!
 
-Presentation day for our **Foundations of Machine Learning (FoML)** class this semester, and it was such a rewarding experience—helping students build intuition for core ML ideas without calculus!
+Presentation day for our **Foundations of Machine Learning (FoML)** class this semester, and it was such a rewarding experience: helping students build intuition for core ML ideas without calculus!
 You can check out highlights/materials **[here](https://kennywong524.github.io/foml-fall-2025/#home)**.
 
 <p align="center">
