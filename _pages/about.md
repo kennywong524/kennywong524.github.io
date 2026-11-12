@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a senior at UC Berkeley, majoring in Industrial Engineering & Operations Research and minoring in Data Science and Mathematics. My research lies at the intersection of **operations management, AI, and data-driven decision-making**.
 
-I study how to design large-scale service systems when participants respond strategically to the policies that govern them, with applications in transportation and public-sector operations. For example, I collaborate with Bay Area Rapid Transit (BART) to [optimize station dwell times on its Yellow Line](https://onoff-informs26.pages.dev/) and improve throughput without adding vehicles. I also study the capabilities and limits of AI in operations, and how organizations should best integrate intelligent agents into workflows such as when to automate, when to augment, and when to escalate to humans. My work draws on operations research, data science, and applied economics.
+I study how to design large-scale service systems when participants respond strategically to the policies that govern them, with applications in transportation and public-sector operations. For example, I collaborate with Bay Area Rapid Transit (BART) to [optimize station dwell times on its Yellow Line](https://ucits.org/projects/passenger-focused-analysis-and-optimization-of-bart-schedules/) and improve throughput without adding vehicles. I also study the capabilities and limits of AI in operations, and how organizations should best integrate intelligent agents into workflows such as when to automate, when to augment, and when to escalate to humans. My work draws on operations research, data science, and applied economics.
 
 [More about my research interests →]({{ '/experiences/#research-interests' | relative_url }})
 
