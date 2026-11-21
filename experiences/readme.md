@@ -81,7 +81,7 @@ Most LLM benchmarks rank models on their ability to automate work tasks. In prac
 
 - Accepted at the [*NeurIPS 2026 Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET)*](https://sites.google.com/view/aaba4et).
 - Presented at *the 2026 Wharton Generative AI & Business Conference.* [[slides]](https://kennywong524.github.io/files/wharton-slide-final.pdf)
-- To be presented at the *2026 Stanford Digital Economy Lab AI & Economy Conference*.
+- To be presented at the [*2026 Stanford Digital Economy Lab AI & Economy Conference*](https://digitaleconomy.stanford.edu/event/how-ai-is-changing-the-economy-new-evidence-on-work-growth-and-economic-transformation/) (presentation by co-author).
 
 </details>
 
