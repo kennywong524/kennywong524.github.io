@@ -12,6 +12,7 @@ classes: compact-page talks-page
 
 ## 2026
 - **2026 INFORMS Annual Meeting (MSOM Invited Session)** - San Francisco, CA. November 2026 [[slides]](https://onoff-informs26.pages.dev/)
+  - [*On-Off Systems with Strategic Customers*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). Sun, Y., **Wongchamcharoen, P. K.**, Liu, Z., Yan, C.
 - **2026 Wharton Generative AI & Business Conference** - San Francisco, CA. *September 2026* [[slides]](https://kennywong524.github.io/files/wharton-slide-final.pdf)
 - **“AI Is Getting Smarter… Are We Cooked?”: Research Perspectives on the Capabilities, Limits, and Future of AI** - Berkeley, CA. *August 2026.*
   - Given at the Berkeley Engineering Summer Machine-learning & AI Research Training (BeSMART) program. [[slides]](https://kennywong524.github.io/files/BESMART-talk-2026.pdf)
